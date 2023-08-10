@@ -1,0 +1,50 @@
+title: planet+AI
+name: planet+AI
+author: Ping Wang
+description: 
+logo: 'assets/images/logo.png'
+favicon: 'favicon.ico'
+keywords: [AI]
+baseurl: ""
+url: "https://planet-ai-2023.github.io"
+
+
+
+# Google Analytics id, e.g. "UA-NNNNNNNN-N"
+google_analytics: ""
+
+
+  
+
+# The shortname for your Disqus site to enable comments.
+disqus:
+
+# Colors
+accent_color: '#2d72d9'
+
+# Site footer
+
+
+plugins:
+  - jekyll-paginate
+
+
+
+paginate: 24
+paginate_path: '/page:num/'
+
+
+# Permalinks
+permalink: pretty
+
+# Conversion
+markdown: kramdown
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+include:
+  - _pages
+
+exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
