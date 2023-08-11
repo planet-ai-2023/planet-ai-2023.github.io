@@ -5,8 +5,8 @@
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 11 Aug 2023 13:05:38 -0400</pubDate>
-    <lastBuildDate>Fri, 11 Aug 2023 13:05:38 -0400</lastBuildDate>
+    <pubDate>Fri, 11 Aug 2023 13:44:06 -0400</pubDate>
+    <lastBuildDate>Fri, 11 Aug 2023 13:44:06 -0400</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -49,6 +49,8 @@
         <guid isPermaLink="true">http://localhost:4000/2023/08/08/using-stable-diffusion-webui-on-google-colab/</guid>
         
         <category>resources</category>
+        
+        <category>tutorials</category>
         
         
       </item>
@@ -93,6 +95,8 @@ Click &lt;code&gt;Save&lt;/code&gt;.
         <guid isPermaLink="true">http://localhost:4000/2023/08/08/google-colab-tutorial/</guid>
         
         <category>resources</category>
+        
+        <category>tutorials</category>
         
         
       </item>
