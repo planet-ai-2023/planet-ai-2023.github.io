@@ -5,8 +5,8 @@
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 10 Aug 2023 12:23:56 -0400</pubDate>
-    <lastBuildDate>Thu, 10 Aug 2023 12:23:56 -0400</lastBuildDate>
+    <pubDate>Fri, 11 Aug 2023 13:05:38 -0400</pubDate>
+    <lastBuildDate>Fri, 11 Aug 2023 13:05:38 -0400</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -44,9 +44,53 @@
 &lt;/ol&gt;
 
 </description>
-        <pubDate>Fri, 07 Jul 2023 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/2023/07/07/using-stable-diffusion-webui-on-google-colab/</link>
-        <guid isPermaLink="true">http://localhost:4000/2023/07/07/using-stable-diffusion-webui-on-google-colab/</guid>
+        <pubDate>Tue, 08 Aug 2023 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2023/08/08/using-stable-diffusion-webui-on-google-colab/</link>
+        <guid isPermaLink="true">http://localhost:4000/2023/08/08/using-stable-diffusion-webui-on-google-colab/</guid>
+        
+        <category>resources</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Google Colab Tutorial</title>
+        <description>&lt;p&gt;Google Colab is a free Jupyter notebook environment that runs in the cloud. You can use Google Colab from your browser so you don’t have to install anything on your own computer. With Google Colab, you can access Google’s computing resources, write and execture code, save and share.&lt;/p&gt;
+
+&lt;h1 id=&quot;use-the-bash-commands&quot;&gt;Use the Bash Commands&lt;/h1&gt;
+&lt;p&gt;You can use most of the bash commands with a &lt;code&gt;!&lt;/code&gt; added in front of the command.&lt;/p&gt;
+&lt;h1 id=&quot;use-gpus-on-colab&quot;&gt;Use GPUs on Colab&lt;/h1&gt;
+&lt;p&gt;If you use the free GPU, click and choose &lt;code&gt;Runtime&lt;/code&gt; -&amp;gt; &lt;code&gt;Change Runtime Type&lt;/code&gt; -&amp;gt; &lt;code&gt;Hardware accelerator&lt;/code&gt; &lt;br /&gt;
+If you use the paid version of the GPUs, click and choose &lt;code&gt;Runtime&lt;/code&gt; -&amp;gt; &lt;code&gt;Change Runtime Type&lt;/code&gt;,then you will choose the following:
+&lt;img width=&quot;350&quot; src=&quot;/assets/images/gpu_colab.png&quot; class=&quot;img-fluid&quot; alt=&quot;Colab GPUs&quot; /&gt; &lt;br /&gt;
+Click &lt;code&gt;Save&lt;/code&gt;.
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;h1 id=&quot;ubuntu-20045-lts-at-the-time-of-this-writing&quot;&gt;Ubuntu 20.04.5 LTS at the time of this writing&lt;/h1&gt;
+&lt;p&gt;The Colab notebook is running on top of the Ubuntu 20.04.5 LTS at the time of this writing (2/3/2023).
+&lt;img width=&quot;700&quot; src=&quot;/assets/images/ubuntu.png&quot; class=&quot;img-fluid&quot; alt=&quot;Ubuntu&quot; /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;h1 id=&quot;check-gpus&quot;&gt;Check GPUs&lt;/h1&gt;
+&lt;p&gt;&lt;img width=&quot;700&quot; src=&quot;/assets/images/check_gpu.png&quot; class=&quot;img-fluid&quot; alt=&quot;GPUs&quot; /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;h1 id=&quot;check-cuda-version-and-etc&quot;&gt;Check Cuda Version and etc.&lt;/h1&gt;
+&lt;p&gt;&lt;img width=&quot;700&quot; src=&quot;/assets/images/check_version.png&quot; class=&quot;img-fluid&quot; alt=&quot;Check Cuda&quot; /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;h1 id=&quot;install-python-39&quot;&gt;Install Python 3.9&lt;/h1&gt;
+&lt;p&gt;&lt;img width=&quot;700&quot; src=&quot;/assets/images/install_python.png&quot; class=&quot;img-fluid&quot; alt=&quot;Install Python 3.9&quot; /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 08 Aug 2023 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2023/08/08/google-colab-tutorial/</link>
+        <guid isPermaLink="true">http://localhost:4000/2023/08/08/google-colab-tutorial/</guid>
         
         <category>resources</category>
         

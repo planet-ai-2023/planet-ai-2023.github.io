@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Using Stable Diffusion WebUI on Google Colab"
-date: 2023-07-07
+date: 2023-08-08
 image: assets/images/webui.png
 tags: [ resources ]
 ---
