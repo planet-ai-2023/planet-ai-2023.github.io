@@ -12,6 +12,9 @@
 <loc>http://localhost:4000/about/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/tag/apollo/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/tag/archives/</loc>
 </url>
 <url>
@@ -31,9 +34,6 @@
 </url>
 <url>
 <loc>http://localhost:4000/tag/podcasts/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/tag/projectApollo/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/tag/resources/</loc>
