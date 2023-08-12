@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>planet+AI</title>
-    <description>A significant amount of evidence to support NASA landed 12 astronauts on the Moon from 1969-1972 is NASA has 382 kilograms of astronaut-collected Moon rocks studied by scientists worldwide for decades</description>
+    <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 12 Aug 2023 16:29:19 -0400</pubDate>
-    <lastBuildDate>Sat, 12 Aug 2023 16:29:19 -0400</lastBuildDate>
+    <pubDate>Sat, 12 Aug 2023 16:45:09 -0400</pubDate>
+    <lastBuildDate>Sat, 12 Aug 2023 16:45:09 -0400</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
