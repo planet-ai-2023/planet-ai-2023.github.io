@@ -5,9 +5,141 @@
     <description>The moon is beautiful, isn&apos;t it?</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 22 Aug 2023 11:06:14 -0400</pubDate>
-    <lastBuildDate>Tue, 22 Aug 2023 11:06:14 -0400</lastBuildDate>
+    <pubDate>Tue, 22 Aug 2023 12:14:30 -0400</pubDate>
+    <lastBuildDate>Tue, 22 Aug 2023 12:14:30 -0400</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
+    
+      <item>
+        <title>The Apollo Glossary</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Accretion&lt;/strong&gt; &lt;br /&gt;
+The process by which planetary bodies increase in size by incorporating interplanetary material&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Aeon&lt;/strong&gt; &lt;br /&gt;
+10&lt;sup&gt;9&lt;/sup&gt; years&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Agglutinate&lt;/strong&gt; &lt;br /&gt;
+A common particle type in lunar soils, agglutinates consist of comminuted rock, mineral and glass fragments bonded together with glass. The glass is black or dark brown in bulk, but pale brown to very dark brown in thin section, and is charateristically heterogeneous, with dark brown to black flow banding or “schlieren”&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Albedo&lt;/strong&gt; &lt;br /&gt;
+The percentage of the incoming sunglight that is reflected by a natural surface&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Anorthosite&lt;/strong&gt; &lt;br /&gt;
+Term used for lunar rock with over 90% modal or normative plagioclase. Has also been used rather loosely to encompass all feldspathic rocks in the lunar highlands&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Basalt&lt;/strong&gt; &lt;br /&gt;
+Fine grained, commonly extrusive, mafic igneous rock composed chiefly of calcic plagioclase and clinopyroxene in a glassy or fine-grained groundmass. Lunar basalts contain plagioclase of bytownitic or anorhitic composition and ilmenite as a major phase. Term is also used in a purely compositional sense for lithic fragments and glasses.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Basin&lt;/strong&gt;&lt;br /&gt;
+A large impact crater, usually with a diameter in excess of 100 kilometers. Most basins have been modified by degradation of the original basin relief through dwonslope movement of the debris and flooding of the basin interior by lavas.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Breccia&lt;/strong&gt; &lt;br /&gt;
+Clastic rock composed of angular clasts cemented together ina  finer-grained matrix&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Cataclastic&lt;/strong&gt; &lt;br /&gt;
+A metamorphic texture produced by mechanical crushing, charaterized by granular, fragmentary, or strained crystals.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Crater&lt;/strong&gt;&lt;br /&gt;
+A typically bowl-shaped or saucer-shaped pit or depressions, generally of considerable size and with steep inner slopes, formed on a surface or in the grond by the explosive release of chemical or kinetic energy, e.g., an impact crater or an explosion crater.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Dark matrix breccia&lt;/strong&gt; &lt;br /&gt;
+Polymict breccia with dark-colored glassy or fine-grained matrix. Used specifically for breccias containing lithic clasts angular to spherical glass fragments, and single crystals in a matrix of brown glass.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Diaplectic glass&lt;/strong&gt; &lt;br /&gt;
+Glass formed in the solid state from a single mineral grain due to the passage of a shock wave.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Dunite&lt;/strong&gt; &lt;br /&gt;
+Used for lunar rocks with over 90% modal or normative olivine.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Ejecta&lt;/strong&gt; &lt;br /&gt;
+Materials ejected from the immediate crater by a volcanic explosion or meteroid impact&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Exposure age&lt;/strong&gt; &lt;br /&gt;
+Period of time during which a sample has been at or near the lunar surface, assessed on the basis of cosmogenic rare gas contents, particle track densities, short-lived radioisotopes, or agglutinate contents in the case of soil samples&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Highland basalt&lt;/strong&gt; &lt;br /&gt;
+Compositional term for rocks or glasses with the composition of very aluminous basalt&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Highlands&lt;/strong&gt; &lt;br /&gt;
+The densely cratered portions of the Moon that are typically at higher elevations than the mare plains. The highlands contain a significant proportion of anorthorsite, an igenous rock made up almost entirely of plagioclase feldspar.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Impact melt&lt;/strong&gt; &lt;br /&gt;
+Melt produced by fusion of target rock due to impact of a meteroid&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Lava&lt;/strong&gt; &lt;br /&gt;
+A volcanic rock poruded by the eruption of molten material&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Mare&lt;/strong&gt; &lt;br /&gt;
+The low albedo plains covering the floors of several large basins and spreading over adjacent areas. The mare material is comprised primarily of basaltic lava flows, in contrast to the anorthosites in the highlands.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Mare basalt&lt;/strong&gt; &lt;br /&gt;
+Basaltic igneous rocks from the mare regions of the moon characterized by high FeO (&amp;gt;14), commonly high TiO&lt;sub&gt;2&lt;/sub&gt;, low Al&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;3&lt;/sub&gt; (&amp;lt;11&amp;gt;) and low-alkali contents. Major minerals are clinopyroxene and calcic plagioclase, with lesser Fe-Ti-Cr oxides, metallic iron, and troilite. Olivine or a SiO&lt;sub&gt;2&lt;/sub&gt; polymorph or both are common.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Monomic breccia&lt;/strong&gt; &lt;br /&gt;
+A breccia formed by fracturing and mixing of material from a single source without admixture of unrelated material (cf. Polymict breccia).&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Polymict breccia&lt;/strong&gt; &lt;br /&gt;
+A breccia containing fragments of different compositions and origins (cf. Monomict breccia).&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Norite&lt;/strong&gt; &lt;br /&gt;
+Rock of basic composition consisting essentially of plagioclase and orthopyroxene; clinopyroxene should not exceed half of the total pyroxene content. Term has been used for a variety of lunar rocks that are generally basaltic in composition with orthopyroxene as a major phase; also used for basaltic composition in which the normative pyroxene is low in Ca.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Regolith&lt;/strong&gt; &lt;br /&gt;
+Lunar regolith is the fragmental debris, produced principally by impact processes, which lies on bedrock.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Regolith breccia&lt;/strong&gt; &lt;br /&gt;
+Soil breccia&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Troctolite&lt;/strong&gt; &lt;br /&gt;
+Terms for lunar rocks consisting essentially of plagioclase and olivine with little or no pyroxene. If spinel-bearing, it is termed spinel-troctolite.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Vitrification&lt;/strong&gt; &lt;br /&gt;
+Formation of a glass from a crystalline precursors generally by impact melting&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+The thumbnail image of this article is &lt;em&gt;Far Side of the Moon&lt;/em&gt; by NASA. This image of the moon was obtained by the Galileo Solid State imaging system on Dec. 8 at 7 p.m. PST as the Galileo spacecraft passed the Earth and was able to view the lunar surface from a vantage point not possible from the Earth. On the right-hand side of the image is seen the dark maria of Oceanus Procellarum, also visible from the Earth. The dark spots in the center are Mare Orientale, on the western limb of the nearside of the moon, a region barely visible from the Earth. This region and the bright far side highlands on the left have not been seen previously by a camera system such as the one on the Galileo spacecraft, which provides multispectral images of the lunar limb and far side which have not previously been obtained. Comparison of such images to those of the near-side areas from which Apollo astronauts have returned samples will help us understand the spectral properties and composition of the lunar far side. &lt;em&gt;Image Credit&lt;/em&gt;: JPL.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 09 Aug 2023 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2023/08/09/the-apollo-glossary/</link>
+        <guid isPermaLink="true">http://localhost:4000/2023/08/09/the-apollo-glossary/</guid>
+        
+        <category>resources</category>
+        
+        <category>projectApollo</category>
+        
+        
+      </item>
     
       <item>
         <title>Project Apollo Related Links</title>
@@ -20,7 +152,7 @@
   &lt;li&gt;&lt;a href=&quot;https://www.nasa.gov/mission_pages/apollo/images.html&quot; target=&quot;_blank&quot;&gt;The Apollo Image Gallery (NASA)&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.darts.isas.jaxa.jp/planet/project/selene/hdtv/index.html.en&quot; target=&quot;_blank&quot;&gt;Kaguya HDTV Data (JAXA)&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://pubs.usgs.gov/publication/pp1048&quot; target=&quot;_blank&quot;&gt;The Apollo Landing Site Geology (USGS)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.lpi.usra.edu/resources/apollo/&quot; target=&quot;_blank&quot;&gt;The Apollo Image Atlas&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.lpi.usra.edu/resources/apollo&quot; target=&quot;_blank&quot;&gt;The Apollo Image Atlas&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.lpi.usra.edu/resources/apollopanoramas/&quot; target=&quot;_blank&quot;&gt;Apollo Surface Panoramas&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.lpi.usra.edu/lunar/documents&quot; target=&quot;_blank&quot;&gt;The Apollo-Era Documents&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://nssdc.gsfc.nasa.gov/planetary/planets/moonpage.html&quot; target=&quot;_blank&quot;&gt;The Moon (NASA National Space Science Data Center)&lt;/a&gt;&lt;/li&gt;
@@ -28,8 +160,10 @@
   &lt;li&gt;&lt;a href=&quot;https://airandspace.si.edu/explore/topics/space/apollo-program&quot; target=&quot;_blank&quot;&gt;The Apollo Program (Smithsonian)&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://history.nasa.gov/alsj&quot; target=&quot;_blank&quot;&gt;The Apollo Lunar Surface Journal&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://history.nasa.gov/afj&quot; target=&quot;_blank&quot;&gt;The Apollo Flight Journal&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://authors.library.caltech.edu/5456/1/hrst.mit.edu/hrs/apollo/public/index.html&quot; target=&quot;_blank&quot;&gt;The Apollo Guidance Computer (Caltech)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://web.mit.edu/digitalapollo&quot; target=&quot;_blank&quot;&gt;Digital Apollo by David A. Mindell&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://www.sunburstandluminary.com/SLhome.html&quot; target=&quot;_blank&quot;&gt;An Apollo Memoir by Don Eyles&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.americasuncommonsense.com/&quot; target=&quot;_blank&quot;&gt;Apollo 17 Astronaut Harrison Schmitt&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.americasuncommonsense.com&quot; target=&quot;_blank&quot;&gt;Apollo 17 Astronaut Harrison Schmitt&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;The thumbnail image of this article is &lt;em&gt;Apollo 17 Astronaut Harrison Schmitt Collects Lunar Rock Samples&lt;/em&gt; published by NASA/Marshall Space Flight Center. In this Apollo 17 onboard photo, Lunar Module pilot Harrison H. Schmitt collects rock samples from a huge boulder near the Valley of Tourus-Littrow on the lunar surface. The seventh and last manned lunar landing and return to Earth mission, the Apollo 17, carrying a crew of three astronauts: Schmitt; Mission Commander Eugene A. Cernan; and Command Module pilot Ronald E. Evans, lifted off on December 7, 1972 from the Kennedy Space Flight Center (KSC). Scientific objectives of the Apollo 17 mission included geological surveying and sampling of materials and surface features in a preselected area of the Taurus-Littrow region, deploying and activating surface experiments, and conducting in-flight experiments and photographic tasks during lunar orbit and transearth coast (TEC). These objectives included: Deployed experiments such as the Apollo lunar surface experiment package (ALSEP) with a Heat Flow experiment, Lunar seismic profiling (LSP), Lunar surface gravimeter (LSG), Lunar atmospheric composition experiment (LACE) and Lunar ejecta and meteorites (LEAM). The mission also included Lunar Sampling and Lunar orbital experiments. Biomedical experiments included the Biostack II Experiment and the BIOCORE experiment. The mission marked the longest Apollo mission, 504 hours, and the longest lunar surface stay time, 75 hours, which allowed the astronauts to conduct an extensive geological investigation. They collected 257 pounds (117 kilograms) of lunar samples with the use of the Marshall Space Flight Center designed Lunar Roving Vehicle (LRV). The mission ended on December 19, 1972.&lt;/p&gt;
@@ -39,6 +173,8 @@
         <guid isPermaLink="true">http://localhost:4000/2023/08/09/project-apollo-related_links/</guid>
         
         <category>resources</category>
+        
+        <category>projectApollo</category>
         
         
       </item>
