@@ -2,12 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>planet+AI</title>
-    <description></description>
+    <description>The moon is beautiful, isn&apos;t it?</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 12 Aug 2023 16:45:09 -0400</pubDate>
-    <lastBuildDate>Sat, 12 Aug 2023 16:45:09 -0400</lastBuildDate>
+    <pubDate>Tue, 22 Aug 2023 11:06:14 -0400</pubDate>
+    <lastBuildDate>Tue, 22 Aug 2023 11:06:14 -0400</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
+    
+      <item>
+        <title>Project Apollo Related Links</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://catalog.data.gov/dataset/lunar-sample-compendium&quot; target=&quot;_blank&quot;&gt;The Apollo Lunar Sample (Data.gov)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://curator.jsc.nasa.gov/lunar/index.cfm#&quot; target=&quot;_blank&quot;&gt;Lunar Rocks and Soils from Apollo Missions (NASA)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.lpi.usra.edu/lunar/samples/#catalogues&quot; target=&quot;_blank&quot;&gt;The Apollo Lunar Samples (LPI)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.lpi.usra.edu/lunar/samples/atlas/thin_sections/&quot; target=&quot;_blank&quot;&gt;The Apollo Thin Sections (LPI)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://curator.jsc.nasa.gov/education/lunar-thinsections.cfm&quot; target=&quot;_blank&quot;&gt;The Apollo Lunar Petrographic Thin Section Set (NASA)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nasa.gov/mission_pages/apollo/images.html&quot; target=&quot;_blank&quot;&gt;The Apollo Image Gallery (NASA)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.darts.isas.jaxa.jp/planet/project/selene/hdtv/index.html.en&quot; target=&quot;_blank&quot;&gt;Kaguya HDTV Data (JAXA)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://pubs.usgs.gov/publication/pp1048&quot; target=&quot;_blank&quot;&gt;The Apollo Landing Site Geology (USGS)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.lpi.usra.edu/resources/apollo/&quot; target=&quot;_blank&quot;&gt;The Apollo Image Atlas&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.lpi.usra.edu/resources/apollopanoramas/&quot; target=&quot;_blank&quot;&gt;Apollo Surface Panoramas&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.lpi.usra.edu/lunar/documents&quot; target=&quot;_blank&quot;&gt;The Apollo-Era Documents&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://nssdc.gsfc.nasa.gov/planetary/planets/moonpage.html&quot; target=&quot;_blank&quot;&gt;The Moon (NASA National Space Science Data Center)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://astrogeology.usgs.gov/search?pmi-target=moon&quot; target=&quot;_blank&quot;&gt;The Moon (USGS ASTROPEDIA)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://airandspace.si.edu/explore/topics/space/apollo-program&quot; target=&quot;_blank&quot;&gt;The Apollo Program (Smithsonian)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://history.nasa.gov/alsj&quot; target=&quot;_blank&quot;&gt;The Apollo Lunar Surface Journal&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://history.nasa.gov/afj&quot; target=&quot;_blank&quot;&gt;The Apollo Flight Journal&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.sunburstandluminary.com/SLhome.html&quot; target=&quot;_blank&quot;&gt;An Apollo Memoir by Don Eyles&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.americasuncommonsense.com/&quot; target=&quot;_blank&quot;&gt;Apollo 17 Astronaut Harrison Schmitt&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The thumbnail image of this article is &lt;em&gt;Apollo 17 Astronaut Harrison Schmitt Collects Lunar Rock Samples&lt;/em&gt; published by NASA/Marshall Space Flight Center. In this Apollo 17 onboard photo, Lunar Module pilot Harrison H. Schmitt collects rock samples from a huge boulder near the Valley of Tourus-Littrow on the lunar surface. The seventh and last manned lunar landing and return to Earth mission, the Apollo 17, carrying a crew of three astronauts: Schmitt; Mission Commander Eugene A. Cernan; and Command Module pilot Ronald E. Evans, lifted off on December 7, 1972 from the Kennedy Space Flight Center (KSC). Scientific objectives of the Apollo 17 mission included geological surveying and sampling of materials and surface features in a preselected area of the Taurus-Littrow region, deploying and activating surface experiments, and conducting in-flight experiments and photographic tasks during lunar orbit and transearth coast (TEC). These objectives included: Deployed experiments such as the Apollo lunar surface experiment package (ALSEP) with a Heat Flow experiment, Lunar seismic profiling (LSP), Lunar surface gravimeter (LSG), Lunar atmospheric composition experiment (LACE) and Lunar ejecta and meteorites (LEAM). The mission also included Lunar Sampling and Lunar orbital experiments. Biomedical experiments included the Biostack II Experiment and the BIOCORE experiment. The mission marked the longest Apollo mission, 504 hours, and the longest lunar surface stay time, 75 hours, which allowed the astronauts to conduct an extensive geological investigation. They collected 257 pounds (117 kilograms) of lunar samples with the use of the Marshall Space Flight Center designed Lunar Roving Vehicle (LRV). The mission ended on December 19, 1972.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 09 Aug 2023 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2023/08/09/project-apollo-related_links/</link>
+        <guid isPermaLink="true">http://localhost:4000/2023/08/09/project-apollo-related_links/</guid>
+        
+        <category>resources</category>
+        
+        
+      </item>
     
       <item>
         <title>Using Stable Diffusion WebUI on Google Colab</title>
