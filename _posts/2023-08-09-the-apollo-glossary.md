@@ -51,17 +51,23 @@ Materials ejected from the immediate crater by a volcanic explosion or meteroid 
 - **Exposure age**   
 Period of time during which a sample has been at or near the lunar surface, assessed on the basis of cosmogenic rare gas contents, particle track densities, short-lived radioisotopes, or agglutinate contents in the case of soil samples
 
+- **Feldspar**   
+Family of silicate mineral containing varying amounts of potassium, sodium, and calcium along with aluminum, silicon, and oxygen
+
 - **Highland basalt**   
 Compositional term for rocks or glasses with the composition of very aluminous basalt
 
 - **Highlands**   
 The densely cratered portions of the Moon that are typically at higher elevations than the mare plains. The highlands contain a significant proportion of anorthorsite, an igenous rock made up almost entirely of plagioclase feldspar.
 
+- **Igneous**   
+Rocks crystallized from magma, such as dark-colored, fine-grained basalt
+
 - **Impact melt**   
 Melt produced by fusion of target rock due to impact of a meteroid
 
 - **Lava**   
-A volcanic rock poruded by the eruption of molten material
+Molten rock, or magma, when it erupts or leaks to the surface
 
 - **Mare**   
 The low albedo plains covering the floors of several large basins and spreading over adjacent areas. The mare material is comprised primarily of basaltic lava flows, in contrast to the anorthosites in the highlands.
@@ -69,8 +75,20 @@ The low albedo plains covering the floors of several large basins and spreading 
 - **Mare basalt**   
 Basaltic igneous rocks from the mare regions of the moon characterized by high FeO (>14), commonly high TiO<sub>2</sub>, low Al<sub>2</sub>O<sub>3</sub> (<11>) and low-alkali contents. Major minerals are clinopyroxene and calcic plagioclase, with lesser Fe-Ti-Cr oxides, metallic iron, and troilite. Olivine or a SiO<sub>2</sub> polymorph or both are common.
 
+- **Maria**   
+Latin word meaning "sea" (plural is maria), used to name impact craters and basins on the Moon that were filled with dark-colored lava. Mainly on one side, they cover nearly one-third of the near-side.
+
 - **Monomic breccia**   
 A breccia formed by fracturing and mixing of material from a single source without admixture of unrelated material (cf. Polymict breccia).
+
+- **Near-side**   
+The side of the Moon facing Earth, because the Moon spins at the same rate as it orbits the Earth, keeping the same face towards us. The dark side remains hidden, a full moon always looks much the same.
+
+- **Petrogenesis**   
+The origin of igneous rocks
+
+- **Petrology**  
+Study of the origin and history of rocks, from their chemistry, mineralogy, and how they intersect with other rocks
 
 - **Polymict breccia**   
 A breccia containing fragments of different compositions and origins (cf. Monomict breccia).
