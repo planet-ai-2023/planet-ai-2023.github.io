@@ -3,7 +3,7 @@ layout: post
 title:  "Project Apollo Related Links"
 date: 2023-08-09
 image: assets/images/a17.png
-tags: [ projectApollo ]
+tags: [ Apollo ]
 ---
  
 - [The Apollo Lunar Sample (Data.gov)](https://catalog.data.gov/dataset/lunar-sample-compendium){:target="_blank"}

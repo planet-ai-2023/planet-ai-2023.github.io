@@ -1,5 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: projectApollo"
-tag: projectApollo
+title: "Tag: Apollo"
+tag: Apollo
 ---
