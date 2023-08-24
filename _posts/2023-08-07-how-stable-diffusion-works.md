@@ -6,14 +6,11 @@ image: assets/images/alien_desert.png
 tags: [ AI ]
 ---
 
-<p><div>
-<img width=700 src="/assets/images/article-Figure3-1.png" class="img-fluid" alt="Stable Diffusion" />
-</div>
-<br/>
-</p>
+
 
 **ARTICLES**   
 
+- Dustin Podell, Zion English, Kyle Lacey, Andreas Blattmann, Tim Dockhorn, Jonas Müller, Joe Penna, and Robin Rombach. SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesis. In <em>CVPR</em>, 2023. [pdf](https://arxiv.org/pdf/2307.01952.pdf){:target="_blank"} / [code](https://github.com/Stability-AI/generative-models){:target="_blank"} / [Model weights](https://huggingface.co/stabilityai/){:target="_blank"}
 - Robin Rombach, Andreas Blattmann, Dominik Lorenz, Patrick Esser, and Björn Ommer. High-resolution
 image synthesis with latent diffusion models. In <em>Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)</em>, pages 10684–10695, June 2022. [pdf](https://arxiv.org/pdf/2112.10752.pdf){:target="_blank"} / [project page](https://ommer-lab.com/research/latent-diffusion-models/){:target="_blank"}   
 - Yang Song and Stefano Ermon. Generative Modeling by Estimating Gradients of the Data Distribution.  In <em>NeurIPS</em>, 2019. [pdf](https://arxiv.org/pdf/1907.05600.pdf){:target="_blank"}
