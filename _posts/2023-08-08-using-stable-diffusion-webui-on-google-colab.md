@@ -3,7 +3,7 @@ layout: post
 title:  "Using Stable Diffusion WebUI on Google Colab"
 date: 2023-08-08
 image: assets/images/webui.png
-tags: [ resources, tutorials ]
+tags: [ AI, resources ]
 ---
 
 **How to run Stable Diffusion WebUI on Google Colab**

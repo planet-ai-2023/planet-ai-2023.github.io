@@ -3,7 +3,7 @@ layout: post
 title:  "The Apollo Lunar Geology Glossary"
 date: 2023-08-09
 image: assets/images/PIA00225.png
-tags: [ resources, projectApollo ]
+tags: [ projectApollo, resources ]
 ---
 
 - **Accretion**   

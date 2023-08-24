@@ -5,8 +5,8 @@
     <description>The moon is beautiful, isn&apos;t it?</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 24 Aug 2023 13:44:15 -0400</pubDate>
-    <lastBuildDate>Thu, 24 Aug 2023 13:44:15 -0400</lastBuildDate>
+    <pubDate>Thu, 24 Aug 2023 14:16:20 -0400</pubDate>
+    <lastBuildDate>Thu, 24 Aug 2023 14:16:20 -0400</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -170,9 +170,9 @@ The thumbnail image of this article is &lt;em&gt;Far Side of the Moon&lt;/em&gt;
         <link>http://localhost:4000/2023/08/09/the-apollo-lunar-geology-glossary/</link>
         <guid isPermaLink="true">http://localhost:4000/2023/08/09/the-apollo-lunar-geology-glossary/</guid>
         
-        <category>resources</category>
-        
         <category>projectApollo</category>
+        
+        <category>resources</category>
         
         
       </item>
@@ -209,9 +209,9 @@ The thumbnail image of this article is &lt;em&gt;Far Side of the Moon&lt;/em&gt;
         <link>http://localhost:4000/2023/08/09/project-apollo-related_links/</link>
         <guid isPermaLink="true">http://localhost:4000/2023/08/09/project-apollo-related_links/</guid>
         
-        <category>resources</category>
-        
         <category>projectApollo</category>
+        
+        <category>resources</category>
         
         
       </item>
@@ -255,9 +255,229 @@ The thumbnail image of this article is &lt;em&gt;Far Side of the Moon&lt;/em&gt;
         <link>http://localhost:4000/2023/08/08/using-stable-diffusion-webui-on-google-colab/</link>
         <guid isPermaLink="true">http://localhost:4000/2023/08/08/using-stable-diffusion-webui-on-google-colab/</guid>
         
+        <category>AI</category>
+        
         <category>resources</category>
         
-        <category>tutorials</category>
+        
+      </item>
+    
+      <item>
+        <title>The AI Glossary</title>
+        <description>&lt;p&gt;&lt;strong&gt;Animation Glossaries&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;fps&lt;/strong&gt; &lt;br /&gt;
+&lt;code&gt;fps&lt;/code&gt;, frames per second, is a key setting in animation. A very low fps makes the animation laggy. A high fps means you need to draw more frames and higher demand on hardware capacity. &lt;code&gt;fps&lt;/code&gt; 12 is a good start.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;frame rate&lt;/strong&gt; &lt;br /&gt;
+The frame rate of an animation is the number of individual images (or frames) that are being displayed over the span of the one second. Frame rate, expressed in frames per second or FPS, is typically the frequency rate at which consecutive images (frames) are captured or displayed.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;interpolation&lt;/strong&gt; &lt;br /&gt;
+Interpolation is inbetweening in frames between the key frames in an animation. Interpolation animation is also called keyframe animation.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;keyframe&lt;/strong&gt; &lt;br /&gt;
+Keyframe, or key frame, refers to the starting and/or ending point of any smooth transition. Animation is broken down into individual grames. The keyframes are the most important frames that set the parameters for the other frames and indicate the changes that will occur throughout as transitions.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;code&gt;max_frames&lt;/code&gt;&lt;/strong&gt; &lt;br /&gt;
+&lt;code&gt;max_frames&lt;/code&gt; refers to the number of output images to be created for a 2D animation or a 3d animation. &lt;code&gt;max_frames&lt;/code&gt; is ignored during &lt;code&gt;video_input&lt;/code&gt; mode. Instead, &lt;code&gt;video_input&lt;/code&gt; follows the numbers of frames pulled from the input video’s length. In &lt;code&gt;interpolation_mode&lt;/code&gt;, the number of output frames follows your prompt schedule. A default value of 4 yeilds four frames of interpolation between prompts.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;code&gt;noise_schedule&lt;/code&gt;&lt;/strong&gt; &lt;br /&gt;
+&lt;code&gt;noise_schedule&lt;/code&gt; refers to the amount of graininess to add per frame for diffusion diversity.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;scene&lt;/strong&gt; &lt;br /&gt;
+The term scene refers to all the shots and dialogues that take place at a particular location for a continuous block of time.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;shot&lt;/strong&gt; &lt;br /&gt;
+The term shot refers to the images between camera edits.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;steps&lt;/strong&gt; &lt;br /&gt;
+The term steps refers the number of the denoising stemps. Usually, Higher is better but to a certain degree. The default is 25 steps.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;code&gt;strength_schedule&lt;/code&gt;&lt;/strong&gt; &lt;br /&gt;
+&lt;code&gt;strength_schedule&lt;/code&gt; refers to the amount of presence of previous frame to influence next frame.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;timeline&lt;/strong&gt; &lt;br /&gt;
+The timeline is the part of the animation software that represents the animation’s progress over time. Depending on the software, you might use the timeline to make changes to the timing of the animations, as well as the position of the elements.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;ChatGPT&lt;/strong&gt; &lt;br /&gt;
+ChatGPT is an artificial intelligence (AI) chatbot developed by OpenAI and released in November, 2022. ChatGPT is a member of the generative pre-trained transformer (GPT) class of language models. It’s a task-specific GPT that was fine-tuned to target conversational usage, and was originally built upon an improved version of OpenAI’s GPT-3 model known as “GPT-3.5”. OpenAI acknowledges that ChatGPT “sometimes writes plausible-sounding but incorrect or nonsensical answers”. This behavior is common to large language models and is called “hallucination”. The reward model of ChatGPT, designed around human oversight, can be over-optimized and thus hinder performance, in an example of an optimization pathology known as Goodhart’s law. ChatGPT has limited knowledge of events that occurred after September 2021.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;ControlNet&lt;/strong&gt; &lt;br /&gt;
+ControlNet is a neural network structure which can be used to control pretrained large diffusion models such as Stable Diffusion by adding extra conditions. It provides a way to augment Stable Diffusion with conditional inputs such as scribbles, edge maps, segmentation maps, pose key points, etc during text-to-image generation. In addition, a ControlNet model can be trained with small datasets on consumer GPU; and then, the model can be augmented with any pre-trained Stable Diffusion models for text-to-image generation.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;ControlNet Naming Convention&lt;/strong&gt; &lt;br /&gt;
+&lt;img width=&quot;700&quot; src=&quot;/assets/images/controlnet_naming.png&quot; class=&quot;img-fluid&quot; alt=&quot;ControlNet Naming&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;ControlNet Models&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;ControlNet 1.1 include 14 models (11 production-ready models and 3 experimental models):&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;control_v11p_sd15_canny&lt;/li&gt;
+  &lt;li&gt;control_v11p_sd15_mlsd&lt;/li&gt;
+  &lt;li&gt;control_v11f1p_sd15_depth&lt;/li&gt;
+  &lt;li&gt;control_v11p_sd15_normalbae&lt;/li&gt;
+  &lt;li&gt;control_v11p_sd15_seg&lt;/li&gt;
+  &lt;li&gt;control_v11p_sd15_inpaint&lt;/li&gt;
+  &lt;li&gt;control_v11p_sd15_lineart&lt;/li&gt;
+  &lt;li&gt;control_v11p_sd15s2_lineart_anime&lt;/li&gt;
+  &lt;li&gt;control_v11p_sd15_openpose&lt;/li&gt;
+  &lt;li&gt;control_v11p_sd15_scribble&lt;/li&gt;
+  &lt;li&gt;control_v11p_sd15_softedge&lt;/li&gt;
+  &lt;li&gt;control_v11e_sd15_shuffle&lt;/li&gt;
+  &lt;li&gt;control_v11e_sd15_ip2p&lt;/li&gt;
+  &lt;li&gt;control_v11f1e_sd15_tile&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Canny&lt;/strong&gt; &lt;br /&gt;
+Canny is a model that generates a line drawing from the original image using an algorithm called Canny edge detection, and then generates a new illustration from that line drawing. Very faithfully reproduced. A Canny edge is a monochrome image with white edges on a black background.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;M-LSD&lt;/strong&gt; &lt;br /&gt;
+M-LSD is a model for line detection. It is often used for backgrounds and compositions. M-LSD controls Stable Diffusion with M-LSD straight lines.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Depth&lt;/strong&gt; &lt;br /&gt;
+Depth is a model that converts an image into a depth map and generates an image based on it. It is used for images with compositions where depth is important. A depth is a grayscale image with black representing deep areas and white representing shallow areas.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Normal&lt;/strong&gt; &lt;br /&gt;
+Normal is a model that converts the original image to a normal map and generates an image from the normal map.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;OpenPose&lt;/strong&gt; &lt;br /&gt;
+OpenPose detects keypoints of the human body, face, and limbs from images. Simply put, OpenPose is a model that generates images from stick figures. Since only the pose can be reproduced, there are fewer restrictions on the original image than with line drawings, so it is possible to generate more flexible images.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Scribble&lt;/strong&gt; &lt;br /&gt;
+Scribble is a model that generates illustrations from hand-drawn images.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Seg&lt;/strong&gt;
+Seg is a model that classifies an original image by semantic segmentation and generates an image from it.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Reference&lt;/strong&gt; &lt;br /&gt;
+Reference generates images similar to the style of the reference image. “reference_only”, “reference_adain”, and “reference_adain+attn” were added to ControlNet v1.1 around May 13, 2023. “adain” refers to a technique called “Adaptive Instance Normalization”. “reference_adain” refers to style transfer via Adaptive Intance Normalization; “reference_only” links the reference image directly to the attention layers. “reference_adain+attn” combines the two.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Soft Edge&lt;/strong&gt; &lt;br /&gt;
+Soft Edge retains tough sketch-like edges and includes some fine lines. Soft Edge provieds more variability during image generation. It can be used when Canny and Scribble are not suitable.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Shuffle&lt;/strong&gt; &lt;br /&gt;
+Shuffle randomly positions objects in the reference image. Shuffle can be used for transferring the color scheme of hte reference image.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Line Art&lt;/strong&gt; &lt;br /&gt;
+Line Art converts the reference image into a line drawing or black and white sketch.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Instruct Pix2Pix&lt;/strong&gt; &lt;br /&gt;
+Instruct Pix2Pix modifies the state of the objects in the reference image.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Inpaint&lt;/strong&gt; &lt;br /&gt;
+ControlNet Inpaint performs local repaint. It is useful for generating videos in m2m format.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Tile&lt;/strong&gt; &lt;br /&gt;
+Tile is suitable for zooming and maginificaiton purposes.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;DEFORUM&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Deforum 2D Animation Motion Parameters&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;angle&lt;/strong&gt; &lt;br /&gt;
+2D operator that rotates canvas closewise/counter clockwise in degrees per frame. Positive angle values rotate the canvas counter-clockwise which feels like the camera rotating clockwise. The default value is&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;zoom&lt;/strong&gt; &lt;br /&gt;
+2D operator that scales the canvas size, multiplicatively [static = 1.0]&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;translation_x&lt;/strong&gt; &lt;br /&gt;
+2D that moves canvas left/right in pixels per frame. Positive translation_x shifts the canvas to the right which feels like the camera shifting to the left.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;translation_y&lt;/strong&gt; &lt;br /&gt;
+2D operator that moves canvas up/down in pixels per frame. Positive translation_y shifts the canvas down the screen which feels like the camera shifting upward.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;transform_center_x, transform_center_y&lt;/strong&gt; &lt;br /&gt;
+The term Transform Center is for changing the focal point of zoom and/or rotation. The default value is: transform_center_x: 0: (0.5), and transform_center_y: 0: (0.5), which is the center of the canvas. (X,Y) = (0,0) is the top left corner, and (1,1) is the bottom right corner.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;noise_schedule&lt;/strong&gt; &lt;br /&gt;
+Amount of graininess to add per frame for diffusion diversity&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;strength_schedule&lt;/strong&gt; &lt;br /&gt;
+Amount of presence of previous frame to influence next frame&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;contrast_schedule&lt;/strong&gt; &lt;br /&gt;
+The term contrast_schedule adjusts the overall contrast per frame&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Emergent behavior&lt;/strong&gt; &lt;br /&gt;
+Unexpected or unintended abilities in a large language model, enabled by the model’s learning patterns and rules from its training data. For example, models that are trained on programming and coding sites can write new code. Other examples include creative abilities like composing poetry, music and fictional stories.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Generative AI&lt;/strong&gt; &lt;br /&gt;
+Technology that creates content — including text, images, video and computer code — by identifying patterns in large quantities of training data, and then creating original material that has similar characteristics. Examples include ChatGPT for text and DALL-E and Midjourney for images.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Hallucination&lt;/strong&gt; &lt;br /&gt;
+A well-known phenomenon in large language models, in which the system provides an answer that is factually incorrect, irrelevant or nonsensical, because of limitations in its training data and architecture.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Large language model (LLM)&lt;/strong&gt;  &lt;br /&gt;
+A type of neural network that learns skills — including generating prose, conducting conversations and writing computer code — by analyzing vast amounts of text from across the internet. The basic function is to predict the next word in a sequence, but these models have surprised experts by learning new abilities.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Natural language processing (NLP)&lt;/strong&gt; &lt;br /&gt;
+Techniques used by large language models to understand and generate human language, including text classification and sentiment analysis. These methods often use a combination of machine learning algorithms, statistical models and linguistic rules.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Neural network&lt;/strong&gt; &lt;br /&gt;
+A mathematical system, modeled on the human brain, that learns skills by finding statistical patterns in data. It consists of layers of artificial neurons: The first layer receives the input data, and the last layer outputs the results. Even the experts who create neural networks don’t always understand what happens in between.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Parameters&lt;/strong&gt; &lt;br /&gt;
+Numerical values that define a large language model’s structure and behavior, like clues that help it guess what words come next. Systems like GPT-4 are thought to have hundreds of billions of parameters.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Reinforcement learning&lt;/strong&gt; &lt;br /&gt;
+A technique that teaches an A.I. model to find the best result by trial and error, receiving rewards or punishments from an algorithm based on its results. This system can be enhanced by humans giving feedback on its performance, in the form of ratings, corrections and suggestions.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Transformer model&lt;/strong&gt; &lt;br /&gt;
+A neural network architecture useful for understanding language that does not have to analyze words one at a time but can look at an entire sentence at once. This was an A.I. breakthrough, because it enabled models to understand context and long-term dependencies in language. Transformers use a technique called self-attention, which allows the model to focus on the particular words that are important in understanding the meaning of a sentence.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Stable Diffusion&lt;/strong&gt;    &lt;br /&gt;
+Stable Diffusion is a latent diffusion text-to-image AI model released in 2022. Stable Diffusion was developed by the Stability AI in collaboration with a number of academic researchers and non-profit organizations. Stable Diffusion consists of 3 parts: the variational autoencoder (VAE), U-Net, and an optional text encoder. The VAE encoder compresses the image from pixel space to a smaller dimensional latent space, capturing a more fundamental semantic meaning of the image. Gaussian noise is iteratively applied to the compressed latent representation during forward diffusion. The U-Net block, composed of a ResNet backbone, denoises the output from forward diffusion backwards to obtain a latent representation. Finally, the VAE decoder generates the final image by converting the representation back into pixel space. The denoising step can be flexibly conditioned on a string of text, an image, or another modality. The encoded conditioning data is exposed to denoising U-Nets via a cross-attention mechanism. For conditioning on text, the fixed, pretrained CLIP ViT-L/14 text encoder is used to transform text prompts to an embedding space. Stable Diffusion was trained on pairs of images and captions taken from LAION-5B, a publicly available dataset derived from Common Crawl data scraped from the web, where 5 billion image-text pairs were classified based on language and filtered into separate datasets by resolution, a predicted likelihood of containing a watermark, and predicted “aesthetic” score (e.g. subjective visual quality). The dataset was created by LAION, a German non-profit which receives funding from Stability AI. The Stable Diffusion model was trained on three subsets of LAION-5B: laion2B-en, laion-high-resolution, and laion-aesthetics v2 5+. A third-party analysis of the model’s training data identified that out of a smaller subset of 12 million images taken from the original wider dataset used, approximately 47% of the sample size of images came from 100 different domains, with Pinterest taking up 8.5% of the subset, followed by websites such as WordPress, Blogspot, Flickr, DeviantArt and Wikimedia Commons.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Stable Diffusion 2&lt;/strong&gt; &lt;br /&gt;
+Stable Diffusion 2 is a text-to-image latent diffusion model built upon the work of Stable Diffusion 1. The project to train Stable Diffusion 2 was led by Robin Rombach and Katherine Crowson from Stability AI and LAION. The Stable Diffusion 2.0 release includes robust text-to-image models trained using a brand new text encoder (OpenCLIP), developed by LAION with support from Stability AI, which greatly improves the quality of the generated images compared to earlier V1 releases. The text-to-image models in this release can generate images with default resolutions of both 512x512 pixels and 768x768 pixels. These models are trained on an aesthetic subset of the LAION-5B dataset created by the DeepFloyd team at Stability AI, which is then further filtered to remove adult content using LAION’s NSFW filter.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 08 Aug 2023 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2023/08/08/the-ai-glossary/</link>
+        <guid isPermaLink="true">http://localhost:4000/2023/08/08/the-ai-glossary/</guid>
+        
+        <category>AI</category>
+        
+        <category>resources</category>
         
         
       </item>
@@ -301,9 +521,9 @@ Click &lt;code&gt;Save&lt;/code&gt;.
         <link>http://localhost:4000/2023/08/08/google-colab-tutorial/</link>
         <guid isPermaLink="true">http://localhost:4000/2023/08/08/google-colab-tutorial/</guid>
         
-        <category>resources</category>
+        <category>AI</category>
         
-        <category>tutorials</category>
+        <category>resources</category>
         
         
       </item>
@@ -320,6 +540,67 @@ Click &lt;code&gt;Save&lt;/code&gt;.
         <guid isPermaLink="true">http://localhost:4000/2023/08/07/podcast-series/</guid>
         
         <category>podcasts</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>How Stable Diffusion Works</title>
+        <description>&lt;p&gt;&lt;div&gt;
+&lt;img width=&quot;700&quot; src=&quot;/assets/images/article-Figure3-1.png&quot; class=&quot;img-fluid&quot; alt=&quot;Stable Diffusion&quot; /&gt;
+&lt;/div&gt;
+&lt;br /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;ARTICLES&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Robin Rombach, Andreas Blattmann, Dominik Lorenz, Patrick Esser, and Björn Ommer. High-resolution
+image synthesis with latent diffusion models. In &lt;em&gt;Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)&lt;/em&gt;, pages 10684–10695, June 2022. &lt;a href=&quot;https://arxiv.org/pdf/2112.10752.pdf&quot; target=&quot;_blank&quot;&gt;pdf&lt;/a&gt; / &lt;a href=&quot;https://ommer-lab.com/research/latent-diffusion-models/&quot; target=&quot;_blank&quot;&gt;project page&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Yang Song and Stefano Ermon. Generative Modeling by Estimating Gradients of the Data Distribution.  In &lt;em&gt;NeurIPS&lt;/em&gt;, 2019. &lt;a href=&quot;https://arxiv.org/pdf/1907.05600.pdf&quot; target=&quot;_blank&quot;&gt;pdf&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Yang Song and Stefano Ermon. Improved Techniques for Training Score-Based Generative Models. In &lt;em&gt;NeurIPS&lt;/em&gt;, 2020. &lt;a href=&quot;https://arxiv.org/pdf/2006.09011.pdf&quot; target=&quot;_blank&quot;&gt;pdf&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Jonathan Ho, Ajay Jain, and Pieter Abbeel. Denoising Diffusion Probabilistic Models. &lt;em&gt;arxiv Preprint arxiv:2006.11239&lt;/em&gt;, 2020. &lt;a href=&quot;https://arxiv.org/pdf/2006.11239.pdf&quot; target=&quot;_blank&quot;&gt;pdf&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Olaf Ronneberger, Philipp Fischer, and Thomas Brox. U-Net: Convolutional Networks for Biomedical
+Image Segmentation. In &lt;em&gt;MICCAI (3), volume 9351 of Lecture Notes in Computer Science&lt;/em&gt;, pages 234–241. Springer, 2015. &lt;a href=&quot;https://arxiv.org/pdf/1505.04597.pdf&quot; target=&quot;_blank&quot;&gt;pdf&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Kevin Frans,Lisa B.Soros, and Olaf Witkowski. Clipdraw. Exploring text-to-drawing synthesis through language- image encoders. In &lt;em&gt;ArXiv&lt;/em&gt;, abs/2106.14843, 2021. &lt;a href=&quot;https://arxiv.org/pdf/2106.14843.pdf&quot; target=&quot;_blank&quot;&gt;pdf&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Alec Radford, Jong Wook Kim, Chris Hallacy, Aditya Ramesh, Gabriel Goh, Sandhini Agarwal, Girish Sastry, Amanda Askell, Pamela Mishkin, Jack Clark, Gretchen Krueger, and Ilya Sutskever. Learning Transferable Visual Models From Natural Language Supervision. In &lt;em&gt;CVPR&lt;/em&gt;, 2021. &lt;a href=&quot;https://arxiv.org/pdf/2103.00020.pdf&quot; target=&quot;_blank&quot;&gt;pdf&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Jonathan Ho, and Tim Salimans. Classifier-Free Diffusion Guidance. In &lt;em&gt;NeurIPS&lt;/em&gt;, 2022. &lt;a href=&quot;https://arxiv.org/pdf/2207.12598.pdf&quot; target=&quot;_blank&quot;&gt;pdf&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Alexey Dosovitskiy, Lucas Beyer, Alexander Kolesnikov, Dirk Weissenborn, Xiaohua Zhai, Thomas Unterthiner, Mostafa Dehghani, Matthias Minderer, Georg Heigold, Sylvain Gelly, Jakob Uszkoreit, and Neil Houlsby. An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale. In &lt;em&gt;ICLR&lt;/em&gt;, 2021. &lt;a href=&quot;https://arxiv.org/pdf/2010.11929.pdf&quot; target=&quot;_blank&quot;&gt;pdf&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, and Illia Polosukhin. Attention is all you need. In &lt;em&gt;NIPS&lt;/em&gt;, pages 5998–6008, 2017. &lt;a href=&quot;https://arxiv.org/pdf/1706.03762.pdf&quot; target=&quot;_blank&quot;&gt;pdf&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Lvmin Zhang and Maneesh Agrawala. Adding Conditional Control to Text-to-Image Diffusion Models. In &lt;em&gt;CVPR&lt;/em&gt;, 2023. &lt;a href=&quot;https://arxiv.org/pdf/2302.05543.pdf&quot; target=&quot;_blank&quot;&gt;pdf&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Shanchuan Lin, Bingchen Liu, Jiashi Li, and Xiao Yang. Common Diffusion Noise Schedules and Sample Steps are Flawed. In &lt;em&gt;CVPR&lt;/em&gt;, 2023. &lt;a href=&quot;https://arxiv.org/pdf/2305.08891.pdf&quot; target=&quot;_blank&quot;&gt;pdf&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Tim Brooks, Aleksander Holynski, and Alexei A. Efros. InstructPix2Pix: Learning to Follow Image Editing Instructions. In &lt;em&gt;CVPR&lt;/em&gt;, 2023. &lt;a href=&quot;https://arxiv.org/pdf/2211.09800.pdf&quot; target=&quot;_blank&quot;&gt;pdf&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Ben Poole, Ajay Jain, Jonathan T. Barron, and Ben Mildenhall. DreamFusion: Text-to-3D using 2D Diffusion. In &lt;em&gt;CVPR&lt;/em&gt;, 2022. &lt;a href=&quot;https://arxiv.org/pdf/2209.14988.pdf&quot; target=&quot;_blank&quot;&gt;pdf&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Jonathan Tseng, Castellon Rodrigo, and C. Karen Liu. Edge: Editable dance generation from music. In &lt;em&gt;Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition&lt;/em&gt;, pp. 448-458, 2023. &lt;a href=&quot;https://arxiv.org/pdf/2211.10658.pdf&quot; target=&quot;_blank&quot;&gt;pdf&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Roman Suvorov, Elizaveta Logacheva, Anton Mashikhin, Anastasia Remizova, Arsenii Ashukha, Aleksei Silvestrov, Naejin Kong, Harshith Goka, Kiwoong Park, and Victor Lempitsky. Resolution-robust Large Mask Inpainting with Fourier Convolutions. In &lt;em&gt;CVPR&lt;/em&gt;, 2022. &lt;a href=&quot;https://arxiv.org/pdf/2109.07161.pdf&quot; target=&quot;_blank&quot;&gt;pdf&lt;/a&gt; / &lt;a href=&quot;https://advimman.github.io/lama-project/&quot; target=&quot;_blank&quot;&gt;project page&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Nataniel Ruiz, Yuanzhen Li, Varun Jampani, Yael Pritch, Michael Rubinstein, and Kfir Aberman. Dreambooth: Fine tuning text-to-image diffusion models for subject-driven generation. In &lt;em&gt;Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition&lt;/em&gt;, pp. 22500-22510. 2023. &lt;a href=&quot;https://arxiv.org/pdf/2208.12242.pdf&quot; target=&quot;_blank&quot;&gt;pdf&lt;/a&gt; / &lt;a href=&quot;https://dreambooth.github.io/&quot; target=&quot;_blank&quot;&gt;project page&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Rinon Gal, Yuval Alaluf, Yuval Atzmon, Or Patashnik, Amit H. Bermano, Gal Chechik, and Daniel Cohen-Or. An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion. In &lt;em&gt;CVPR&lt;/em&gt;, 2022. &lt;a href=&quot;https://arxiv.org/pdf/2208.01618.pdf&quot; target=&quot;_blank&quot;&gt;pdf&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;CODE&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The development of Stable Diffusion was funded and shaped by &lt;em&gt;&lt;strong&gt;Stability AI&lt;/strong&gt;&lt;/em&gt;. The model was released by the CompVis group at Ludwig Maximilian University of Munich. Development was led by Patrick Esser of Runway and Robin Rombach of CompVis, who were among the researchers who had earlier invented the latent diffusion model architecture used by Stable Diffusion.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/CompVis/stable-diffusion?ref=jousefmurad.com#stable-diffusion-v1&quot; target=&quot;_blank&quot;&gt;CompVis / stable-diffusion&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;TRAINING DATA&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;According to Wikipedia, Stable Diffusion was trained off three massive datasets collected by LAION, a nonprofit whose compute time was largely funded by &lt;em&gt;&lt;strong&gt;Stability AI&lt;/strong&gt;&lt;/em&gt;: laion2B-en, laion-high-resolution, and laion-aesthetics v2 5+, which are subsets of LAION-5B. The model was initially trained on the laion2B-en and laion-high-resolution subsets, with the last few rounds of training done on LAION-Aesthetics v2 5+, a subset of 600 million captioned images which the LAION-Aesthetics Predictor V2 predicted that humans would, on average, give a score of at least 5 out of 10 when asked to rate how much they liked them. The LAION-Aesthetics v2 5+ subset also excluded low-resolution images and images which LAION-5B-WatermarkDetection identified as carrying a watermark with greater than 80% probability. Final rounds of training additionally dropped 10% of text conditioning to improve Classifier-Free Diffusion Guidance. The model was trained using 256 Nvidia A100 GPUs on Amazon Web Services for a total of 150,000 GPU-hours, at a cost of $600,000.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;DIFFUSERS&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://huggingface.co/docs/diffusers/index&quot; target=&quot;_blank&quot;&gt;Diffusers&lt;/a&gt; is the go-to library for state-of-the-art pretrained diffusion models for generating images, audio, and even 3D structures of molecules. Whether you’re looking for a simple inference solution or want to train your own diffusion model, Diffusers is a modular toolbox that supports both. Our library is designed with a focus on usability over performance, simple over easy, and customizability over abstractions.&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 07 Aug 2023 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2023/08/07/how-stable-diffusion-works/</link>
+        <guid isPermaLink="true">http://localhost:4000/2023/08/07/how-stable-diffusion-works/</guid>
+        
+        <category>AI</category>
+        
+        <category>resources</category>
         
         
       </item>
