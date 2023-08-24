@@ -5,12 +5,12 @@
     <description>The moon is beautiful, isn&apos;t it?</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 24 Aug 2023 13:39:41 -0400</pubDate>
-    <lastBuildDate>Thu, 24 Aug 2023 13:39:41 -0400</lastBuildDate>
+    <pubDate>Thu, 24 Aug 2023 13:44:15 -0400</pubDate>
+    <lastBuildDate>Thu, 24 Aug 2023 13:44:15 -0400</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
-        <title>The Apollo Glossary</title>
+        <title>The Apollo Lunar Geology Glossary</title>
         <description>&lt;ul&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;Accretion&lt;/strong&gt; &lt;br /&gt;
@@ -167,8 +167,8 @@ Formation of a glass from a crystalline precursors generally by impact melting&l
 The thumbnail image of this article is &lt;em&gt;Far Side of the Moon&lt;/em&gt; by NASA. This image of the moon was obtained by the Galileo Solid State imaging system on Dec. 8 at 7 p.m. PST as the Galileo spacecraft passed the Earth and was able to view the lunar surface from a vantage point not possible from the Earth. On the right-hand side of the image is seen the dark maria of Oceanus Procellarum, also visible from the Earth. The dark spots in the center are Mare Orientale, on the western limb of the nearside of the moon, a region barely visible from the Earth. This region and the bright far side highlands on the left have not been seen previously by a camera system such as the one on the Galileo spacecraft, which provides multispectral images of the lunar limb and far side which have not previously been obtained. Comparison of such images to those of the near-side areas from which Apollo astronauts have returned samples will help us understand the spectral properties and composition of the lunar far side. &lt;em&gt;Image Credit&lt;/em&gt;: JPL.&lt;/p&gt;
 </description>
         <pubDate>Wed, 09 Aug 2023 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/2023/08/09/the-apollo-glossary/</link>
-        <guid isPermaLink="true">http://localhost:4000/2023/08/09/the-apollo-glossary/</guid>
+        <link>http://localhost:4000/2023/08/09/the-apollo-lunar-geology-glossary/</link>
+        <guid isPermaLink="true">http://localhost:4000/2023/08/09/the-apollo-lunar-geology-glossary/</guid>
         
         <category>resources</category>
         
