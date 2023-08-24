@@ -3,7 +3,7 @@ layout: post
 title:  "The AI Glossary"
 date: 2023-08-08
 image: assets/images/glossary_thu.png
-tags: [ AI, resources ]
+tags: [ AI ]
 ---
 
 

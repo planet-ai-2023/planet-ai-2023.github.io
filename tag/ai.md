@@ -1,5 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: AI/ML"
+title: "Tag: AI"
 tag: AI
 ---

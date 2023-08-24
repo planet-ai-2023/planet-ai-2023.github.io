@@ -5,8 +5,8 @@
     <description>The moon is beautiful, isn&apos;t it?</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 24 Aug 2023 14:25:13 -0400</pubDate>
-    <lastBuildDate>Thu, 24 Aug 2023 14:25:13 -0400</lastBuildDate>
+    <pubDate>Thu, 24 Aug 2023 14:28:36 -0400</pubDate>
+    <lastBuildDate>Thu, 24 Aug 2023 14:28:36 -0400</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -172,8 +172,6 @@ The thumbnail image of this article is &lt;em&gt;Far Side of the Moon&lt;/em&gt;
         
         <category>projectApollo</category>
         
-        <category>resources</category>
-        
         
       </item>
     
@@ -210,8 +208,6 @@ The thumbnail image of this article is &lt;em&gt;Far Side of the Moon&lt;/em&gt;
         <guid isPermaLink="true">http://localhost:4000/2023/08/09/project-apollo-related_links/</guid>
         
         <category>projectApollo</category>
-        
-        <category>resources</category>
         
         
       </item>
@@ -256,8 +252,6 @@ The thumbnail image of this article is &lt;em&gt;Far Side of the Moon&lt;/em&gt;
         <guid isPermaLink="true">http://localhost:4000/2023/08/08/using-stable-diffusion-webui-on-google-colab/</guid>
         
         <category>AI</category>
-        
-        <category>resources</category>
         
         
       </item>
@@ -477,8 +471,6 @@ Stable Diffusion 2 is a text-to-image latent diffusion model built upon the work
         
         <category>AI</category>
         
-        <category>resources</category>
-        
         
       </item>
     
@@ -522,8 +514,6 @@ Click &lt;code&gt;Save&lt;/code&gt;.
         <guid isPermaLink="true">http://localhost:4000/2023/08/08/google-colab-tutorial/</guid>
         
         <category>AI</category>
-        
-        <category>resources</category>
         
         
       </item>
@@ -599,8 +589,6 @@ Image Segmentation. In &lt;em&gt;MICCAI (3), volume 9351 of Lecture Notes in Com
         <guid isPermaLink="true">http://localhost:4000/2023/08/07/how-stable-diffusion-works/</guid>
         
         <category>AI</category>
-        
-        <category>resources</category>
         
         
       </item>

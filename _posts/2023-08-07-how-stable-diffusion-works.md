@@ -3,7 +3,7 @@ layout: post
 title:  "How Stable Diffusion Works"
 date: 2023-08-07
 image: assets/images/alien_desert.png
-tags: [ AI, resources ]
+tags: [ AI ]
 ---
 
 <p><div>
