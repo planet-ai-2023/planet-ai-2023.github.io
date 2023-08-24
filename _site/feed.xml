@@ -5,8 +5,8 @@
     <description>The moon is beautiful, isn&apos;t it?</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 22 Aug 2023 14:01:37 -0400</pubDate>
-    <lastBuildDate>Tue, 22 Aug 2023 14:01:37 -0400</lastBuildDate>
+    <pubDate>Thu, 24 Aug 2023 13:39:41 -0400</pubDate>
+    <lastBuildDate>Thu, 24 Aug 2023 13:39:41 -0400</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -77,6 +77,14 @@ Period of time during which a sample has been at or near the lunar surface, asse
 Family of silicate mineral containing varying amounts of potassium, sodium, and calcium along with aluminum, silicon, and oxygen&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Grain&lt;/strong&gt; &lt;br /&gt;
+The term grain refers to a small rock element, a mineral or rock particle, less than a few millimeters in diameter, and generally lacking well-developed crystal faces, for example, a sand grain. A description of groundmass texture and grain size, following the definitions provided in Williams et al. (1982), such as glassy, microcrystalline (i.e., requires a petrographic microscope to distinguish individual crystals), fine grained (&amp;lt;1 mm but large enough to identify with a hand lens), medium grained (1-5 mm), or coarse grained (&amp;gt;5 mm).&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Grain broundary&lt;/strong&gt; &lt;br /&gt;
+If several grains are in contact, the contact surface or the thin domain of the transition from one grain to another is called grain boundary. More precisely, following the usage of material science, the grain boundary corresponds to the case where the grains in contact are of the same phase; the general case (crystal contact without any ohter mention) is referred by the word interface.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;Highland basalt&lt;/strong&gt; &lt;br /&gt;
 Compositional term for rocks or glasses with the composition of very aluminous basalt&lt;/p&gt;
   &lt;/li&gt;
@@ -145,6 +153,10 @@ Soil breccia&lt;/p&gt;
 Terms for lunar rocks consisting essentially of plagioclase and olivine with little or no pyroxene. If spinel-bearing, it is termed spinel-troctolite.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Vesicles&lt;/strong&gt; &lt;br /&gt;
+Vesicles are the small holes left behind after lava cools and turns into volcanic rock. Vesicles help geologists understand the cooling history of extrusive (volcanic rocks) because lava contains large amounts of dissolved gases that are released as the lava hardens. A similar process can be seen when bubbles created by yeast are released in the bread-making process or when dissolved carbon dioxide is released when a can of soda is opened.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;Vitrification&lt;/strong&gt; &lt;br /&gt;
 Formation of a glass from a crystalline precursors generally by impact melting&lt;/p&gt;
   &lt;/li&gt;
@@ -173,6 +185,7 @@ The thumbnail image of this article is &lt;em&gt;Far Side of the Moon&lt;/em&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.lpi.usra.edu/lunar/samples/#catalogues&quot; target=&quot;_blank&quot;&gt;The Apollo Lunar Samples (LPI)&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.lpi.usra.edu/lunar/samples/atlas/thin_sections/&quot; target=&quot;_blank&quot;&gt;The Apollo Thin Sections (LPI)&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://curator.jsc.nasa.gov/education/lunar-thinsections.cfm&quot; target=&quot;_blank&quot;&gt;The Apollo Lunar Petrographic Thin Section Set (NASA)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ares.jsc.nasa.gov/astromaterials3d/apollo-lunar.htm&quot; target=&quot;_blank&quot;&gt;Astromaterials 3D Apollo Lunar Collection&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.nasa.gov/mission_pages/apollo/images.html&quot; target=&quot;_blank&quot;&gt;The Apollo Image Gallery (NASA)&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.darts.isas.jaxa.jp/planet/project/selene/hdtv/index.html.en&quot; target=&quot;_blank&quot;&gt;Kaguya HDTV Data (JAXA)&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://pubs.usgs.gov/publication/pp1048&quot; target=&quot;_blank&quot;&gt;The Apollo Landing Site Geology (USGS)&lt;/a&gt;&lt;/li&gt;
@@ -291,6 +304,22 @@ Click &lt;code&gt;Save&lt;/code&gt;.
         <category>resources</category>
         
         <category>tutorials</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Experiment with AI on Space Topics Podcast Series</title>
+        <description>&lt;iframe style=&quot;border-radius:12px&quot; src=&quot;https://open.spotify.com/embed/episode/7FikU0jhQgseLIvMIzji83?utm_source=generator&amp;amp;theme=0&quot; width=&quot;77%&quot; height=&quot;300&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; allow=&quot;autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture&quot; loading=&quot;lazy&quot;&gt;&lt;/iframe&gt;
+
+&lt;iframe style=&quot;border-radius:12px&quot; src=&quot;https://open.spotify.com/embed/episode/4Vjc5RRvTmhGccPZHjYDlN?utm_source=generator&amp;amp;theme=0&quot; width=&quot;77%&quot; height=&quot;300&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; allow=&quot;autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture&quot; loading=&quot;lazy&quot;&gt;&lt;/iframe&gt;
+
+</description>
+        <pubDate>Mon, 07 Aug 2023 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2023/08/07/podcast-series/</link>
+        <guid isPermaLink="true">http://localhost:4000/2023/08/07/podcast-series/</guid>
+        
+        <category>podcasts</category>
         
         
       </item>

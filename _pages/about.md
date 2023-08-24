@@ -4,9 +4,15 @@ title: About
 permalink: /about/
 ---
 
+This project is funded by the National Science Foundation.   
+
 # Our Team  
 - Leading PI: Ping Wang
-
+- [Dr. Pengyu Hong](https://www.cs.brandeis.edu/~hong/){:target="_blank"}
+- [Dr. Nicholas Dygert](https://eps.utk.edu/faculty/dygert.php){:target="_blank"}
+- [Dr. Jeffrey Moersch](https://eps.utk.edu/faculty/moersch.php){:target="_blank"}
+- [Dr. Shichun Huang](https://faculty.utk.edu/Shichun.Huang){:target="_blank"}
+- [Dr. Vasileios Maroulas](https://math.utk.edu/people/vasileios-maroulas/){:target="_blank"}
 
 # Our Partners 
 - American Museum of Science and Energy

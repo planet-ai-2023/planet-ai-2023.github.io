@@ -11,6 +11,7 @@ tags: [ resources, projectApollo ]
 - [The Apollo Lunar Samples (LPI)](https://www.lpi.usra.edu/lunar/samples/#catalogues){:target="_blank"}
 - [The Apollo Thin Sections (LPI)](https://www.lpi.usra.edu/lunar/samples/atlas/thin_sections/){:target="_blank"}
 - [The Apollo Lunar Petrographic Thin Section Set (NASA)](https://curator.jsc.nasa.gov/education/lunar-thinsections.cfm){:target="_blank"}
+- [Astromaterials 3D Apollo Lunar Collection](https://ares.jsc.nasa.gov/astromaterials3d/apollo-lunar.htm){:target="_blank"}
 - [The Apollo Image Gallery (NASA)](https://www.nasa.gov/mission_pages/apollo/images.html){:target="_blank"}
 - [Kaguya HDTV Data (JAXA)](https://www.darts.isas.jaxa.jp/planet/project/selene/hdtv/index.html.en){:target="_blank"}
 - [The Apollo Landing Site Geology (USGS)](https://pubs.usgs.gov/publication/pp1048){:target="_blank"}

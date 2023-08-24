@@ -54,6 +54,12 @@ Period of time during which a sample has been at or near the lunar surface, asse
 - **Feldspar**   
 Family of silicate mineral containing varying amounts of potassium, sodium, and calcium along with aluminum, silicon, and oxygen
 
+- **Grain**   
+The term grain refers to a small rock element, a mineral or rock particle, less than a few millimeters in diameter, and generally lacking well-developed crystal faces, for example, a sand grain. A description of groundmass texture and grain size, following the definitions provided in Williams et al. (1982), such as glassy, microcrystalline (i.e., requires a petrographic microscope to distinguish individual crystals), fine grained (<1 mm but large enough to identify with a hand lens), medium grained (1-5 mm), or coarse grained (>5 mm).
+
+- **Grain broundary**   
+If several grains are in contact, the contact surface or the thin domain of the transition from one grain to another is called grain boundary. More precisely, following the usage of material science, the grain boundary corresponds to the case where the grains in contact are of the same phase; the general case (crystal contact without any ohter mention) is referred by the word interface. 
+
 - **Highland basalt**   
 Compositional term for rocks or glasses with the composition of very aluminous basalt
 
@@ -104,6 +110,9 @@ Soil breccia
 
 - **Troctolite**   
 Terms for lunar rocks consisting essentially of plagioclase and olivine with little or no pyroxene. If spinel-bearing, it is termed spinel-troctolite.
+
+- **Vesicles**   
+Vesicles are the small holes left behind after lava cools and turns into volcanic rock. Vesicles help geologists understand the cooling history of extrusive (volcanic rocks) because lava contains large amounts of dissolved gases that are released as the lava hardens. A similar process can be seen when bubbles created by yeast are released in the bread-making process or when dissolved carbon dioxide is released when a can of soda is opened.
 
 - **Vitrification**   
 Formation of a glass from a crystalline precursors generally by impact melting
