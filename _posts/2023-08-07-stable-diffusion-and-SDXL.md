@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How Stable Diffusion Works"
+title:  "Stable Diffusion and SDXL"
 date: 2023-08-07
 image: assets/images/alien_desert.png
 tags: [ AI ]
@@ -33,20 +33,7 @@ Image Segmentation. In <em>MICCAI (3), volume 9351 of Lecture Notes in Computer 
 - Nataniel Ruiz, Yuanzhen Li, Varun Jampani, Yael Pritch, Michael Rubinstein, and Kfir Aberman. Dreambooth: Fine tuning text-to-image diffusion models for subject-driven generation. In <em>Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition</em>, pp. 22500-22510. 2023. [pdf](https://arxiv.org/pdf/2208.12242.pdf){:target="_blank"} / [project page](https://dreambooth.github.io/){:target="_blank"}
 - Rinon Gal, Yuval Alaluf, Yuval Atzmon, Or Patashnik, Amit H. Bermano, Gal Chechik, and Daniel Cohen-Or. An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion. In <em>CVPR</em>, 2022. [pdf](https://arxiv.org/pdf/2208.01618.pdf){:target="_blank"}
 
-**CODE**
 
-The development of Stable Diffusion was funded and shaped by <em>**Stability AI**</em>. The model was released by the CompVis group at Ludwig Maximilian University of Munich. Development was led by Patrick Esser of Runway and Robin Rombach of CompVis, who were among the researchers who had earlier invented the latent diffusion model architecture used by Stable Diffusion. 
-
-[CompVis / stable-diffusion](https://github.com/CompVis/stable-diffusion?ref=jousefmurad.com#stable-diffusion-v1){:target="_blank"}
-
-
-**TRAINING DATA**
-
-According to Wikipedia, Stable Diffusion was trained off three massive datasets collected by LAION, a nonprofit whose compute time was largely funded by <em>**Stability AI**</em>: laion2B-en, laion-high-resolution, and laion-aesthetics v2 5+, which are subsets of LAION-5B. The model was initially trained on the laion2B-en and laion-high-resolution subsets, with the last few rounds of training done on LAION-Aesthetics v2 5+, a subset of 600 million captioned images which the LAION-Aesthetics Predictor V2 predicted that humans would, on average, give a score of at least 5 out of 10 when asked to rate how much they liked them. The LAION-Aesthetics v2 5+ subset also excluded low-resolution images and images which LAION-5B-WatermarkDetection identified as carrying a watermark with greater than 80% probability. Final rounds of training additionally dropped 10% of text conditioning to improve Classifier-Free Diffusion Guidance. The model was trained using 256 Nvidia A100 GPUs on Amazon Web Services for a total of 150,000 GPU-hours, at a cost of $600,000.
-
-**DIFFUSERS**
-
-[Diffusers](https://huggingface.co/docs/diffusers/index){:target="_blank"} is the go-to library for state-of-the-art pretrained diffusion models for generating images, audio, and even 3D structures of molecules. Whether you’re looking for a simple inference solution or want to train your own diffusion model, Diffusers is a modular toolbox that supports both. Our library is designed with a focus on usability over performance, simple over easy, and customizability over abstractions.
 
 
 
