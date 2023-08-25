@@ -5,8 +5,8 @@
     <description>The moon is beautiful, isn&apos;t it?</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 25 Aug 2023 08:22:07 -0400</pubDate>
-    <lastBuildDate>Fri, 25 Aug 2023 08:22:07 -0400</lastBuildDate>
+    <pubDate>Fri, 25 Aug 2023 09:47:35 -0400</pubDate>
+    <lastBuildDate>Fri, 25 Aug 2023 09:47:35 -0400</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -552,6 +552,43 @@ Click &lt;code&gt;Save&lt;/code&gt;.
         <pubDate>Tue, 08 Aug 2023 00:00:00 -0400</pubDate>
         <link>http://localhost:4000/2023/08/08/google-colab-tutorial/</link>
         <guid isPermaLink="true">http://localhost:4000/2023/08/08/google-colab-tutorial/</guid>
+        
+        <category>AI</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Computer Vision for Planetary Data</title>
+        <description>&lt;p&gt;&lt;strong&gt;ARTICLES&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Philipp Lindenberger, Paul-Edouard Sarlin, and Marc Pollefeys. LightGlue: Local Feature Matching at Light Speed. In &lt;em&gt;CVPR&lt;/em&gt;, 2023. &lt;a href=&quot;https://arxiv.org/pdf/2306.13643.pdf&quot; target=&quot;_blank&quot;&gt;pdf&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Paul-Edouard Sarlin, Daniel DeTone, Tomasz Malisiewicz, and Andrew Rabinovich. SuperGlue: Learning Feature Matching with Graph Neural Networks. In &lt;em&gt;CVPR&lt;/em&gt;, 2022. &lt;a href=&quot;https://arxiv.org/pdf/1911.11763.pdf&quot; target=&quot;_blank&quot;&gt;pdf&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;David G. Lowe. Distinctive Image Features from Scale-Invariant Keypoints. &lt;a href=&quot;https://www.cs.ubc.ca/~lowe/papers/ijcv04.pdf&quot; target=&quot;_blank&quot;&gt;pdf&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+The thumbnail image of this article is an upscaled image of the photomicrograph of the Apollo lunar rock #65015 thin section. The rock was collected from the lower slope of Stone Mountain but the exact lunar orientation is unknown. It’s said that Charlie Duke was holding the sample 65015 at Station 5 (Stone Mountain), Apollo 16. This sample is an impact melt breccia. Here’s the some of the dialogue between Charlie Duke and John Young as they discuss the rock:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt; &lt;em&gt;Duke: John?&lt;/em&gt;&lt;br /&gt;
+ &lt;em&gt;Young: Yes, sir.&lt;/em&gt; &lt;br /&gt;
+ &lt;em&gt;Duke: That is the best sample we got.&lt;/em&gt; &lt;br /&gt;
+ &lt;em&gt;Young: I know it.&lt;/em&gt; &lt;br /&gt;
+ &lt;em&gt;Duke: I’ll tell you. That is a crystalline rock if I’ve ever seen a crystalline rock.&lt;/em&gt; &lt;br /&gt;
+ &lt;em&gt;Young: First one today!&lt;/em&gt; &lt;br /&gt;
+ &lt;em&gt;Duke: Yeah.&lt;/em&gt; &lt;br /&gt;
+ &lt;em&gt;Young: (Laughing) At least the first one you could say was one, maybe.&lt;/em&gt;  &lt;br /&gt;
+ &lt;em&gt;Duke: That is a great rock.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+</description>
+        <pubDate>Tue, 08 Aug 2023 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2023/08/08/computer-vision-for-planetary-data/</link>
+        <guid isPermaLink="true">http://localhost:4000/2023/08/08/computer-vision-for-planetary-data/</guid>
         
         <category>AI</category>
         
