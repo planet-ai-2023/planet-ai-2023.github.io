@@ -5,8 +5,8 @@
     <description>The moon is beautiful, isn&apos;t it?</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 24 Aug 2023 15:36:54 -0400</pubDate>
-    <lastBuildDate>Thu, 24 Aug 2023 15:36:54 -0400</lastBuildDate>
+    <pubDate>Fri, 25 Aug 2023 08:22:07 -0400</pubDate>
+    <lastBuildDate>Fri, 25 Aug 2023 08:22:07 -0400</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -475,6 +475,46 @@ Stable Diffusion 2 is a text-to-image latent diffusion model built upon the work
       </item>
     
       <item>
+        <title>Stable Diffusion and SDXL</title>
+        <description>&lt;p&gt;&lt;strong&gt;ARTICLES&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Dustin Podell, Zion English, Kyle Lacey, Andreas Blattmann, Tim Dockhorn, Jonas Müller, Joe Penna, and Robin Rombach. SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesis. In &lt;em&gt;CVPR&lt;/em&gt;, 2023. &lt;a href=&quot;https://arxiv.org/pdf/2307.01952.pdf&quot; target=&quot;_blank&quot;&gt;pdf&lt;/a&gt; / &lt;a href=&quot;https://github.com/Stability-AI/generative-models&quot; target=&quot;_blank&quot;&gt;code&lt;/a&gt; / &lt;a href=&quot;https://huggingface.co/stabilityai/&quot; target=&quot;_blank&quot;&gt;Model weights&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Robin Rombach, Andreas Blattmann, Dominik Lorenz, Patrick Esser, and Björn Ommer. High-resolution
+image synthesis with latent diffusion models. In &lt;em&gt;Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)&lt;/em&gt;, pages 10684–10695, June 2022. &lt;a href=&quot;https://arxiv.org/pdf/2112.10752.pdf&quot; target=&quot;_blank&quot;&gt;pdf&lt;/a&gt; / &lt;a href=&quot;https://ommer-lab.com/research/latent-diffusion-models/&quot; target=&quot;_blank&quot;&gt;project page&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Yang Song and Stefano Ermon. Generative Modeling by Estimating Gradients of the Data Distribution.  In &lt;em&gt;NeurIPS&lt;/em&gt;, 2019. &lt;a href=&quot;https://arxiv.org/pdf/1907.05600.pdf&quot; target=&quot;_blank&quot;&gt;pdf&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Yang Song and Stefano Ermon. Improved Techniques for Training Score-Based Generative Models. In &lt;em&gt;NeurIPS&lt;/em&gt;, 2020. &lt;a href=&quot;https://arxiv.org/pdf/2006.09011.pdf&quot; target=&quot;_blank&quot;&gt;pdf&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Jonathan Ho, Ajay Jain, and Pieter Abbeel. Denoising Diffusion Probabilistic Models. &lt;em&gt;arxiv Preprint arxiv:2006.11239&lt;/em&gt;, 2020. &lt;a href=&quot;https://arxiv.org/pdf/2006.11239.pdf&quot; target=&quot;_blank&quot;&gt;pdf&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Olaf Ronneberger, Philipp Fischer, and Thomas Brox. U-Net: Convolutional Networks for Biomedical
+Image Segmentation. In &lt;em&gt;MICCAI (3), volume 9351 of Lecture Notes in Computer Science&lt;/em&gt;, pages 234–241. Springer, 2015. &lt;a href=&quot;https://arxiv.org/pdf/1505.04597.pdf&quot; target=&quot;_blank&quot;&gt;pdf&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Kevin Frans,Lisa B.Soros, and Olaf Witkowski. Clipdraw. Exploring text-to-drawing synthesis through language- image encoders. In &lt;em&gt;ArXiv&lt;/em&gt;, abs/2106.14843, 2021. &lt;a href=&quot;https://arxiv.org/pdf/2106.14843.pdf&quot; target=&quot;_blank&quot;&gt;pdf&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Alec Radford, Jong Wook Kim, Chris Hallacy, Aditya Ramesh, Gabriel Goh, Sandhini Agarwal, Girish Sastry, Amanda Askell, Pamela Mishkin, Jack Clark, Gretchen Krueger, and Ilya Sutskever. Learning Transferable Visual Models From Natural Language Supervision. In &lt;em&gt;CVPR&lt;/em&gt;, 2021. &lt;a href=&quot;https://arxiv.org/pdf/2103.00020.pdf&quot; target=&quot;_blank&quot;&gt;pdf&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Jonathan Ho, and Tim Salimans. Classifier-Free Diffusion Guidance. In &lt;em&gt;NeurIPS&lt;/em&gt;, 2022. &lt;a href=&quot;https://arxiv.org/pdf/2207.12598.pdf&quot; target=&quot;_blank&quot;&gt;pdf&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Alexey Dosovitskiy, Lucas Beyer, Alexander Kolesnikov, Dirk Weissenborn, Xiaohua Zhai, Thomas Unterthiner, Mostafa Dehghani, Matthias Minderer, Georg Heigold, Sylvain Gelly, Jakob Uszkoreit, and Neil Houlsby. An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale. In &lt;em&gt;ICLR&lt;/em&gt;, 2021. &lt;a href=&quot;https://arxiv.org/pdf/2010.11929.pdf&quot; target=&quot;_blank&quot;&gt;pdf&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, and Illia Polosukhin. Attention is all you need. In &lt;em&gt;NIPS&lt;/em&gt;, pages 5998–6008, 2017. &lt;a href=&quot;https://arxiv.org/pdf/1706.03762.pdf&quot; target=&quot;_blank&quot;&gt;pdf&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Lvmin Zhang and Maneesh Agrawala. Adding Conditional Control to Text-to-Image Diffusion Models. In &lt;em&gt;CVPR&lt;/em&gt;, 2023. &lt;a href=&quot;https://arxiv.org/pdf/2302.05543.pdf&quot; target=&quot;_blank&quot;&gt;pdf&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Shanchuan Lin, Bingchen Liu, Jiashi Li, and Xiao Yang. Common Diffusion Noise Schedules and Sample Steps are Flawed. In &lt;em&gt;CVPR&lt;/em&gt;, 2023. &lt;a href=&quot;https://arxiv.org/pdf/2305.08891.pdf&quot; target=&quot;_blank&quot;&gt;pdf&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Tim Brooks, Aleksander Holynski, and Alexei A. Efros. InstructPix2Pix: Learning to Follow Image Editing Instructions. In &lt;em&gt;CVPR&lt;/em&gt;, 2023. &lt;a href=&quot;https://arxiv.org/pdf/2211.09800.pdf&quot; target=&quot;_blank&quot;&gt;pdf&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Ben Poole, Ajay Jain, Jonathan T. Barron, and Ben Mildenhall. DreamFusion: Text-to-3D using 2D Diffusion. In &lt;em&gt;CVPR&lt;/em&gt;, 2022. &lt;a href=&quot;https://arxiv.org/pdf/2209.14988.pdf&quot; target=&quot;_blank&quot;&gt;pdf&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Jonathan Tseng, Castellon Rodrigo, and C. Karen Liu. Edge: Editable dance generation from music. In &lt;em&gt;Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition&lt;/em&gt;, pp. 448-458, 2023. &lt;a href=&quot;https://arxiv.org/pdf/2211.10658.pdf&quot; target=&quot;_blank&quot;&gt;pdf&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Roman Suvorov, Elizaveta Logacheva, Anton Mashikhin, Anastasia Remizova, Arsenii Ashukha, Aleksei Silvestrov, Naejin Kong, Harshith Goka, Kiwoong Park, and Victor Lempitsky. Resolution-robust Large Mask Inpainting with Fourier Convolutions. In &lt;em&gt;CVPR&lt;/em&gt;, 2022. &lt;a href=&quot;https://arxiv.org/pdf/2109.07161.pdf&quot; target=&quot;_blank&quot;&gt;pdf&lt;/a&gt; / &lt;a href=&quot;https://advimman.github.io/lama-project/&quot; target=&quot;_blank&quot;&gt;project page&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Nataniel Ruiz, Yuanzhen Li, Varun Jampani, Yael Pritch, Michael Rubinstein, and Kfir Aberman. Dreambooth: Fine tuning text-to-image diffusion models for subject-driven generation. In &lt;em&gt;Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition&lt;/em&gt;, pp. 22500-22510. 2023. &lt;a href=&quot;https://arxiv.org/pdf/2208.12242.pdf&quot; target=&quot;_blank&quot;&gt;pdf&lt;/a&gt; / &lt;a href=&quot;https://dreambooth.github.io/&quot; target=&quot;_blank&quot;&gt;project page&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Rinon Gal, Yuval Alaluf, Yuval Atzmon, Or Patashnik, Amit H. Bermano, Gal Chechik, and Daniel Cohen-Or. An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion. In &lt;em&gt;CVPR&lt;/em&gt;, 2022. &lt;a href=&quot;https://arxiv.org/pdf/2208.01618.pdf&quot; target=&quot;_blank&quot;&gt;pdf&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Tue, 08 Aug 2023 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2023/08/08/stable-diffusion-and-SDXL/</link>
+        <guid isPermaLink="true">http://localhost:4000/2023/08/08/stable-diffusion-and-SDXL/</guid>
+        
+        <category>AI</category>
+        
+        
+      </item>
+    
+      <item>
         <title>Google Colab Tutorial</title>
         <description>&lt;p&gt;Google Colab is a free Jupyter notebook environment that runs in the cloud. You can use Google Colab from your browser so you don’t have to install anything on your own computer. With Google Colab, you can access Google’s computing resources, write and execture code, save and share.&lt;/p&gt;
 
@@ -512,46 +552,6 @@ Click &lt;code&gt;Save&lt;/code&gt;.
         <pubDate>Tue, 08 Aug 2023 00:00:00 -0400</pubDate>
         <link>http://localhost:4000/2023/08/08/google-colab-tutorial/</link>
         <guid isPermaLink="true">http://localhost:4000/2023/08/08/google-colab-tutorial/</guid>
-        
-        <category>AI</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Stable Diffusion and SDXL</title>
-        <description>&lt;p&gt;&lt;strong&gt;ARTICLES&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Dustin Podell, Zion English, Kyle Lacey, Andreas Blattmann, Tim Dockhorn, Jonas Müller, Joe Penna, and Robin Rombach. SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesis. In &lt;em&gt;CVPR&lt;/em&gt;, 2023. &lt;a href=&quot;https://arxiv.org/pdf/2307.01952.pdf&quot; target=&quot;_blank&quot;&gt;pdf&lt;/a&gt; / &lt;a href=&quot;https://github.com/Stability-AI/generative-models&quot; target=&quot;_blank&quot;&gt;code&lt;/a&gt; / &lt;a href=&quot;https://huggingface.co/stabilityai/&quot; target=&quot;_blank&quot;&gt;Model weights&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Robin Rombach, Andreas Blattmann, Dominik Lorenz, Patrick Esser, and Björn Ommer. High-resolution
-image synthesis with latent diffusion models. In &lt;em&gt;Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)&lt;/em&gt;, pages 10684–10695, June 2022. &lt;a href=&quot;https://arxiv.org/pdf/2112.10752.pdf&quot; target=&quot;_blank&quot;&gt;pdf&lt;/a&gt; / &lt;a href=&quot;https://ommer-lab.com/research/latent-diffusion-models/&quot; target=&quot;_blank&quot;&gt;project page&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Yang Song and Stefano Ermon. Generative Modeling by Estimating Gradients of the Data Distribution.  In &lt;em&gt;NeurIPS&lt;/em&gt;, 2019. &lt;a href=&quot;https://arxiv.org/pdf/1907.05600.pdf&quot; target=&quot;_blank&quot;&gt;pdf&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Yang Song and Stefano Ermon. Improved Techniques for Training Score-Based Generative Models. In &lt;em&gt;NeurIPS&lt;/em&gt;, 2020. &lt;a href=&quot;https://arxiv.org/pdf/2006.09011.pdf&quot; target=&quot;_blank&quot;&gt;pdf&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Jonathan Ho, Ajay Jain, and Pieter Abbeel. Denoising Diffusion Probabilistic Models. &lt;em&gt;arxiv Preprint arxiv:2006.11239&lt;/em&gt;, 2020. &lt;a href=&quot;https://arxiv.org/pdf/2006.11239.pdf&quot; target=&quot;_blank&quot;&gt;pdf&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Olaf Ronneberger, Philipp Fischer, and Thomas Brox. U-Net: Convolutional Networks for Biomedical
-Image Segmentation. In &lt;em&gt;MICCAI (3), volume 9351 of Lecture Notes in Computer Science&lt;/em&gt;, pages 234–241. Springer, 2015. &lt;a href=&quot;https://arxiv.org/pdf/1505.04597.pdf&quot; target=&quot;_blank&quot;&gt;pdf&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Kevin Frans,Lisa B.Soros, and Olaf Witkowski. Clipdraw. Exploring text-to-drawing synthesis through language- image encoders. In &lt;em&gt;ArXiv&lt;/em&gt;, abs/2106.14843, 2021. &lt;a href=&quot;https://arxiv.org/pdf/2106.14843.pdf&quot; target=&quot;_blank&quot;&gt;pdf&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Alec Radford, Jong Wook Kim, Chris Hallacy, Aditya Ramesh, Gabriel Goh, Sandhini Agarwal, Girish Sastry, Amanda Askell, Pamela Mishkin, Jack Clark, Gretchen Krueger, and Ilya Sutskever. Learning Transferable Visual Models From Natural Language Supervision. In &lt;em&gt;CVPR&lt;/em&gt;, 2021. &lt;a href=&quot;https://arxiv.org/pdf/2103.00020.pdf&quot; target=&quot;_blank&quot;&gt;pdf&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Jonathan Ho, and Tim Salimans. Classifier-Free Diffusion Guidance. In &lt;em&gt;NeurIPS&lt;/em&gt;, 2022. &lt;a href=&quot;https://arxiv.org/pdf/2207.12598.pdf&quot; target=&quot;_blank&quot;&gt;pdf&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Alexey Dosovitskiy, Lucas Beyer, Alexander Kolesnikov, Dirk Weissenborn, Xiaohua Zhai, Thomas Unterthiner, Mostafa Dehghani, Matthias Minderer, Georg Heigold, Sylvain Gelly, Jakob Uszkoreit, and Neil Houlsby. An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale. In &lt;em&gt;ICLR&lt;/em&gt;, 2021. &lt;a href=&quot;https://arxiv.org/pdf/2010.11929.pdf&quot; target=&quot;_blank&quot;&gt;pdf&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, and Illia Polosukhin. Attention is all you need. In &lt;em&gt;NIPS&lt;/em&gt;, pages 5998–6008, 2017. &lt;a href=&quot;https://arxiv.org/pdf/1706.03762.pdf&quot; target=&quot;_blank&quot;&gt;pdf&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Lvmin Zhang and Maneesh Agrawala. Adding Conditional Control to Text-to-Image Diffusion Models. In &lt;em&gt;CVPR&lt;/em&gt;, 2023. &lt;a href=&quot;https://arxiv.org/pdf/2302.05543.pdf&quot; target=&quot;_blank&quot;&gt;pdf&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Shanchuan Lin, Bingchen Liu, Jiashi Li, and Xiao Yang. Common Diffusion Noise Schedules and Sample Steps are Flawed. In &lt;em&gt;CVPR&lt;/em&gt;, 2023. &lt;a href=&quot;https://arxiv.org/pdf/2305.08891.pdf&quot; target=&quot;_blank&quot;&gt;pdf&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Tim Brooks, Aleksander Holynski, and Alexei A. Efros. InstructPix2Pix: Learning to Follow Image Editing Instructions. In &lt;em&gt;CVPR&lt;/em&gt;, 2023. &lt;a href=&quot;https://arxiv.org/pdf/2211.09800.pdf&quot; target=&quot;_blank&quot;&gt;pdf&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Ben Poole, Ajay Jain, Jonathan T. Barron, and Ben Mildenhall. DreamFusion: Text-to-3D using 2D Diffusion. In &lt;em&gt;CVPR&lt;/em&gt;, 2022. &lt;a href=&quot;https://arxiv.org/pdf/2209.14988.pdf&quot; target=&quot;_blank&quot;&gt;pdf&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Jonathan Tseng, Castellon Rodrigo, and C. Karen Liu. Edge: Editable dance generation from music. In &lt;em&gt;Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition&lt;/em&gt;, pp. 448-458, 2023. &lt;a href=&quot;https://arxiv.org/pdf/2211.10658.pdf&quot; target=&quot;_blank&quot;&gt;pdf&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Roman Suvorov, Elizaveta Logacheva, Anton Mashikhin, Anastasia Remizova, Arsenii Ashukha, Aleksei Silvestrov, Naejin Kong, Harshith Goka, Kiwoong Park, and Victor Lempitsky. Resolution-robust Large Mask Inpainting with Fourier Convolutions. In &lt;em&gt;CVPR&lt;/em&gt;, 2022. &lt;a href=&quot;https://arxiv.org/pdf/2109.07161.pdf&quot; target=&quot;_blank&quot;&gt;pdf&lt;/a&gt; / &lt;a href=&quot;https://advimman.github.io/lama-project/&quot; target=&quot;_blank&quot;&gt;project page&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Nataniel Ruiz, Yuanzhen Li, Varun Jampani, Yael Pritch, Michael Rubinstein, and Kfir Aberman. Dreambooth: Fine tuning text-to-image diffusion models for subject-driven generation. In &lt;em&gt;Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition&lt;/em&gt;, pp. 22500-22510. 2023. &lt;a href=&quot;https://arxiv.org/pdf/2208.12242.pdf&quot; target=&quot;_blank&quot;&gt;pdf&lt;/a&gt; / &lt;a href=&quot;https://dreambooth.github.io/&quot; target=&quot;_blank&quot;&gt;project page&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Rinon Gal, Yuval Alaluf, Yuval Atzmon, Or Patashnik, Amit H. Bermano, Gal Chechik, and Daniel Cohen-Or. An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion. In &lt;em&gt;CVPR&lt;/em&gt;, 2022. &lt;a href=&quot;https://arxiv.org/pdf/2208.01618.pdf&quot; target=&quot;_blank&quot;&gt;pdf&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-</description>
-        <pubDate>Mon, 07 Aug 2023 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/2023/08/07/stable-diffusion-and-SDXL/</link>
-        <guid isPermaLink="true">http://localhost:4000/2023/08/07/stable-diffusion-and-SDXL/</guid>
         
         <category>AI</category>
         

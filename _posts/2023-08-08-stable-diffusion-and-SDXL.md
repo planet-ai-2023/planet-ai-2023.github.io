@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Stable Diffusion and SDXL"
-date: 2023-08-07
-image: assets/images/alien_desert.png
+date: 2023-08-08
+image: assets/images/w.png
 tags: [ AI ]
 ---
 

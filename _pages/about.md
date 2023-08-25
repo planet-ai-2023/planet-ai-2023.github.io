@@ -14,9 +14,17 @@ This project is funded by the National Science Foundation.
 - [Dr. Shichun Huang](https://faculty.utk.edu/Shichun.Huang){:target="_blank"}
 - [Dr. Vasileios Maroulas](https://math.utk.edu/people/vasileios-maroulas/){:target="_blank"}
 
+# Our Advisors
+- Dr. Kristin Bass
+- Dr. Liyuan Liang
+- [Dr. Monae Verbeke](https://www.instituteforlearninginnovation.org/person/monae-verbeke-ph-d/){:target="_blank"}
+- [Dr. Misha Petaev](https://eps.harvard.edu/people/misha-petaev){:target="_blank"}
+- [Dr. Yingjuan Ma](https://epss.ucla.edu/people/researchers/655/){:target="_blank"}
+- [Dr. Zhong Lu](https://www.smu.edu/Dedman/Academics/Departments/Earth-Sciences/People/Faculty/Lu){:target="_blank"}
+
 # Our Partners 
-- American Museum of Science and Energy
-- Department of Earth and Planetary Sciences, University of Tennessee, Knoxville
+- [American Museum of Science and Energy](https://amse.org/){:target="_blank"}
+- [Department of Earth and Planetary Sciences, University of Tennessee, Knoxville](https://eps.utk.edu/){:target="_blank"}
 - University of Tennessee NASA Space Grant Consortium
 
 # Sign Up for Our Newsletters    
