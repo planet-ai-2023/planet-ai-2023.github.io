@@ -5,8 +5,8 @@
     <description>The moon is beautiful, isn&apos;t it?</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 25 Aug 2023 16:25:09 -0400</pubDate>
-    <lastBuildDate>Fri, 25 Aug 2023 16:25:09 -0400</lastBuildDate>
+    <pubDate>Sun, 27 Aug 2023 21:45:17 -0400</pubDate>
+    <lastBuildDate>Sun, 27 Aug 2023 21:45:17 -0400</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -170,6 +170,8 @@ The thumbnail image of this article is &lt;em&gt;Far Side of the Moon&lt;/em&gt;
         <link>http://localhost:4000/2023/08/09/the-apollo-lunar-geology-glossary/</link>
         <guid isPermaLink="true">http://localhost:4000/2023/08/09/the-apollo-lunar-geology-glossary/</guid>
         
+        <category>planet</category>
+        
         <category>projectApollo</category>
         
         
@@ -206,6 +208,8 @@ The thumbnail image of this article is &lt;em&gt;Far Side of the Moon&lt;/em&gt;
         <pubDate>Wed, 09 Aug 2023 00:00:00 -0400</pubDate>
         <link>http://localhost:4000/2023/08/09/project-apollo-related_links/</link>
         <guid isPermaLink="true">http://localhost:4000/2023/08/09/project-apollo-related_links/</guid>
+        
+        <category>planet</category>
         
         <category>projectApollo</category>
         
@@ -591,6 +595,8 @@ The thumbnail image of this article is an upscaled image of the photomicrograph 
         <guid isPermaLink="true">http://localhost:4000/2023/08/08/computer-vision-for-planetary-data/</guid>
         
         <category>AI</category>
+        
+        <category>planet</category>
         
         
       </item>

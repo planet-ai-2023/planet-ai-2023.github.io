@@ -39,9 +39,6 @@
 <loc>http://localhost:4000/about/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/tag/archives/</loc>
-</url>
-<url>
 <loc>http://localhost:4000/tag/events/</loc>
 </url>
 <url>
@@ -51,10 +48,13 @@
 <loc>http://localhost:4000/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/tag/newsletters/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/newsletters/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/tag/newsletters/</loc>
+<loc>http://localhost:4000/tag/planet/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/tag/podcasts/</loc>

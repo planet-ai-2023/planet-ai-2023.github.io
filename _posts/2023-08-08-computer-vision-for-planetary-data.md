@@ -3,7 +3,7 @@ layout: post
 title:  "Computer Vision for Planetary Data"
 date: 2023-08-08
 image: assets/images/65015_edited.png
-tags: [ AI ]
+tags: [ AI, planet ]
 ---
 
 
