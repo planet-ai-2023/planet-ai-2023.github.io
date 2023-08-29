@@ -5,8 +5,8 @@
     <description>The moon is beautiful, isn&apos;t it?</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 27 Aug 2023 21:45:17 -0400</pubDate>
-    <lastBuildDate>Sun, 27 Aug 2023 21:45:17 -0400</lastBuildDate>
+    <pubDate>Mon, 28 Aug 2023 08:29:00 -0400</pubDate>
+    <lastBuildDate>Mon, 28 Aug 2023 08:29:00 -0400</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -256,6 +256,8 @@ The thumbnail image of this article is &lt;em&gt;Far Side of the Moon&lt;/em&gt;
         <guid isPermaLink="true">http://localhost:4000/2023/08/08/using-stable-diffusion-webui-on-google-colab/</guid>
         
         <category>AI</category>
+        
+        <category>tutorials</category>
         
         
       </item>
@@ -558,6 +560,8 @@ Click &lt;code&gt;Save&lt;/code&gt;.
         <guid isPermaLink="true">http://localhost:4000/2023/08/08/google-colab-tutorial/</guid>
         
         <category>AI</category>
+        
+        <category>tutorials</category>
         
         
       </item>

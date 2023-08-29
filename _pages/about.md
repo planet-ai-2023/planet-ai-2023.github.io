@@ -19,6 +19,8 @@ This project is funded by the National Science Foundation.
 - Dr. Liyuan Liang
 - [Dr. Monae Verbeke](https://www.instituteforlearninginnovation.org/person/monae-verbeke-ph-d/){:target="_blank"}
 - [Dr. Misha Petaev](https://eps.harvard.edu/people/misha-petaev){:target="_blank"}
+- [Dr. Amelia Robinson](https://eps.utk.edu/people/faculty/){:target="_blank"}
+- [Dr. Shalaunda Reeves](https://tpte.utk.edu/people/shalaunda-reeves-phd/){:target="_blank"}
 - [Dr. Yingjuan Ma](https://epss.ucla.edu/people/researchers/655/){:target="_blank"}
 - [Dr. Zhong Lu](https://www.smu.edu/Dedman/Academics/Departments/Earth-Sciences/People/Faculty/Lu){:target="_blank"}
 
