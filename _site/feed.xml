@@ -5,13 +5,15 @@
     <description>The moon is beautiful, isn&apos;t it?</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 13 Sep 2023 10:53:29 -0400</pubDate>
-    <lastBuildDate>Wed, 13 Sep 2023 10:53:29 -0400</lastBuildDate>
+    <pubDate>Wed, 13 Sep 2023 12:41:41 -0400</pubDate>
+    <lastBuildDate>Wed, 13 Sep 2023 12:41:41 -0400</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
-        <title>Webinar: A Tutorial on Uncertainty Quantification of Neural Networks and Its Application for Reliable Detection of Steel Wire Rope Defects</title>
-        <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Saturday, September 16, 2023 8-9am Eastern &lt;br /&gt;
+        <title>Webinar on Sep 15: A Tutorial on Uncertainty Quantification of Neural Networks</title>
+        <description>&lt;p&gt;&lt;img width=&quot;500&quot; src=&quot;/assets/images/uq_zhang.png&quot; class=&quot;img-fluid&quot; alt=&quot;webinar&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Saturday, September 16, 2023 8-9am Eastern &lt;br /&gt;
 &lt;strong&gt;Location:&lt;/strong&gt; Online &lt;br /&gt;
 &lt;strong&gt;Registration Link:&lt;/strong&gt; &lt;a href=&quot;https://tennessee.zoom.us/meeting/register/tZYtfu2urj0pGdSAVVlD4_voRzhmtxjTtgNV&quot; target=&quot;_blank&quot;&gt;https://tennessee.zoom.us/meeting/register/tZYtfu2urj0pGdSAVVlD4_voRzhmtxjTtgNV&lt;/a&gt;   &lt;br /&gt;
 &lt;strong&gt;Cost:&lt;/strong&gt; Free&lt;br /&gt;
@@ -25,8 +27,8 @@ This coming Saturday, Sep 18 8-9am Eastern, Dr. Xiaoge Zhang, An Assistasnt Prof
 
 </description>
         <pubDate>Wed, 13 Sep 2023 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/2023/09/13/webinar-a-tutorial-on-uncertainty-quantification-of-neural-network/</link>
-        <guid isPermaLink="true">http://localhost:4000/2023/09/13/webinar-a-tutorial-on-uncertainty-quantification-of-neural-network/</guid>
+        <link>http://localhost:4000/2023/09/13/webinar-sep-15-a-tutorial-on-uncertainty-quantification-of-neural-network/</link>
+        <guid isPermaLink="true">http://localhost:4000/2023/09/13/webinar-sep-15-a-tutorial-on-uncertainty-quantification-of-neural-network/</guid>
         
         <category>events</category>
         

@@ -1,10 +1,11 @@
 ---
 layout: post
-title:  "Webinar: A Tutorial on Uncertainty Quantification of Neural Networks and Its Application for Reliable Detection of Steel Wire Rope Defects"
+title:  "Webinar on Sep 15: A Tutorial on Uncertainty Quantification of Neural Networks"
 date: 2023-09-13
 image: assets/images/uq.png
 tags: [ events ]
 ---
+<img width=500 src="/assets/images/uq_zhang.png" class="img-fluid" alt="webinar" />   
 
 **When:** Saturday, September 16, 2023 8-9am Eastern   
 **Location:** Online   

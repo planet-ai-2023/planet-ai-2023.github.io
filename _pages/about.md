@@ -4,18 +4,18 @@ title: About
 permalink: /about/
 ---
 
-This project is funded by the National Science Foundation.   
+Planet+AI is an interdisciplinary outreach project funded by the National Science Foundation, which aims to engage our youths, particularly high school students in the State of TN, and the public at large, in exploring AI by working with planetary images and planetary datasets.   
 
 # Our Team  
 - Leading PI: Ping Wang
 - [Dr. Pengyu Hong](https://www.cs.brandeis.edu/~hong/){:target="_blank"}
+- Dr. Kristin Bass
 - [Dr. Nicholas Dygert](https://eps.utk.edu/people/faculty/){:target="_blank"}
 - [Dr. Jeffrey Moersch](https://eps.utk.edu/people/faculty/){:target="_blank"}
 - [Dr. Shichun Huang](https://eps.utk.edu/people/faculty/){:target="_blank"}
 - [Dr. Vasileios Maroulas](https://math.utk.edu/people/vasileios-maroulas/){:target="_blank"}
 
 # Our Advisors
-- Dr. Kristin Bass
 - Dr. Liyuan Liang
 - [Dr. Monae Verbeke](https://www.instituteforlearninginnovation.org/person/monae-verbeke-ph-d/){:target="_blank"}
 - [Dr. Misha Petaev](https://eps.harvard.edu/people/misha-petaev){:target="_blank"}
