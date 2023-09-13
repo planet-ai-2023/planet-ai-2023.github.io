@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Webinar on Sep 15: A Tutorial on Uncertainty Quantification of Neural Networks"
-date: 2023-09-13
+title:  "Webinar on Sep 16: A Tutorial on Uncertainty Quantification of Neural Networks"
+date: 2023-09-11
 image: assets/images/uq.png
 tags: [ events ]
 ---
