@@ -2,7 +2,6 @@
     <div class="card">
         <a class="text-dark" href="{{ site.baseurl }}{{ post.url }}"><img class = "card-img-top" src="{% if post.image contains "://" %}{{ post.image }}{% else %}{{ site.baseurl }}/{{ post.image }}{% endif %}" alt="{{ post.title }}"></a>      
         <div class="card-body">
-            <span class="post-date">{{ post.date | date_to_string }}</span>
             <h3 class="card-title"><a class="text-dark" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
             <div class="article-tag">Tags: 
                 {% if post.tags.size >= 1 %}
