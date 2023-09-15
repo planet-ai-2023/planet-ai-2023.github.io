@@ -14,10 +14,17 @@ Planet+AI is an interdisciplinary outreach project funded by the National Scienc
 - [Dr. Jeffrey Moersch](https://eps.utk.edu/people/faculty/){:target="_blank"}
 - [Dr. Shichun Huang](https://eps.utk.edu/people/faculty/){:target="_blank"}
 - [Dr. Vasileios Maroulas](https://math.utk.edu/people/vasileios-maroulas/){:target="_blank"}
+- Quinn Argall
+- Dr. Amy Robinson
+- Dr. Shalaunda Reeves
+- Melody Hawkins
+- Dr. Janine Al-aseer
+- Dr. Monae Verbeke   
 
     We are very thankful to:
 - Dr. Eugene Smith   
-    We lost Gene on June 22, 2023. Gene is a friend, a great colleague and he has been supporting our work since the beginning. We will always have Gene in our hearts.       
+    <img width=350 src="/assets/images/gene.png" class="img-fluid" alt="Dr. Eugene Smith" />       
+    We lost Gene on June 22, 2023. Gene is a planetary scientist, a friend, a great colleague and he has been supporting our work since the beginning. We will always have Gene in our hearts.       
 - [Dr. John Bush](http://thales.mit.edu/bush/){:target="_blank"}   
     We are thankful to [Dr. John Bush](http://thales.mit.edu/bush/){:target="_blank"} for allowing us to use his fantastic hydrodynamic quantum analogs photos.   
 
