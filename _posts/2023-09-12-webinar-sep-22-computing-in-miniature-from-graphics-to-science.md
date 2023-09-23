@@ -3,7 +3,7 @@ layout: post
 title:  "Webinar on Sep 22: Computing in Miniature: From Graphics to Science"
 date: 2023-09-11
 image: assets/images/bo.png
-tags: [ events, webinars ]
+tags: [ events ]
 ---
 
 **When:** Friday, Sep 22, 2023 4-5pm Eastern   
@@ -15,7 +15,7 @@ Step into a magnificent miniature wonderland where small insects gracefully trav
 
 Dr. Bo Zhu is an Assistant Professor affiliated to the School of Interactive Computing at Georgia Institute of Technology. His research focuses on the intersection of computer graphics, computational physics, computational design and fabrication, and scientific machine learning. He obtained his Ph.D. in Computer Science from Stanford University and completed postdoctoral training at MIT CSAIL. His works have been supported by multiple funding agencies and industrial sponsors. He is a recipient of the NSF CAREER Award in 2022.
 
-This event is sponsored by the National Science Foundation and also by TN Space Grant Consortium at UTK.
+This event is supported by the National Science Foundation and also by the TN Space Grant Consortium at UTK.
 <br/>
 <br/>
 <br/>
