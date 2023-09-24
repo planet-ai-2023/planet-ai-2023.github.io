@@ -5,9 +5,35 @@
     <description>The moon is beautiful, isn&apos;t it?</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 23 Sep 2023 10:52:11 -0400</pubDate>
-    <lastBuildDate>Sat, 23 Sep 2023 10:52:11 -0400</lastBuildDate>
+    <pubDate>Sun, 24 Sep 2023 08:41:25 -0400</pubDate>
+    <lastBuildDate>Sun, 24 Sep 2023 08:41:25 -0400</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
+    
+      <item>
+        <title>Webinar on Oct 13: Inverse Problems, Imaging and Tensor Decomposition</title>
+        <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Friday, Oct 13, 2023 4-5pm Central &lt;br /&gt;
+&lt;strong&gt;Location:&lt;/strong&gt; Online &lt;br /&gt;
+&lt;strong&gt;Registration Link:&lt;/strong&gt; &lt;a href=&quot;https://tennessee.zoom.us/meeting/register/tZ0sfu6vrDstGNTQVwF_62lX9GJ3mJ2w6OoP&quot; target=&quot;_blank&quot;&gt;https://tennessee.zoom.us/meeting/register/tZ0sfu6vrDstGNTQVwF_62lX9GJ3mJ2w6OoP&lt;/a&gt;   &lt;br /&gt;
+&lt;strong&gt;Cost:&lt;/strong&gt; Free&lt;br /&gt;
+&lt;strong&gt;Details:&lt;/strong&gt;  &lt;br /&gt;
+Dr. Joe Kileel will talk about cryo-electron microscopy (cryo-EM), an imaging technique to determine the 3-D shape of macromolecules from many noisy 2-D projections, recognized by the 2017 Chemistry Nobel Prize. He will also disucss tensor rank decomposition, a higher-order variant of PCA broadly applicable in data science.&lt;/p&gt;
+
+&lt;p&gt;Dr. Joe Kileel is an Assistant Professor at UT Austin in the Department of Mathematics, Oden Institute for Computational Engineering and Sciences and Machine Learning Laboratory. He got his Bachelar and Master’s degree in Mathematics from the University of Cambridge, and his PhD in Mathematics from University of California, Berkeley. His research interests lie in applied mathematics and computational algebra, specifically, 3D reconstruction in cryo-electron microscopy and computer vision; tensors; method of moments; nonconvex landscapes; applied algebraic geometry.&lt;/p&gt;
+
+&lt;p&gt;This event is supported by the National Science Foundation and also by the TN Space Grant Consortium at UTK.
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 23 Sep 2023 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2023/09/23/webinar-oct-13-inverse-problems-imaging-tensor-decomposition/</link>
+        <guid isPermaLink="true">http://localhost:4000/2023/09/23/webinar-oct-13-inverse-problems-imaging-tensor-decomposition/</guid>
+        
+        <category>events</category>
+        
+        
+      </item>
     
       <item>
         <title>Webinar on Oct 6: Mixed Traffic Control Via Reinforcement Learning</title>
@@ -66,6 +92,8 @@ This event is supported by the National Science Foundation and also by the TN Sp
         <guid isPermaLink="true">http://localhost:4000/2023/09/22/recorded-webinar-computing-in-miniature-from-graphics-to-science/</guid>
         
         <category>webinars</category>
+        
+        <category>AI</category>
         
         
       </item>
@@ -313,22 +341,6 @@ Click &lt;code&gt;Save&lt;/code&gt;.
         <category>AI</category>
         
         <category>tutorials</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Experiment with AI on Space Topics Podcast Series</title>
-        <description>&lt;iframe style=&quot;border-radius:12px&quot; src=&quot;https://open.spotify.com/embed/episode/7FikU0jhQgseLIvMIzji83?utm_source=generator&amp;amp;theme=0&quot; width=&quot;77%&quot; height=&quot;300&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; allow=&quot;autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture&quot; loading=&quot;lazy&quot;&gt;&lt;/iframe&gt;
-
-&lt;iframe style=&quot;border-radius:12px&quot; src=&quot;https://open.spotify.com/embed/episode/4Vjc5RRvTmhGccPZHjYDlN?utm_source=generator&amp;amp;theme=0&quot; width=&quot;77%&quot; height=&quot;300&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; allow=&quot;autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture&quot; loading=&quot;lazy&quot;&gt;&lt;/iframe&gt;
-
-</description>
-        <pubDate>Mon, 07 Aug 2023 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/2023/08/07/podcast-series/</link>
-        <guid isPermaLink="true">http://localhost:4000/2023/08/07/podcast-series/</guid>
-        
-        <category>podcasts</category>
         
         
       </item>

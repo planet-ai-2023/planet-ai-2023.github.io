@@ -2,7 +2,7 @@
 layout: post
 title:  "Webinar on Oct 6: Mixed Traffic Control Via Reinforcement Learning"
 date: 2023-09-23
-image: assets/images/rl_li.png
+image: assets/images/weizili.png
 tags: [ events ]
 ---
 
