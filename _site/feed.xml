@@ -5,9 +5,35 @@
     <description>The moon is beautiful, isn&apos;t it?</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 24 Sep 2023 08:41:25 -0400</pubDate>
-    <lastBuildDate>Sun, 24 Sep 2023 08:41:25 -0400</lastBuildDate>
+    <pubDate>Thu, 28 Sep 2023 07:00:33 -0400</pubDate>
+    <lastBuildDate>Thu, 28 Sep 2023 07:00:33 -0400</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
+    
+      <item>
+        <title>Webinar on Nov 20: Solar System Treks</title>
+        <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Monday, Nov 20, 2023 4-5pm Pacific &lt;br /&gt;
+&lt;strong&gt;Location:&lt;/strong&gt; Online &lt;br /&gt;
+&lt;strong&gt;Registration Link:&lt;/strong&gt; &lt;a href=&quot;https://tennessee.zoom.us/webinar/register/WN_rf-7v9OuRzuzvcWTBlemTw&quot; target=&quot;_blank&quot;&gt;https://tennessee.zoom.us/webinar/register/WN_rf-7v9OuRzuzvcWTBlemTw&lt;/a&gt;   &lt;br /&gt;
+&lt;strong&gt;Cost:&lt;/strong&gt; Free&lt;br /&gt;
+&lt;strong&gt;Details:&lt;/strong&gt;  &lt;br /&gt;
+Emily Law will talk about the Solar System Trek&lt;/p&gt;
+
+&lt;p&gt;Emily Law has been working at NASA’s Jet Propulsion Laboratory for over 20 years where she has provided leadership and management in data intensive system architecture, development and operations.  Emily currently serves as Deputy Program Manager overseeing Earth Science Data Systems technology development, in addition to managing the Solar System Treks Project.&lt;/p&gt;
+
+&lt;p&gt;This event is supported by the National Science Foundation and also by the TN Space Grant Consortium at UTK.
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 28 Sep 2023 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2023/09/28/webinar-nov-20-solar-system-treks/</link>
+        <guid isPermaLink="true">http://localhost:4000/2023/09/28/webinar-nov-20-solar-system-treks/</guid>
+        
+        <category>events</category>
+        
+        
+      </item>
     
       <item>
         <title>Webinar on Oct 13: Inverse Problems, Imaging and Tensor Decomposition</title>
@@ -29,6 +55,32 @@ Dr. Joe Kileel will talk about cryo-electron microscopy (cryo-EM), an imaging te
         <pubDate>Sat, 23 Sep 2023 00:00:00 -0400</pubDate>
         <link>http://localhost:4000/2023/09/23/webinar-oct-13-inverse-problems-imaging-tensor-decomposition/</link>
         <guid isPermaLink="true">http://localhost:4000/2023/09/23/webinar-oct-13-inverse-problems-imaging-tensor-decomposition/</guid>
+        
+        <category>events</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Webinar on Oct 7: Learning for Decision Making</title>
+        <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Saturday, Oct 7, 2023 4-5pm Eastern &lt;br /&gt;
+&lt;strong&gt;Location:&lt;/strong&gt; Online &lt;br /&gt;
+&lt;strong&gt;Registration Link:&lt;/strong&gt; &lt;a href=&quot;https://tennessee.zoom.us/webinar/register/WN_beALkKFoT1yqvAu2nx8fLQ&quot; target=&quot;_blank&quot;&gt;https://tennessee.zoom.us/webinar/register/WN_beALkKFoT1yqvAu2nx8fLQ&lt;/a&gt;   &lt;br /&gt;
+&lt;strong&gt;Cost:&lt;/strong&gt; Free&lt;br /&gt;
+&lt;strong&gt;Details:&lt;/strong&gt;  &lt;br /&gt;
+Dr. Bo Dai will talk about Learning for Decision Making.&lt;/p&gt;
+
+&lt;p&gt;Dr. Bo Dai is an assistant professor at CSE in Georgia Tech. He is also affiliated with Google DeepMind as a staff research scientist. His principal research interest lies on Decision AI, aiming for practical decision-making and planning algorithms with computational and statistical efficiency.&lt;/p&gt;
+
+&lt;p&gt;This event is supported by the National Science Foundation and also by the TN Space Grant Consortium at UTK.
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 23 Sep 2023 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2023/09/23/webinar-oct-7-learning-for-decision-making/</link>
+        <guid isPermaLink="true">http://localhost:4000/2023/09/23/webinar-oct-7-learning-for-decision-making/</guid>
         
         <category>events</category>
         
@@ -251,92 +303,6 @@ This coming Saturday, Sep 16 8-9am Eastern, Dr. Xiaoge Zhang, An Assistasnt Prof
         <pubDate>Tue, 08 Aug 2023 00:00:00 -0400</pubDate>
         <link>http://localhost:4000/2023/08/08/using-stable-diffusion-webui-on-google-colab/</link>
         <guid isPermaLink="true">http://localhost:4000/2023/08/08/using-stable-diffusion-webui-on-google-colab/</guid>
-        
-        <category>AI</category>
-        
-        <category>tutorials</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Stable Diffusion and SDXL</title>
-        <description>&lt;p&gt;&lt;strong&gt;ARTICLES&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Dustin Podell, Zion English, Kyle Lacey, Andreas Blattmann, Tim Dockhorn, Jonas Müller, Joe Penna, and Robin Rombach. SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesis. In &lt;em&gt;CVPR&lt;/em&gt;, 2023. &lt;a href=&quot;https://arxiv.org/pdf/2307.01952.pdf&quot; target=&quot;_blank&quot;&gt;pdf&lt;/a&gt; / &lt;a href=&quot;https://github.com/Stability-AI/generative-models&quot; target=&quot;_blank&quot;&gt;code&lt;/a&gt; / &lt;a href=&quot;https://huggingface.co/stabilityai/&quot; target=&quot;_blank&quot;&gt;Model weights&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Robin Rombach, Andreas Blattmann, Dominik Lorenz, Patrick Esser, and Björn Ommer. High-resolution
-image synthesis with latent diffusion models. In &lt;em&gt;Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)&lt;/em&gt;, pages 10684–10695, June 2022. &lt;a href=&quot;https://arxiv.org/pdf/2112.10752.pdf&quot; target=&quot;_blank&quot;&gt;pdf&lt;/a&gt; / &lt;a href=&quot;https://ommer-lab.com/research/latent-diffusion-models/&quot; target=&quot;_blank&quot;&gt;project page&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Yang Song and Stefano Ermon. Generative Modeling by Estimating Gradients of the Data Distribution.  In &lt;em&gt;NeurIPS&lt;/em&gt;, 2019. &lt;a href=&quot;https://arxiv.org/pdf/1907.05600.pdf&quot; target=&quot;_blank&quot;&gt;pdf&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Yang Song and Stefano Ermon. Improved Techniques for Training Score-Based Generative Models. In &lt;em&gt;NeurIPS&lt;/em&gt;, 2020. &lt;a href=&quot;https://arxiv.org/pdf/2006.09011.pdf&quot; target=&quot;_blank&quot;&gt;pdf&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Jonathan Ho, Ajay Jain, and Pieter Abbeel. Denoising Diffusion Probabilistic Models. &lt;em&gt;arxiv Preprint arxiv:2006.11239&lt;/em&gt;, 2020. &lt;a href=&quot;https://arxiv.org/pdf/2006.11239.pdf&quot; target=&quot;_blank&quot;&gt;pdf&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Olaf Ronneberger, Philipp Fischer, and Thomas Brox. U-Net: Convolutional Networks for Biomedical
-Image Segmentation. In &lt;em&gt;MICCAI (3), volume 9351 of Lecture Notes in Computer Science&lt;/em&gt;, pages 234–241. Springer, 2015. &lt;a href=&quot;https://arxiv.org/pdf/1505.04597.pdf&quot; target=&quot;_blank&quot;&gt;pdf&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Kevin Frans,Lisa B.Soros, and Olaf Witkowski. Clipdraw. Exploring text-to-drawing synthesis through language- image encoders. In &lt;em&gt;ArXiv&lt;/em&gt;, abs/2106.14843, 2021. &lt;a href=&quot;https://arxiv.org/pdf/2106.14843.pdf&quot; target=&quot;_blank&quot;&gt;pdf&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Alec Radford, Jong Wook Kim, Chris Hallacy, Aditya Ramesh, Gabriel Goh, Sandhini Agarwal, Girish Sastry, Amanda Askell, Pamela Mishkin, Jack Clark, Gretchen Krueger, and Ilya Sutskever. Learning Transferable Visual Models From Natural Language Supervision. In &lt;em&gt;CVPR&lt;/em&gt;, 2021. &lt;a href=&quot;https://arxiv.org/pdf/2103.00020.pdf&quot; target=&quot;_blank&quot;&gt;pdf&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Jonathan Ho, and Tim Salimans. Classifier-Free Diffusion Guidance. In &lt;em&gt;NeurIPS&lt;/em&gt;, 2022. &lt;a href=&quot;https://arxiv.org/pdf/2207.12598.pdf&quot; target=&quot;_blank&quot;&gt;pdf&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Alexey Dosovitskiy, Lucas Beyer, Alexander Kolesnikov, Dirk Weissenborn, Xiaohua Zhai, Thomas Unterthiner, Mostafa Dehghani, Matthias Minderer, Georg Heigold, Sylvain Gelly, Jakob Uszkoreit, and Neil Houlsby. An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale. In &lt;em&gt;ICLR&lt;/em&gt;, 2021. &lt;a href=&quot;https://arxiv.org/pdf/2010.11929.pdf&quot; target=&quot;_blank&quot;&gt;pdf&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, and Illia Polosukhin. Attention is all you need. In &lt;em&gt;NIPS&lt;/em&gt;, pages 5998–6008, 2017. &lt;a href=&quot;https://arxiv.org/pdf/1706.03762.pdf&quot; target=&quot;_blank&quot;&gt;pdf&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Lvmin Zhang and Maneesh Agrawala. Adding Conditional Control to Text-to-Image Diffusion Models. In &lt;em&gt;CVPR&lt;/em&gt;, 2023. &lt;a href=&quot;https://arxiv.org/pdf/2302.05543.pdf&quot; target=&quot;_blank&quot;&gt;pdf&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Shanchuan Lin, Bingchen Liu, Jiashi Li, and Xiao Yang. Common Diffusion Noise Schedules and Sample Steps are Flawed. In &lt;em&gt;CVPR&lt;/em&gt;, 2023. &lt;a href=&quot;https://arxiv.org/pdf/2305.08891.pdf&quot; target=&quot;_blank&quot;&gt;pdf&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Tim Brooks, Aleksander Holynski, and Alexei A. Efros. InstructPix2Pix: Learning to Follow Image Editing Instructions. In &lt;em&gt;CVPR&lt;/em&gt;, 2023. &lt;a href=&quot;https://arxiv.org/pdf/2211.09800.pdf&quot; target=&quot;_blank&quot;&gt;pdf&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Ben Poole, Ajay Jain, Jonathan T. Barron, and Ben Mildenhall. DreamFusion: Text-to-3D using 2D Diffusion. In &lt;em&gt;CVPR&lt;/em&gt;, 2022. &lt;a href=&quot;https://arxiv.org/pdf/2209.14988.pdf&quot; target=&quot;_blank&quot;&gt;pdf&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Jonathan Tseng, Castellon Rodrigo, and C. Karen Liu. Edge: Editable dance generation from music. In &lt;em&gt;Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition&lt;/em&gt;, pp. 448-458, 2023. &lt;a href=&quot;https://arxiv.org/pdf/2211.10658.pdf&quot; target=&quot;_blank&quot;&gt;pdf&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Roman Suvorov, Elizaveta Logacheva, Anton Mashikhin, Anastasia Remizova, Arsenii Ashukha, Aleksei Silvestrov, Naejin Kong, Harshith Goka, Kiwoong Park, and Victor Lempitsky. Resolution-robust Large Mask Inpainting with Fourier Convolutions. In &lt;em&gt;CVPR&lt;/em&gt;, 2022. &lt;a href=&quot;https://arxiv.org/pdf/2109.07161.pdf&quot; target=&quot;_blank&quot;&gt;pdf&lt;/a&gt; / &lt;a href=&quot;https://advimman.github.io/lama-project/&quot; target=&quot;_blank&quot;&gt;project page&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Nataniel Ruiz, Yuanzhen Li, Varun Jampani, Yael Pritch, Michael Rubinstein, and Kfir Aberman. Dreambooth: Fine tuning text-to-image diffusion models for subject-driven generation. In &lt;em&gt;Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition&lt;/em&gt;, pp. 22500-22510. 2023. &lt;a href=&quot;https://arxiv.org/pdf/2208.12242.pdf&quot; target=&quot;_blank&quot;&gt;pdf&lt;/a&gt; / &lt;a href=&quot;https://dreambooth.github.io/&quot; target=&quot;_blank&quot;&gt;project page&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Rinon Gal, Yuval Alaluf, Yuval Atzmon, Or Patashnik, Amit H. Bermano, Gal Chechik, and Daniel Cohen-Or. An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion. In &lt;em&gt;CVPR&lt;/em&gt;, 2022. &lt;a href=&quot;https://arxiv.org/pdf/2208.01618.pdf&quot; target=&quot;_blank&quot;&gt;pdf&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-</description>
-        <pubDate>Tue, 08 Aug 2023 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/2023/08/08/stable-diffusion-and-SDXL/</link>
-        <guid isPermaLink="true">http://localhost:4000/2023/08/08/stable-diffusion-and-SDXL/</guid>
-        
-        <category>AI</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Google Colab Tutorial</title>
-        <description>&lt;p&gt;Google Colab is a free Jupyter notebook environment that runs in the cloud. You can use Google Colab from your browser so you don’t have to install anything on your own computer. With Google Colab, you can access Google’s computing resources, write and execture code, save and share.&lt;/p&gt;
-
-&lt;h1 id=&quot;use-the-bash-commands&quot;&gt;Use the Bash Commands&lt;/h1&gt;
-&lt;p&gt;You can use most of the bash commands with a &lt;code&gt;!&lt;/code&gt; added in front of the command.&lt;/p&gt;
-&lt;h1 id=&quot;use-gpus-on-colab&quot;&gt;Use GPUs on Colab&lt;/h1&gt;
-&lt;p&gt;If you use the free GPU, click and choose &lt;code&gt;Runtime&lt;/code&gt; -&amp;gt; &lt;code&gt;Change Runtime Type&lt;/code&gt; -&amp;gt; &lt;code&gt;Hardware accelerator&lt;/code&gt; &lt;br /&gt;
-If you use the paid version of the GPUs, click and choose &lt;code&gt;Runtime&lt;/code&gt; -&amp;gt; &lt;code&gt;Change Runtime Type&lt;/code&gt;,then you will choose the following:
-&lt;img width=&quot;350&quot; src=&quot;/assets/images/gpu_colab.png&quot; class=&quot;img-fluid&quot; alt=&quot;Colab GPUs&quot; /&gt; &lt;br /&gt;
-Click &lt;code&gt;Save&lt;/code&gt;.
-&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-&lt;h1 id=&quot;ubuntu-20045-lts-at-the-time-of-this-writing&quot;&gt;Ubuntu 20.04.5 LTS at the time of this writing&lt;/h1&gt;
-&lt;p&gt;The Colab notebook is running on top of the Ubuntu 20.04.5 LTS at the time of this writing (2/3/2023).
-&lt;img width=&quot;700&quot; src=&quot;/assets/images/ubuntu.png&quot; class=&quot;img-fluid&quot; alt=&quot;Ubuntu&quot; /&gt;
-&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-&lt;h1 id=&quot;check-gpus&quot;&gt;Check GPUs&lt;/h1&gt;
-&lt;p&gt;&lt;img width=&quot;700&quot; src=&quot;/assets/images/check_gpu.png&quot; class=&quot;img-fluid&quot; alt=&quot;GPUs&quot; /&gt;
-&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-&lt;h1 id=&quot;check-cuda-version-and-etc&quot;&gt;Check Cuda Version and etc.&lt;/h1&gt;
-&lt;p&gt;&lt;img width=&quot;700&quot; src=&quot;/assets/images/check_version.png&quot; class=&quot;img-fluid&quot; alt=&quot;Check Cuda&quot; /&gt;
-&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-&lt;h1 id=&quot;install-python-39&quot;&gt;Install Python 3.9&lt;/h1&gt;
-&lt;p&gt;&lt;img width=&quot;700&quot; src=&quot;/assets/images/install_python.png&quot; class=&quot;img-fluid&quot; alt=&quot;Install Python 3.9&quot; /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Tue, 08 Aug 2023 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/2023/08/08/google-colab-tutorial/</link>
-        <guid isPermaLink="true">http://localhost:4000/2023/08/08/google-colab-tutorial/</guid>
         
         <category>AI</category>
         
