@@ -5,8 +5,8 @@
     <description>The moon is beautiful, isn&apos;t it?</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 28 Sep 2023 07:00:33 -0400</pubDate>
-    <lastBuildDate>Thu, 28 Sep 2023 07:00:33 -0400</lastBuildDate>
+    <pubDate>Fri, 29 Sep 2023 12:10:34 -0400</pubDate>
+    <lastBuildDate>Fri, 29 Sep 2023 12:10:34 -0400</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -88,22 +88,25 @@ Dr. Bo Dai will talk about Learning for Decision Making.&lt;/p&gt;
       </item>
     
       <item>
-        <title>Webinar on Oct 6: Mixed Traffic Control Via Reinforcement Learning</title>
-        <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Friday, Oct 6, 2023 4-5pm Eastern &lt;br /&gt;
+        <title>Webinar on Oct 5: Mars Daily Global Maps</title>
+        <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Thursday, Oct 5, 2023 4-5pm Eastern &lt;br /&gt;
 &lt;strong&gt;Location:&lt;/strong&gt; Online &lt;br /&gt;
-&lt;strong&gt;Registration Link:&lt;/strong&gt; &lt;a href=&quot;https://tennessee.zoom.us/meeting/register/tZMrfuGprDgrE9y3cO-nb0IhKJmdXsVJuxz9&quot; target=&quot;_blank&quot;&gt;https://tennessee.zoom.us/meeting/register/tZMrfuGprDgrE9y3cO-nb0IhKJmdXsVJuxz9&lt;/a&gt;   &lt;br /&gt;
+&lt;strong&gt;Registration Link:&lt;/strong&gt; &lt;a href=&quot;https://tennessee.zoom.us/webinar/register/WN_PmGL8gUHRvCRG80hvpTm8w&quot; target=&quot;_blank&quot;&gt;https://tennessee.zoom.us/webinar/register/WN_PmGL8gUHRvCRG80hvpTm8w&lt;/a&gt;   &lt;br /&gt;
 &lt;strong&gt;Cost:&lt;/strong&gt; Free&lt;br /&gt;
 &lt;strong&gt;Details:&lt;/strong&gt;  &lt;br /&gt;
-On Friday, Oct 6, 4-5pm Eastern, Dr. Weizi Li will give us a talk on Mixed Traffic Control Via Reinforcement Learning. Modeling and managing mixed traffic, which encompasses both robot and human-driven vehicles, is an increasingly significant focus within the field of Intelligent Transportation Systems. In this talk, I will introduce our recent progress on controlling mixed traffic at complex and unsignalized intersections through multi-agent reinforcement learning. Furthermore, I will discuss our subsequent research endeavors and future directions projecting from transportation autonomy to urban design and planning. Dr. Weizi Li is an Assistant Professor of Electrical Engineering and Computer Science at UTK. He was a Michael Hammer Postdoctoral Fellow at MIT and he received his Ph.D. in Computer Science from the UNC Chapel Hill. His research interests include intelligent transportation systems, robotics, machine learning, and multi-agent simulation. He is passionate about using simulation and machine learning to design and develop next-gen cyber-physical infrastructure for urban environments. 
-This event is supported by the National Science Foundation and also by the TN Space Grant Consortium at UTK.
+On Thursday, Oct 5, 4-5pm Eastern, Dr. Helen Wang will give us a talk on Mars Daily Global Maps.&lt;/p&gt;
+
+&lt;p&gt;Dr. Helen Wang is a Research Physicist of the Center for Astrophysics at Harvard University. She got her PhD from Caltech in Planetary Sciences in 2004. Her research areas lie in Planetary Atmosphere, Remote Sensing, Image Processing, and Numerical Simulations.&lt;/p&gt;
+
+&lt;p&gt;This event is supported by the National Science Foundation and also by the TN Space Grant Consortium at UTK.
 &lt;br /&gt;
 &lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 
 </description>
         <pubDate>Sat, 23 Sep 2023 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/2023/09/23/webinar-oct-6-mixed-traffic-control-via-reinforcement-learning/</link>
-        <guid isPermaLink="true">http://localhost:4000/2023/09/23/webinar-oct-6-mixed-traffic-control-via-reinforcement-learning/</guid>
+        <link>http://localhost:4000/2023/09/23/webinar-oct-5-mars-daily-global-maps/</link>
+        <guid isPermaLink="true">http://localhost:4000/2023/09/23/webinar-oct-5-mars-daily-global-maps/</guid>
         
         <category>events</category>
         
