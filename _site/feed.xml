@@ -5,8 +5,8 @@
     <description>The moon is beautiful, isn&apos;t it?</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 29 Sep 2023 14:33:41 -0400</pubDate>
-    <lastBuildDate>Fri, 29 Sep 2023 14:33:41 -0400</lastBuildDate>
+    <pubDate>Fri, 29 Sep 2023 15:54:19 -0400</pubDate>
+    <lastBuildDate>Fri, 29 Sep 2023 15:54:19 -0400</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -55,6 +55,32 @@ Dr. Joe Kileel will talk about cryo-electron microscopy (cryo-EM), an imaging te
         <pubDate>Sat, 23 Sep 2023 00:00:00 -0400</pubDate>
         <link>http://localhost:4000/2023/09/23/webinar-oct-13-inverse-problems-imaging-tensor-decomposition/</link>
         <guid isPermaLink="true">http://localhost:4000/2023/09/23/webinar-oct-13-inverse-problems-imaging-tensor-decomposition/</guid>
+        
+        <category>events</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Webinar on Oct 12: Exoplanets</title>
+        <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Thursday, Oct 12, 2023 4-5pm Pacific &lt;br /&gt;
+&lt;strong&gt;Location:&lt;/strong&gt; Online &lt;br /&gt;
+&lt;strong&gt;Registration Link:&lt;/strong&gt; &lt;a href=&quot;https://tennessee.zoom.us/webinar/register/WN_Q6vUV-gITNirGBR_zh9dWw&quot; target=&quot;_blank&quot;&gt;https://tennessee.zoom.us/webinar/register/WN_Q6vUV-gITNirGBR_zh9dWw&lt;/a&gt;   &lt;br /&gt;
+&lt;strong&gt;Cost:&lt;/strong&gt; Free&lt;br /&gt;
+&lt;strong&gt;Details:&lt;/strong&gt;  &lt;br /&gt;
+Dr. Jason Steffen will talk about exoplanets.&lt;/p&gt;
+
+&lt;p&gt;Dr. Jason Steffen is an Associate Professor of Physics at the University of Nevada, Las Vegas. Dr. Steffen studies the formation and properties of planets orbiting distant stars. He aslo does work in gravitation, particle astrophysics, dark matter, dark energy, and the boarding of airplane passengers.&lt;/p&gt;
+
+&lt;p&gt;This event is supported by the National Science Foundation and also by the TN Space Grant Consortium at UTK.
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 23 Sep 2023 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2023/09/23/webinar-oct-12-exoplanets/</link>
+        <guid isPermaLink="true">http://localhost:4000/2023/09/23/webinar-oct-12-exoplanets/</guid>
         
         <category>events</category>
         
@@ -251,45 +277,6 @@ This coming Saturday, Sep 16 8-9am Eastern, Dr. Xiaoge Zhang, An Assistasnt Prof
         <guid isPermaLink="true">http://localhost:4000/2023/09/11/webinar-sep-15-a-tutorial-on-uncertainty-quantification-of-neural-network/</guid>
         
         <category>events</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Project Apollo Related Links</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://catalog.data.gov/dataset/lunar-sample-compendium&quot; target=&quot;_blank&quot;&gt;The Apollo Lunar Sample (Data.gov)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://curator.jsc.nasa.gov/lunar/index.cfm#&quot; target=&quot;_blank&quot;&gt;Lunar Rocks and Soils from Apollo Missions (NASA)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.lpi.usra.edu/lunar/samples/#catalogues&quot; target=&quot;_blank&quot;&gt;The Apollo Lunar Samples (LPI)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.lpi.usra.edu/lunar/samples/atlas/thin_sections/&quot; target=&quot;_blank&quot;&gt;The Apollo Thin Sections (LPI)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://curator.jsc.nasa.gov/education/lunar-thinsections.cfm&quot; target=&quot;_blank&quot;&gt;The Apollo Lunar Petrographic Thin Section Set (NASA)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://ares.jsc.nasa.gov/astromaterials3d/apollo-lunar.htm&quot; target=&quot;_blank&quot;&gt;Astromaterials 3D Apollo Lunar Collection&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.nasa.gov/mission_pages/apollo/images.html&quot; target=&quot;_blank&quot;&gt;The Apollo Image Gallery (NASA)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.darts.isas.jaxa.jp/planet/project/selene/hdtv/index.html.en&quot; target=&quot;_blank&quot;&gt;Kaguya HDTV Data (JAXA)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://pubs.usgs.gov/publication/pp1048&quot; target=&quot;_blank&quot;&gt;The Apollo Landing Site Geology (USGS)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.lpi.usra.edu/resources/apollo&quot; target=&quot;_blank&quot;&gt;The Apollo Image Atlas&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.lpi.usra.edu/resources/apollopanoramas/&quot; target=&quot;_blank&quot;&gt;Apollo Surface Panoramas&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.lpi.usra.edu/lunar/documents&quot; target=&quot;_blank&quot;&gt;The Apollo-Era Documents&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://nssdc.gsfc.nasa.gov/planetary/planets/moonpage.html&quot; target=&quot;_blank&quot;&gt;The Moon (NASA National Space Science Data Center)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://astrogeology.usgs.gov/search?pmi-target=moon&quot; target=&quot;_blank&quot;&gt;The Moon (USGS ASTROPEDIA)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://airandspace.si.edu/explore/topics/space/apollo-program&quot; target=&quot;_blank&quot;&gt;The Apollo Program (Smithsonian)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://history.nasa.gov/alsj&quot; target=&quot;_blank&quot;&gt;The Apollo Lunar Surface Journal&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://history.nasa.gov/afj&quot; target=&quot;_blank&quot;&gt;The Apollo Flight Journal&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://authors.library.caltech.edu/5456/1/hrst.mit.edu/hrs/apollo/public/index.html&quot; target=&quot;_blank&quot;&gt;The Apollo Guidance Computer (Caltech)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://web.mit.edu/digitalapollo&quot; target=&quot;_blank&quot;&gt;Digital Apollo by David A. Mindell&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.sunburstandluminary.com/SLhome.html&quot; target=&quot;_blank&quot;&gt;An Apollo Memoir by Don Eyles&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.americasuncommonsense.com&quot; target=&quot;_blank&quot;&gt;Apollo 17 Astronaut Harrison Schmitt&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The thumbnail image of this article is &lt;em&gt;Apollo 17 Astronaut Harrison Schmitt Collects Lunar Rock Samples&lt;/em&gt; published by NASA/Marshall Space Flight Center. In this Apollo 17 onboard photo, Lunar Module pilot Harrison H. Schmitt collects rock samples from a huge boulder near the Valley of Tourus-Littrow on the lunar surface. The seventh and last manned lunar landing and return to Earth mission, the Apollo 17, carrying a crew of three astronauts: Schmitt; Mission Commander Eugene A. Cernan; and Command Module pilot Ronald E. Evans, lifted off on December 7, 1972 from the Kennedy Space Flight Center (KSC). Scientific objectives of the Apollo 17 mission included geological surveying and sampling of materials and surface features in a preselected area of the Taurus-Littrow region, deploying and activating surface experiments, and conducting in-flight experiments and photographic tasks during lunar orbit and transearth coast (TEC). These objectives included: Deployed experiments such as the Apollo lunar surface experiment package (ALSEP) with a Heat Flow experiment, Lunar seismic profiling (LSP), Lunar surface gravimeter (LSG), Lunar atmospheric composition experiment (LACE) and Lunar ejecta and meteorites (LEAM). The mission also included Lunar Sampling and Lunar orbital experiments. Biomedical experiments included the Biostack II Experiment and the BIOCORE experiment. The mission marked the longest Apollo mission, 504 hours, and the longest lunar surface stay time, 75 hours, which allowed the astronauts to conduct an extensive geological investigation. They collected 257 pounds (117 kilograms) of lunar samples with the use of the Marshall Space Flight Center designed Lunar Roving Vehicle (LRV). The mission ended on December 19, 1972.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 09 Aug 2023 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/2023/08/09/project-apollo-related_links/</link>
-        <guid isPermaLink="true">http://localhost:4000/2023/08/09/project-apollo-related_links/</guid>
-        
-        <category>planet</category>
-        
-        <category>projectApollo</category>
         
         
       </item>
