@@ -5,8 +5,8 @@
     <description>The moon is beautiful, isn&apos;t it?</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 29 Sep 2023 12:10:34 -0400</pubDate>
-    <lastBuildDate>Fri, 29 Sep 2023 12:10:34 -0400</lastBuildDate>
+    <pubDate>Fri, 29 Sep 2023 14:33:41 -0400</pubDate>
+    <lastBuildDate>Fri, 29 Sep 2023 14:33:41 -0400</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -55,6 +55,32 @@ Dr. Joe Kileel will talk about cryo-electron microscopy (cryo-EM), an imaging te
         <pubDate>Sat, 23 Sep 2023 00:00:00 -0400</pubDate>
         <link>http://localhost:4000/2023/09/23/webinar-oct-13-inverse-problems-imaging-tensor-decomposition/</link>
         <guid isPermaLink="true">http://localhost:4000/2023/09/23/webinar-oct-13-inverse-problems-imaging-tensor-decomposition/</guid>
+        
+        <category>events</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Webinar on Oct 9: Deep learning for large-scale material simulation with quantum accuracy</title>
+        <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Monday, Oct 9, 2023 4-5pm Eastern &lt;br /&gt;
+&lt;strong&gt;Location:&lt;/strong&gt; Online &lt;br /&gt;
+&lt;strong&gt;Registration Link:&lt;/strong&gt; &lt;a href=&quot;https://tennessee.zoom.us/webinar/register/WN_xi2W2XMpQD62pr_pVdwSGA&quot; target=&quot;_blank&quot;&gt;https://tennessee.zoom.us/webinar/register/WN_xi2W2XMpQD62pr_pVdwSGA&lt;/a&gt;   &lt;br /&gt;
+&lt;strong&gt;Cost:&lt;/strong&gt; Free&lt;br /&gt;
+&lt;strong&gt;Details:&lt;/strong&gt;  &lt;br /&gt;
+Dr. Yang Zhang will talk about Deep learning for large-scale material simulation with quantum accuracy.&lt;/p&gt;
+
+&lt;p&gt;Dr. Yang Zhang is an Assistant Professor of Physics and EECS, University of Tennessee, Knoxville. Prior to moving to UTK, he was a postdoctoral associate at the department of physics of the Massachusetts Institute of Technology from 2019-2022. He received his BE degree in Physics &amp;amp; Mathematics from Tsinghua University in Beijing, China in 2015, and Ph.D. in Physics from Max Planck Institute in Dresden, Germany in 2019.&lt;/p&gt;
+
+&lt;p&gt;This event is supported by the National Science Foundation and also by the TN Space Grant Consortium at UTK.
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 23 Sep 2023 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2023/09/23/webinar-oct-9-deep-learning-Deep-learning-for-large-scale-material-simulation-with-quantum-accuracy/</link>
+        <guid isPermaLink="true">http://localhost:4000/2023/09/23/webinar-oct-9-deep-learning-Deep-learning-for-large-scale-material-simulation-with-quantum-accuracy/</guid>
         
         <category>events</category>
         
@@ -264,52 +290,6 @@ This coming Saturday, Sep 16 8-9am Eastern, Dr. Xiaoge Zhang, An Assistasnt Prof
         <category>planet</category>
         
         <category>projectApollo</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Using Stable Diffusion WebUI on Google Colab</title>
-        <description>&lt;p&gt;&lt;strong&gt;How to run Stable Diffusion WebUI on Google Colab&lt;/strong&gt;&lt;/p&gt;
-&lt;ol&gt;
-  &lt;li&gt;Enable GPU.&lt;/li&gt;
-  &lt;li&gt;Download Stable Diffusion WebUI: &lt;br /&gt;
- &lt;code&gt;!git clone https://github.com/AUTOMATIC1111/stable-diffusion-webui&lt;/code&gt;&lt;/li&gt;
-  &lt;li&gt;Go to the Stable Diffusion WebUI directory: &lt;br /&gt;
- &lt;code&gt;%cd /content/stable-diffusion-webui&lt;/code&gt;&lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Launch the Stable Diffusion WebUI: &lt;br /&gt;
- &lt;code&gt;!python ./launch.py --share --xformers --enable-insecure-extension-access&lt;/code&gt;&lt;/p&gt;
-
-    &lt;p&gt;Parameters:   &lt;br /&gt;
- &lt;code&gt;--share&lt;/code&gt;: to publish to gradio.app &lt;br /&gt;
- &lt;code&gt;--xformers&lt;/code&gt;: to improve image generation speed &lt;br /&gt;
- &lt;code&gt;--enable-insecure-extensions-access&lt;/code&gt;: to install extensions&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;strong&gt;More resources&lt;/strong&gt;&lt;/p&gt;
-&lt;ol&gt;
-  &lt;li&gt;Here’s where you can find more about GIT:  &lt;br /&gt;
- &lt;a href=&quot;https://git-scm.com/docs/git&quot; target=&quot;_blank&quot;&gt;https://git-scm.com/docs/git&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Here’s where you can find Automatic 1111’s Stable Diffusion WebUI Github page: &lt;br /&gt;
- &lt;a href=&quot;https://github.com/AUTOMATIC1111/stable-diffusion-webui&quot; target=&quot;_blank&quot;&gt;https://github.com/AUTOMATIC1111/stable-diffusion-webui&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Here’s where you can find Automatic 1111’s Stable Diffusion WebUI wiki: &lt;br /&gt;
- &lt;a href=&quot;https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki&quot; target=&quot;_blank&quot;&gt;https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Heres’ where you can find more about how to use Google Colab: &lt;br /&gt;
- &lt;a href=&quot;https://research.google.com/colaboratory/faq.html&quot; target=&quot;_blank&quot;&gt;https://research.google.com/colaboratory/faq.html&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Here’s where you can find more about how to use shell commands in Google Colab: &lt;br /&gt;
- &lt;a href=&quot;https://jakevdp.github.io/PythonDataScienceHandbook/01.05-ipython-and-shell-commands.html&quot; target=&quot;_blank&quot;&gt;https://jakevdp.github.io/PythonDataScienceHandbook/01.05-ipython-and-shell-commands.html&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-</description>
-        <pubDate>Tue, 08 Aug 2023 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/2023/08/08/using-stable-diffusion-webui-on-google-colab/</link>
-        <guid isPermaLink="true">http://localhost:4000/2023/08/08/using-stable-diffusion-webui-on-google-colab/</guid>
-        
-        <category>AI</category>
-        
-        <category>tutorials</category>
         
         
       </item>
