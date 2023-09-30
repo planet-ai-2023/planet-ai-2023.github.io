@@ -5,8 +5,8 @@
     <description>The moon is beautiful, isn&apos;t it?</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 29 Sep 2023 15:54:19 -0400</pubDate>
-    <lastBuildDate>Fri, 29 Sep 2023 15:54:19 -0400</lastBuildDate>
+    <pubDate>Sat, 30 Sep 2023 09:35:16 -0400</pubDate>
+    <lastBuildDate>Sat, 30 Sep 2023 09:35:16 -0400</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -166,6 +166,30 @@ On Thursday, Oct 5, 4-5pm Eastern, Dr. Helen Wang will give us a talk on Mars Da
       </item>
     
       <item>
+        <title>Python for Apollo Thin Sections</title>
+        <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Saturday, Sep 30, 2023 4-5pm Eastern &lt;br /&gt;
+&lt;strong&gt;Location:&lt;/strong&gt; Online &lt;br /&gt;
+&lt;strong&gt;Registration Link:&lt;/strong&gt; &lt;a href=&quot;https://tennessee.zoom.us/webinar/register/WN_gTsTMGo-QaWNM9xxVDeXRg&quot; target=&quot;_blank&quot;&gt;https://tennessee.zoom.us/webinar/register/WN_gTsTMGo-QaWNM9xxVDeXRg&lt;/a&gt;   &lt;br /&gt;
+&lt;strong&gt;Cost:&lt;/strong&gt; Free&lt;br /&gt;
+&lt;strong&gt;Details:&lt;/strong&gt;  &lt;br /&gt;
+We will talk about ilmenite in Apollo thin sections.&lt;/p&gt;
+
+&lt;p&gt;This event is supported by the National Science Foundation and also by the TN Space Grant Consortium at UTK.
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 23 Sep 2023 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2023/09/23/python-for-apollo-thin-sections/</link>
+        <guid isPermaLink="true">http://localhost:4000/2023/09/23/python-for-apollo-thin-sections/</guid>
+        
+        <category>events</category>
+        
+        
+      </item>
+    
+      <item>
         <title>Recorded Webinar: Computing in Miniature: From Graphics to Science</title>
         <description>&lt;div class=&quot;col-12 col-md-9 col-lg-9 mb-9 gx-1&quot;&gt;
 
@@ -251,30 +275,6 @@ Step into a magnificent miniature wonderland where small insects gracefully trav
         <pubDate>Mon, 11 Sep 2023 00:00:00 -0400</pubDate>
         <link>http://localhost:4000/2023/09/11/webinar-sep-22-computing-in-miniature-from-graphics-to-science/</link>
         <guid isPermaLink="true">http://localhost:4000/2023/09/11/webinar-sep-22-computing-in-miniature-from-graphics-to-science/</guid>
-        
-        <category>events</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Webinar on Sep 16: A Tutorial on Uncertainty Quantification of Neural Networks</title>
-        <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Saturday, September 16, 2023 8-9am Eastern &lt;br /&gt;
-&lt;strong&gt;Location:&lt;/strong&gt; Online &lt;br /&gt;
-&lt;strong&gt;Registration Link:&lt;/strong&gt; &lt;a href=&quot;https://tennessee.zoom.us/meeting/register/tZYtfu2urj0pGdSAVVlD4_voRzhmtxjTtgNV&quot; target=&quot;_blank&quot;&gt;https://tennessee.zoom.us/meeting/register/tZYtfu2urj0pGdSAVVlD4_voRzhmtxjTtgNV&lt;/a&gt;   &lt;br /&gt;
-&lt;strong&gt;Cost:&lt;/strong&gt; Free&lt;br /&gt;
-&lt;strong&gt;Details:&lt;/strong&gt;  &lt;br /&gt;
-This coming Saturday, Sep 16 8-9am Eastern, Dr. Xiaoge Zhang, An Assistasnt Professor in the Department of Industrial and Systems Engineering at the Hong Kong Polytechnic University will give us a talk on Uncertainty Quantification of Neural Networks. This talk provides a holistic lens on emerging uncertainty quantification (UQ) methods for ML models with a particular focus on neural networks and gives a tutorial-style description of several state-of-the-art UQ methods: Gaussian process regression, Bayesian neural network, neural network ensemble, and deterministic UQ methods focusing on spectral-normalized neural Gaussian process (SNGP). Established upon the mathematical formulations, we subsequently examine the soundness of these UQ methods quantitatively and qualitatively (by a toy regression example) to examine their strengths and shortcomings from different dimensions. Based on the findings of the comparison, we exploit the advantages of SNGP in UQ and develop an uncertainty-aware deep neural network to detect the defects of steel wire rope. Computational experiments and comparisons with state-of-the-art models suggest that the principled uncertainty quantified by SNGP not only substantially enhances the prediction performance, but also provides an essential layer of protection for neural network against out-of-distribution data.&lt;/p&gt;
-
-&lt;p&gt;This event is supported by the National Science Foundation and also by the TN Space Grant Consortium at UTK.
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 11 Sep 2023 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/2023/09/11/webinar-sep-15-a-tutorial-on-uncertainty-quantification-of-neural-network/</link>
-        <guid isPermaLink="true">http://localhost:4000/2023/09/11/webinar-sep-15-a-tutorial-on-uncertainty-quantification-of-neural-network/</guid>
         
         <category>events</category>
         
