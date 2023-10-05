@@ -5,8 +5,8 @@
     <description>The moon is beautiful, isn&apos;t it?</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 05 Oct 2023 09:37:54 -0400</pubDate>
-    <lastBuildDate>Thu, 05 Oct 2023 09:37:54 -0400</lastBuildDate>
+    <pubDate>Thu, 05 Oct 2023 18:54:16 -0400</pubDate>
+    <lastBuildDate>Thu, 05 Oct 2023 18:54:16 -0400</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -29,6 +29,28 @@ Emily Law will talk about the Solar System Trek&lt;/p&gt;
         <pubDate>Thu, 28 Sep 2023 00:00:00 -0400</pubDate>
         <link>http://localhost:4000/2023/09/28/webinar-nov-20-solar-system-treks/</link>
         <guid isPermaLink="true">http://localhost:4000/2023/09/28/webinar-nov-20-solar-system-treks/</guid>
+        
+        <category>events</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Webinar on Oct 20: ClimaX: A Foundation Model for Weather &amp; Climate</title>
+        <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Friday, Oct 20, 2023 1-2pm Eastern &lt;br /&gt;
+&lt;strong&gt;Location:&lt;/strong&gt; Online &lt;br /&gt;
+&lt;strong&gt;Registration Link:&lt;/strong&gt; &lt;a href=&quot;https://tennessee.zoom.us/meeting/register/tZUkc-uhrDsuEtzMQCRXw60O60dsHNULoOLA&quot; target=&quot;_blank&quot;&gt;https://tennessee.zoom.us/meeting/register/tZUkc-uhrDsuEtzMQCRXw60O60dsHNULoOLA&lt;/a&gt;   &lt;br /&gt;
+&lt;strong&gt;Cost:&lt;/strong&gt; Free&lt;br /&gt;
+&lt;strong&gt;Details:&lt;/strong&gt;  &lt;br /&gt;
+Tung Nguyen, a PhD student at UCLA will talk about ClimatX: A Foundation Model for Weather &amp;amp; Climate, Best Paper at ICML Workshop on Synergy of Scientific and Machine Learning Modeling, Spotlght Oral at ICLR Workshop on AI and Climate Change. Tung Nguyen is a PhD student at UCLA, advised by Dr. Aditya Grover. This event is supported by the National Science Foundation and also by the TN Space Grant Consortium at UTK.
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 23 Sep 2023 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2023/09/23/webinar-oct-20-climax-a-foundation-model-for-weather-and-climate/</link>
+        <guid isPermaLink="true">http://localhost:4000/2023/09/23/webinar-oct-20-climax-a-foundation-model-for-weather-and-climate/</guid>
         
         <category>events</category>
         
@@ -251,32 +273,6 @@ We will talk about ilmenite in Apollo thin sections.&lt;/p&gt;
         <category>webinars</category>
         
         <category>AI</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Webinar on Sep 24: Interstellar</title>
-        <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Sunday, Sep 24, 2023 4-5pm Eastern &lt;br /&gt;
-&lt;strong&gt;Location:&lt;/strong&gt; Online &lt;br /&gt;
-&lt;strong&gt;Registration Link:&lt;/strong&gt; &lt;a href=&quot;https://tennessee.zoom.us/meeting/register/tZUsdeugrT8vGtFo5r3dhc8rAf5mgdvK2wX_&quot; target=&quot;_blank&quot;&gt;https://tennessee.zoom.us/meeting/register/tZUsdeugrT8vGtFo5r3dhc8rAf5mgdvK2wX_&lt;/a&gt;   &lt;br /&gt;
-&lt;strong&gt;Cost:&lt;/strong&gt; Free&lt;br /&gt;
-&lt;strong&gt;Details:&lt;/strong&gt;  &lt;br /&gt;
-Professor Dr. Avi Loeb from the Department of Astronomy, Harvard University, will talk about his book Interstellar and his group’s recent research from their expedition to retrieve fragments of the fireball off the western Pacific seafloor during 14-28th of June, 2023.&lt;/p&gt;
-
-&lt;p&gt;Dr. Avi Loeb is the Frank B. Baird Jr. Professor of Science at Harvard University. He received his PhD in Plasma Physics at age 24 from the Hebrew University of Jerusalem in 1986 and was subsequently a long-term member at the Institute for Advanced Study in Princeton during 1988-1993, where he started to work in theoretical astrophysics. In 1993, he moved to Harvard University where he was tenured three years later.&lt;/p&gt;
-
-&lt;p&gt;This event is supported by the National Science Foundation and also by the TN Space Grant Consortium at UTK.
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 11 Sep 2023 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/2023/09/11/webinar-sep-24-interstellar/</link>
-        <guid isPermaLink="true">http://localhost:4000/2023/09/11/webinar-sep-24-interstellar/</guid>
-        
-        <category>events</category>
         
         
       </item>
