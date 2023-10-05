@@ -7,7 +7,7 @@ tags: [ events ]
 ---
 
 
-**When:** Saturday, Sep 30, 2023 4-5pm Eastern   
+**When:** Saturday, Sep 30, 2023 7-8pm Eastern   
 **Location:** Online   
 **Registration Link:** [https://tennessee.zoom.us/webinar/register/WN_gTsTMGo-QaWNM9xxVDeXRg](https://tennessee.zoom.us/webinar/register/WN_gTsTMGo-QaWNM9xxVDeXRg){:target="_blank"}     
 **Cost:** Free  

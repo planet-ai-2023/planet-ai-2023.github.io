@@ -5,8 +5,8 @@
     <description>The moon is beautiful, isn&apos;t it?</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 30 Sep 2023 09:35:16 -0400</pubDate>
-    <lastBuildDate>Sat, 30 Sep 2023 09:35:16 -0400</lastBuildDate>
+    <pubDate>Thu, 05 Oct 2023 09:37:54 -0400</pubDate>
+    <lastBuildDate>Thu, 05 Oct 2023 09:37:54 -0400</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -140,6 +140,32 @@ Dr. Bo Dai will talk about Learning for Decision Making.&lt;/p&gt;
       </item>
     
       <item>
+        <title>Webinar on Oct 6: Rare Categoy Detection on Time-evolving Graphs</title>
+        <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Friday, Oct 6, 2023 4-5pm Eastern &lt;br /&gt;
+&lt;strong&gt;Location:&lt;/strong&gt; Online &lt;br /&gt;
+&lt;strong&gt;Registration Link:&lt;/strong&gt; &lt;a href=&quot;https://tennessee.zoom.us/meeting/register/tZYlduyuqDsrHtwf1cE1E-nic8gXnuSWao9S&quot; target=&quot;_blank&quot;&gt;https://tennessee.zoom.us/meeting/register/tZYlduyuqDsrHtwf1cE1E-nic8gXnuSWao9S&lt;/a&gt;   &lt;br /&gt;
+&lt;strong&gt;Cost:&lt;/strong&gt; Free&lt;br /&gt;
+&lt;strong&gt;Details:&lt;/strong&gt;  &lt;br /&gt;
+On Friday, Oct 5, 4-5pm Eastern, Dr. Dawei Zhou will give us a talk on Rare Category Detection on Time-evolving Graphs.&lt;/p&gt;
+
+&lt;p&gt;Dr. Dawei Zhou is an Assistant Professor at the Computer Science Department of Virginia Tech and the director of the VirginiaTech Learning on Graphs (VLOG) Lab. Zhou’s prior research on rare category detection, graph mining, curriculum learning, and algorithmic fairness, with applications in financial fraud detection, cyber security, financial forecasting, social media analysis, and healthcare. He obtained his Ph.D. degree from the Computer Science Department of the University of Illinois Urbana-Champaign (UIUC).&lt;/p&gt;
+
+&lt;p&gt;This event is supported by the National Science Foundation and also by the TN Space Grant Consortium at UTK.
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 23 Sep 2023 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2023/09/23/webinar-oct-6-rare-category-detection-on-time-evolving-graphs/</link>
+        <guid isPermaLink="true">http://localhost:4000/2023/09/23/webinar-oct-6-rare-category-detection-on-time-evolving-graphs/</guid>
+        
+        <category>events</category>
+        
+        
+      </item>
+    
+      <item>
         <title>Webinar on Oct 5: Mars Daily Global Maps</title>
         <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Thursday, Oct 5, 2023 4-5pm Eastern &lt;br /&gt;
 &lt;strong&gt;Location:&lt;/strong&gt; Online &lt;br /&gt;
@@ -167,7 +193,7 @@ On Thursday, Oct 5, 4-5pm Eastern, Dr. Helen Wang will give us a talk on Mars Da
     
       <item>
         <title>Python for Apollo Thin Sections</title>
-        <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Saturday, Sep 30, 2023 4-5pm Eastern &lt;br /&gt;
+        <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Saturday, Sep 30, 2023 7-8pm Eastern &lt;br /&gt;
 &lt;strong&gt;Location:&lt;/strong&gt; Online &lt;br /&gt;
 &lt;strong&gt;Registration Link:&lt;/strong&gt; &lt;a href=&quot;https://tennessee.zoom.us/webinar/register/WN_gTsTMGo-QaWNM9xxVDeXRg&quot; target=&quot;_blank&quot;&gt;https://tennessee.zoom.us/webinar/register/WN_gTsTMGo-QaWNM9xxVDeXRg&lt;/a&gt;   &lt;br /&gt;
 &lt;strong&gt;Cost:&lt;/strong&gt; Free&lt;br /&gt;
@@ -249,32 +275,6 @@ Professor Dr. Avi Loeb from the Department of Astronomy, Harvard University, wil
         <pubDate>Mon, 11 Sep 2023 00:00:00 -0400</pubDate>
         <link>http://localhost:4000/2023/09/11/webinar-sep-24-interstellar/</link>
         <guid isPermaLink="true">http://localhost:4000/2023/09/11/webinar-sep-24-interstellar/</guid>
-        
-        <category>events</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Webinar on Sep 22: Computing in Miniature: From Graphics to Science</title>
-        <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Friday, Sep 22, 2023 4-5pm Eastern &lt;br /&gt;
-&lt;strong&gt;Location:&lt;/strong&gt; Online &lt;br /&gt;
-&lt;strong&gt;Registration Link:&lt;/strong&gt; &lt;a href=&quot;https://tennessee.zoom.us/meeting/register/tZcpcO6tpz4rGdY1960ouSeU2_sbarc6_QGq&quot; target=&quot;_blank&quot;&gt;https://tennessee.zoom.us/meeting/register/tZcpcO6tpz4rGdY1960ouSeU2_sbarc6_QGq&lt;/a&gt;   &lt;br /&gt;
-&lt;strong&gt;Cost:&lt;/strong&gt; Free&lt;br /&gt;
-&lt;strong&gt;Details:&lt;/strong&gt;  &lt;br /&gt;
-Step into a magnificent miniature wonderland where small insects gracefully traverse the surface of the pond, raindrops delicately splash upon vibrating foliage, and dragonflies glide and soar through the air. In these scenarios, a symphony of small-scale interactions unfolds, captivating the imagination. In this talk, Dr. Zhu will showcase his group’s recent progress in developing advanced computational tools tailored to investigate the intricacies of these fascinating systems. His group’s work encompasses three key aspects. First, they invent novel geometric representations and solvers to simulate the complex processes of small-scale solids and fluids. Second, they construct computational design and optimization algorithms to push the performance limits of these systems and synthesize designs inspired by nature’s ingenuity. Lastly, they develop machine learning algorithms that integrate physical principles to uncover the governing mechanics underlying these intricate systems. These advancements constitute a fully automated computational pipeline, enabling the exploration of complex systems at a small length scale. Dr. Zhu will showcase applications of these computational tools in different disciplines, including pathogen transmission understanding, miniature robot design, new material discovery, and turbulence dynamics prediction.&lt;/p&gt;
-
-&lt;p&gt;Dr. Bo Zhu is an Assistant Professor affiliated to the School of Interactive Computing at Georgia Institute of Technology. His research focuses on the intersection of computer graphics, computational physics, computational design and fabrication, and scientific machine learning. He obtained his Ph.D. in Computer Science from Stanford University and completed postdoctoral training at MIT CSAIL. His works have been supported by multiple funding agencies and industrial sponsors. He is a recipient of the NSF CAREER Award in 2022.&lt;/p&gt;
-
-&lt;p&gt;This event is supported by the National Science Foundation and also by the TN Space Grant Consortium at UTK.
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 11 Sep 2023 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/2023/09/11/webinar-sep-22-computing-in-miniature-from-graphics-to-science/</link>
-        <guid isPermaLink="true">http://localhost:4000/2023/09/11/webinar-sep-22-computing-in-miniature-from-graphics-to-science/</guid>
         
         <category>events</category>
         
