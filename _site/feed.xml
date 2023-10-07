@@ -5,8 +5,8 @@
     <description>The moon is beautiful, isn&apos;t it?</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 05 Oct 2023 18:54:16 -0400</pubDate>
-    <lastBuildDate>Thu, 05 Oct 2023 18:54:16 -0400</lastBuildDate>
+    <pubDate>Sat, 07 Oct 2023 09:39:22 -0400</pubDate>
+    <lastBuildDate>Sat, 07 Oct 2023 09:39:22 -0400</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -29,6 +29,30 @@ Emily Law will talk about the Solar System Trek&lt;/p&gt;
         <pubDate>Thu, 28 Sep 2023 00:00:00 -0400</pubDate>
         <link>http://localhost:4000/2023/09/28/webinar-nov-20-solar-system-treks/</link>
         <guid isPermaLink="true">http://localhost:4000/2023/09/28/webinar-nov-20-solar-system-treks/</guid>
+        
+        <category>events</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Python for Apollo Thin Sections</title>
+        <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Saturday, Oct 7, 2023 7-8pm Eastern &lt;br /&gt;
+&lt;strong&gt;Location:&lt;/strong&gt; Online &lt;br /&gt;
+&lt;strong&gt;Registration Link:&lt;/strong&gt; &lt;a href=&quot;https://tennessee.zoom.us/meeting/register/tZElfuqtrT0qEtRH9D_pohLS2wPdSBIb7HrV&quot; target=&quot;_blank&quot;&gt;https://tennessee.zoom.us/meeting/register/tZElfuqtrT0qEtRH9D_pohLS2wPdSBIb7HrV&lt;/a&gt;   &lt;br /&gt;
+&lt;strong&gt;Cost:&lt;/strong&gt; Free&lt;br /&gt;
+&lt;strong&gt;Details:&lt;/strong&gt;  &lt;br /&gt;
+We will talk about how to use Python to create collages with Apollo thin section images.&lt;/p&gt;
+
+&lt;p&gt;This event is supported by the National Science Foundation and also by the TN Space Grant Consortium at UTK.
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 24 Sep 2023 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2023/09/24/python-for-apollo-thin-sections/</link>
+        <guid isPermaLink="true">http://localhost:4000/2023/09/24/python-for-apollo-thin-sections/</guid>
         
         <category>events</category>
         
@@ -233,46 +257,6 @@ We will talk about ilmenite in Apollo thin sections.&lt;/p&gt;
         <guid isPermaLink="true">http://localhost:4000/2023/09/23/python-for-apollo-thin-sections/</guid>
         
         <category>events</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Recorded Webinar: Computing in Miniature: From Graphics to Science</title>
-        <description>&lt;div class=&quot;col-12 col-md-9 col-lg-9 mb-9 gx-1&quot;&gt;
-
-&lt;div class=&quot;embed-container&quot;&gt;
-    &lt;iframe width=&quot;640&quot; height=&quot;390&quot; src=&quot;https://www.youtube.com/embed/ybSLP8E4gtA&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-&lt;style&gt;
-.embed-container {
-  position: relative;
-  padding-bottom: 56.25%;
-  height: 0;
-  overflow: hidden;
-  max-width: 100%;
-}
-.embed-container iframe,
-.embed-container object,
-.embed-container embed {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-}
-&lt;/style&gt;
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Fri, 22 Sep 2023 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/2023/09/22/recorded-webinar-computing-in-miniature-from-graphics-to-science/</link>
-        <guid isPermaLink="true">http://localhost:4000/2023/09/22/recorded-webinar-computing-in-miniature-from-graphics-to-science/</guid>
-        
-        <category>webinars</category>
-        
-        <category>AI</category>
         
         
       </item>
