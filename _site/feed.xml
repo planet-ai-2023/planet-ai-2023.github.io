@@ -5,8 +5,8 @@
     <description>The moon is beautiful, isn&apos;t it?</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 07 Oct 2023 09:39:22 -0400</pubDate>
-    <lastBuildDate>Sat, 07 Oct 2023 09:39:22 -0400</lastBuildDate>
+    <pubDate>Fri, 20 Oct 2023 10:43:19 -0400</pubDate>
+    <lastBuildDate>Fri, 20 Oct 2023 10:43:19 -0400</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -29,6 +29,32 @@ Emily Law will talk about the Solar System Trek&lt;/p&gt;
         <pubDate>Thu, 28 Sep 2023 00:00:00 -0400</pubDate>
         <link>http://localhost:4000/2023/09/28/webinar-nov-20-solar-system-treks/</link>
         <guid isPermaLink="true">http://localhost:4000/2023/09/28/webinar-nov-20-solar-system-treks/</guid>
+        
+        <category>events</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Public Lecture on Oct 21: Apollo Thin Sections</title>
+        <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Saturday, Oct 21, 2023 7-8pm Eastern &lt;br /&gt;
+&lt;strong&gt;Location:&lt;/strong&gt; Online &lt;br /&gt;
+&lt;strong&gt;Registration Link:&lt;/strong&gt; &lt;a href=&quot;https://tennessee.zoom.us/meeting/register/tZcqfuytqT0uG91sDBt2-T_dFoddcb7cBWe0&quot; target=&quot;_blank&quot;&gt;https://tennessee.zoom.us/meeting/register/tZcqfuytqT0uG91sDBt2-T_dFoddcb7cBWe0&lt;/a&gt;   &lt;br /&gt;
+&lt;strong&gt;Cost:&lt;/strong&gt; Free&lt;br /&gt;
+&lt;strong&gt;Details:&lt;/strong&gt;  &lt;br /&gt;
+Justin Harden will talk about mineral identification in Apollo thin sections.&lt;/p&gt;
+
+&lt;p&gt;Justin Harden is a PhD student at the Department of Earth and Planetary Sciences, University of Tennessee, Knoxville. His research focus includes Geochemistry and Petrology.&lt;/p&gt;
+
+&lt;p&gt;This event is supported by the National Science Foundation and also by the TN Space Grant Consortium at UTK.
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 27 Sep 2023 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2023/09/27/public-lecture-on-apollo-thin-sections/</link>
+        <guid isPermaLink="true">http://localhost:4000/2023/09/27/public-lecture-on-apollo-thin-sections/</guid>
         
         <category>events</category>
         
@@ -231,30 +257,6 @@ On Thursday, Oct 5, 4-5pm Eastern, Dr. Helen Wang will give us a talk on Mars Da
         <pubDate>Sat, 23 Sep 2023 00:00:00 -0400</pubDate>
         <link>http://localhost:4000/2023/09/23/webinar-oct-5-mars-daily-global-maps/</link>
         <guid isPermaLink="true">http://localhost:4000/2023/09/23/webinar-oct-5-mars-daily-global-maps/</guid>
-        
-        <category>events</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Python for Apollo Thin Sections</title>
-        <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Saturday, Sep 30, 2023 7-8pm Eastern &lt;br /&gt;
-&lt;strong&gt;Location:&lt;/strong&gt; Online &lt;br /&gt;
-&lt;strong&gt;Registration Link:&lt;/strong&gt; &lt;a href=&quot;https://tennessee.zoom.us/webinar/register/WN_gTsTMGo-QaWNM9xxVDeXRg&quot; target=&quot;_blank&quot;&gt;https://tennessee.zoom.us/webinar/register/WN_gTsTMGo-QaWNM9xxVDeXRg&lt;/a&gt;   &lt;br /&gt;
-&lt;strong&gt;Cost:&lt;/strong&gt; Free&lt;br /&gt;
-&lt;strong&gt;Details:&lt;/strong&gt;  &lt;br /&gt;
-We will talk about ilmenite in Apollo thin sections.&lt;/p&gt;
-
-&lt;p&gt;This event is supported by the National Science Foundation and also by the TN Space Grant Consortium at UTK.
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Sat, 23 Sep 2023 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/2023/09/23/python-for-apollo-thin-sections/</link>
-        <guid isPermaLink="true">http://localhost:4000/2023/09/23/python-for-apollo-thin-sections/</guid>
         
         <category>events</category>
         
