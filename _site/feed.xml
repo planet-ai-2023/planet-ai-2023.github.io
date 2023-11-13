@@ -5,9 +5,35 @@
     <description>The moon is beautiful, isn&apos;t it?</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 20 Oct 2023 10:43:19 -0400</pubDate>
-    <lastBuildDate>Fri, 20 Oct 2023 10:43:19 -0400</lastBuildDate>
+    <pubDate>Mon, 13 Nov 2023 08:27:48 -0500</pubDate>
+    <lastBuildDate>Mon, 13 Nov 2023 08:27:48 -0500</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
+    
+      <item>
+        <title>On AI</title>
+        <description>&lt;p&gt;&lt;strong&gt;ARTICLES&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.google.com/presentation/d/156WpBF_rGvf4Ecg19oM1fyR51g4FAmHV3Zs0WLukrLQ/edit#slide=id.g24daeb7f4f0_0_3373&quot; target=&quot;_blank&quot;&gt;State of AI Report 2023&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.technologyreview.com/2022/06/24/1054817/yann-lecun-bold-new-vision-future-ai-deep-learning-meta/&quot; target=&quot;_blank&quot;&gt;Yann LeCun has a bold new vision for the future of AI&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The Thumb Image&lt;/strong&gt; &lt;br /&gt;
+The Thumb Image of this post was taken, by NASA/JPL-Caltech/University of Arizona, far north of the equator just two days after the winter solstice when the Sun was just a few degrees above the horizon. Sand dunes are moving across this landscape from top left to bottom right. Winter frost covers the colder, north-facing half of each dune (but not the warmer south-facing half). The frost here is a mixture of carbon dioxide ice and water ice and will disappear in a few months when spring arrives. The University of Arizona, in Tucson, operates HiRISE, which was built by Ball Aerospace &amp;amp; Technologies Corp., in Boulder, Colorado. NASA’s Jet Propulsion Laboratory, a division of Caltech in Pasadena, California, manages the Mars Reconnaissance Orbiter Project for NASA’s Science Mission Directorate, Washington.&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 11 Nov 2023 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2023/11/11/on-ai/</link>
+        <guid isPermaLink="true">http://localhost:4000/2023/11/11/on-ai/</guid>
+        
+        <category>opinions</category>
+        
+        
+      </item>
     
       <item>
         <title>Webinar on Nov 20: Solar System Treks</title>
@@ -231,32 +257,6 @@ On Friday, Oct 5, 4-5pm Eastern, Dr. Dawei Zhou will give us a talk on Rare Cate
         <pubDate>Sat, 23 Sep 2023 00:00:00 -0400</pubDate>
         <link>http://localhost:4000/2023/09/23/webinar-oct-6-rare-category-detection-on-time-evolving-graphs/</link>
         <guid isPermaLink="true">http://localhost:4000/2023/09/23/webinar-oct-6-rare-category-detection-on-time-evolving-graphs/</guid>
-        
-        <category>events</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Webinar on Oct 5: Mars Daily Global Maps</title>
-        <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Thursday, Oct 5, 2023 4-5pm Eastern &lt;br /&gt;
-&lt;strong&gt;Location:&lt;/strong&gt; Online &lt;br /&gt;
-&lt;strong&gt;Registration Link:&lt;/strong&gt; &lt;a href=&quot;https://tennessee.zoom.us/webinar/register/WN_PmGL8gUHRvCRG80hvpTm8w&quot; target=&quot;_blank&quot;&gt;https://tennessee.zoom.us/webinar/register/WN_PmGL8gUHRvCRG80hvpTm8w&lt;/a&gt;   &lt;br /&gt;
-&lt;strong&gt;Cost:&lt;/strong&gt; Free&lt;br /&gt;
-&lt;strong&gt;Details:&lt;/strong&gt;  &lt;br /&gt;
-On Thursday, Oct 5, 4-5pm Eastern, Dr. Helen Wang will give us a talk on Mars Daily Global Maps.&lt;/p&gt;
-
-&lt;p&gt;Dr. Helen Wang is a Research Physicist of the Center for Astrophysics at Harvard University. She got her PhD from Caltech in Planetary Sciences in 2004. Her research areas lie in Planetary Atmosphere, Remote Sensing, Image Processing, and Numerical Simulations.&lt;/p&gt;
-
-&lt;p&gt;This event is supported by the National Science Foundation and also by the TN Space Grant Consortium at UTK.
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Sat, 23 Sep 2023 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/2023/09/23/webinar-oct-5-mars-daily-global-maps/</link>
-        <guid isPermaLink="true">http://localhost:4000/2023/09/23/webinar-oct-5-mars-daily-global-maps/</guid>
         
         <category>events</category>
         
