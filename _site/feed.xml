@@ -5,9 +5,35 @@
     <description>The moon is beautiful, isn&apos;t it?</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 15 Nov 2023 21:04:22 -0500</pubDate>
-    <lastBuildDate>Wed, 15 Nov 2023 21:04:22 -0500</lastBuildDate>
+    <pubDate>Mon, 27 Nov 2023 07:50:15 -0500</pubDate>
+    <lastBuildDate>Mon, 27 Nov 2023 07:50:15 -0500</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
+    
+      <item>
+        <title>Webinar on Dec 1: AI in Contemporary Art: Experiments and Applications</title>
+        <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Fri, Dec 1, 2023 4-5pm Eastern &lt;br /&gt;
+&lt;strong&gt;Location:&lt;/strong&gt; Online &lt;br /&gt;
+&lt;strong&gt;Registration Link:&lt;/strong&gt; &lt;a href=&quot;https://tennessee.zoom.us/meeting/register/tZwpcu2srToqGdJDSs51YUu0q83r-T6CGuhv&quot; target=&quot;_blank&quot;&gt;https://tennessee.zoom.us/meeting/register/tZwpcu2srToqGdJDSs51YUu0q83r-T6CGuhv&lt;/a&gt;   &lt;br /&gt;
+&lt;strong&gt;Cost:&lt;/strong&gt; Free&lt;br /&gt;
+&lt;strong&gt;Details:&lt;/strong&gt;  &lt;br /&gt;
+This talk will trace the recent history of artists working with AI, from DeepDream and style transfer to GANs and DALL·E. It will present a variety of artistic approaches including developing new aesthetics, working with own drawings as datasets and coming up with unusual concepts.&lt;/p&gt;
+
+&lt;p&gt;Luba Elliott is a curator and researcher specialising in AI art. She works to educate and engage the broader public about the recent developments in AI art through talks and exhibitions at venues across the art, business and technology spectrum including The Serpentine Galleries, arebyte, ZKM, V&amp;amp;A Museum, Impakt Festival, CogX, NeurIPS and ICCV. Her recent projects include the Unit London exhibition ‘The Perfect Error’ and the ART-AI Festival in Leicester, UK. She founded the NeurIPS Creativity and Design Workshop and curated the online galleries aiartonline.com and computervisionart.com. She is an Honorary Senior Research Fellow at the UCL Centre for Artificial Intelligence. Prior to that, she worked in start-ups, including the art collector database Larry’s List. She obtained her undergraduate degree in Modern Languages at the University of Cambridge.&lt;/p&gt;
+
+&lt;p&gt;This event is supported by the National Science Foundation and also by the TN Space Grant Consortium at UTK.
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 27 Nov 2023 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2023/11/27/webinar-dec-1-on-ai-in-contemporary-art/</link>
+        <guid isPermaLink="true">http://localhost:4000/2023/11/27/webinar-dec-1-on-ai-in-contemporary-art/</guid>
+        
+        <category>events</category>
+        
+        
+      </item>
     
       <item>
         <title>On AI</title>
@@ -231,32 +257,6 @@ Dr. Bo Dai will talk about Learning for Decision Making.&lt;/p&gt;
         <pubDate>Sat, 23 Sep 2023 00:00:00 -0400</pubDate>
         <link>http://localhost:4000/2023/09/23/webinar-oct-7-learning-for-decision-making/</link>
         <guid isPermaLink="true">http://localhost:4000/2023/09/23/webinar-oct-7-learning-for-decision-making/</guid>
-        
-        <category>events</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Webinar on Oct 6: Rare Categoy Detection on Time-evolving Graphs</title>
-        <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Friday, Oct 6, 2023 4-5pm Eastern &lt;br /&gt;
-&lt;strong&gt;Location:&lt;/strong&gt; Online &lt;br /&gt;
-&lt;strong&gt;Registration Link:&lt;/strong&gt; &lt;a href=&quot;https://tennessee.zoom.us/meeting/register/tZYlduyuqDsrHtwf1cE1E-nic8gXnuSWao9S&quot; target=&quot;_blank&quot;&gt;https://tennessee.zoom.us/meeting/register/tZYlduyuqDsrHtwf1cE1E-nic8gXnuSWao9S&lt;/a&gt;   &lt;br /&gt;
-&lt;strong&gt;Cost:&lt;/strong&gt; Free&lt;br /&gt;
-&lt;strong&gt;Details:&lt;/strong&gt;  &lt;br /&gt;
-On Friday, Oct 5, 4-5pm Eastern, Dr. Dawei Zhou will give us a talk on Rare Category Detection on Time-evolving Graphs.&lt;/p&gt;
-
-&lt;p&gt;Dr. Dawei Zhou is an Assistant Professor at the Computer Science Department of Virginia Tech and the director of the VirginiaTech Learning on Graphs (VLOG) Lab. Zhou’s prior research on rare category detection, graph mining, curriculum learning, and algorithmic fairness, with applications in financial fraud detection, cyber security, financial forecasting, social media analysis, and healthcare. He obtained his Ph.D. degree from the Computer Science Department of the University of Illinois Urbana-Champaign (UIUC).&lt;/p&gt;
-
-&lt;p&gt;This event is supported by the National Science Foundation and also by the TN Space Grant Consortium at UTK.
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Sat, 23 Sep 2023 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/2023/09/23/webinar-oct-6-rare-category-detection-on-time-evolving-graphs/</link>
-        <guid isPermaLink="true">http://localhost:4000/2023/09/23/webinar-oct-6-rare-category-detection-on-time-evolving-graphs/</guid>
         
         <category>events</category>
         
