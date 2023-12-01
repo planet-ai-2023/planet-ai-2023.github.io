@@ -2,7 +2,7 @@
 layout: post
 title:  "Using Stable Diffusion WebUI on Google Colab"
 date: 2023-08-08
-image: assets/images/webui.png
+image: assets/images/17_sta.png
 tags: [ AI, tutorials ]
 ---
 
@@ -33,3 +33,4 @@ tags: [ AI, tutorials ]
     [https://jakevdp.github.io/PythonDataScienceHandbook/01.05-ipython-and-shell-commands.html](https://jakevdp.github.io/PythonDataScienceHandbook/01.05-ipython-and-shell-commands.html){:target="_blank"}
 
 
+The thumb images is published in 1971 by NASA. The image shows the view of Station taken during the first Extravehicular Activity EVA 1 of the Apollo 17 mission. Original film magazine was labeled H, film type was 3401 High Speed Black and White, 60mm lens with a sun elevation of 16 degrees.  

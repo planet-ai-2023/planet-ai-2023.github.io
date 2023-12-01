@@ -2,7 +2,7 @@
 layout: post
 title:  "Stable Diffusion and SDXL"
 date: 2023-08-08
-image: assets/images/w.png
+image: assets/images/12_alan_bean.png
 tags: [ AI ]
 ---
 
@@ -34,7 +34,7 @@ Image Segmentation. In <em>MICCAI (3), volume 9351 of Lecture Notes in Computer 
 - Rinon Gal, Yuval Alaluf, Yuval Atzmon, Or Patashnik, Amit H. Bermano, Gal Chechik, and Daniel Cohen-Or. An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion. In <em>CVPR</em>, 2022. [pdf](https://arxiv.org/pdf/2208.01618.pdf){:target="_blank"}
 
 
-
+The thumb image is published in 2008 by NASA. Astronaut Alan L. Bean, lunar module pilot, deploys components of the Apollo Lunar Surface Experiments Package during the first Apollo 12 spacewalk on the moon. The photo was taken by astronaut Charles "Pete" Conrad Jr., commander. 
 
 
 

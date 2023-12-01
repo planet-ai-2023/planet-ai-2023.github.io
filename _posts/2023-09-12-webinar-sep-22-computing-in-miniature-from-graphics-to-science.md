@@ -2,7 +2,7 @@
 layout: post
 title:  "Webinar on Sep 22: Computing in Miniature: From Graphics to Science"
 date: 2023-09-11
-image: assets/images/bo.png
+image: assets/images/17_landing.png
 tags: [ events ]
 ---
 
@@ -16,6 +16,8 @@ Step into a magnificent miniature wonderland where small insects gracefully trav
 Dr. Bo Zhu is an Assistant Professor affiliated to the School of Interactive Computing at Georgia Institute of Technology. His research focuses on the intersection of computer graphics, computational physics, computational design and fabrication, and scientific machine learning. He obtained his Ph.D. in Computer Science from Stanford University and completed postdoctoral training at MIT CSAIL. His works have been supported by multiple funding agencies and industrial sponsors. He is a recipient of the NSF CAREER Award in 2022.
 
 This event is supported by the National Science Foundation and also by the TN Space Grant Consortium at UTK.
+
+The thumb image is published in 1972 by NASA. Here is the Apollo 17 landing site. The optic axis of the Mapping Camera is at a fixed angle relative to the spacecraft and is vertical when the spacecraft is in normal SIM Bay attitude. Mapping Camera stereo coverage is obtained by overlap,nominally 78 percent,of consecutive frames along the groundtrack. Oblique views area obtained by spacecraft attitude changes. Lens Focal Length: 3 inches 7.62 centimeters Lens Field of View: 74 degrees By 74 degrees Film Width: 5 inches 12.70 centimeters Film Image: 4.5 by 4.5 inches 11.43 centimeters Film Type: 3400,Panatomic-X Aerial Principal Point Latitude: 20.0 North Principal Point Longitude: 29.9 East Camera Tilt: Vertical Camera AZ: Altitude Kilometers: 113 Revision Number: 14 Sun Elevation: 13 View of Apollo 17 Landing Site. 
 <br/>
 <br/>
 <br/>
