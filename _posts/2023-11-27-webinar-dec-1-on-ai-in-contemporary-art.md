@@ -18,6 +18,7 @@ The speaker for this talk, Luba Elliott, is a curator and researcher specialisin
 
 This event is supported by the National Science Foundation and also by the TN Space Grant Consortium at UTK.
 
+**The Thumb Image**   
 The thumb image is a concept image of a moon landing from 1959. [Photo: NASA/Public Domain]
 <br/>
 <br/>
