@@ -5,9 +5,52 @@
     <description>The moon is beautiful, isn&apos;t it?</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 01 Dec 2023 09:01:32 -0500</pubDate>
-    <lastBuildDate>Fri, 01 Dec 2023 09:01:32 -0500</lastBuildDate>
+    <pubDate>Sat, 02 Dec 2023 10:31:42 -0500</pubDate>
+    <lastBuildDate>Sat, 02 Dec 2023 10:31:42 -0500</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
+    
+      <item>
+        <title>Recorded Webinar: AI in Contemporary Art</title>
+        <description>&lt;div class=&quot;col-12 col-md-9 col-lg-9 mb-9 gx-1&quot;&gt;
+
+&lt;div class=&quot;embed-container&quot;&gt;
+    &lt;iframe width=&quot;640&quot; height=&quot;390&quot; src=&quot;https://www.youtube.com/embed/p-fMADbHR4k&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;style&gt;
+.embed-container {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+  max-width: 100%;
+}
+.embed-container iframe,
+.embed-container object,
+.embed-container embed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+&lt;/style&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 02 Dec 2023 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2023/12/02/recorded-webinar-ai-in-contemporary-art/</link>
+        <guid isPermaLink="true">http://localhost:4000/2023/12/02/recorded-webinar-ai-in-contemporary-art/</guid>
+        
+        <category>webinars</category>
+        
+        <category>AI</category>
+        
+        
+      </item>
     
       <item>
         <title>Webinar on Dec 1: AI in Contemporary Art: Experiments and Applications</title>
@@ -251,32 +294,6 @@ The thumb image is published in 1969. The bootprint marks one of the first steps
         <category>webinars</category>
         
         <category>AI</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Webinar on Sep 24: Interstellar</title>
-        <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Sunday, Sep 24, 2023 4-5pm Eastern &lt;br /&gt;
-&lt;strong&gt;Location:&lt;/strong&gt; Online &lt;br /&gt;
-&lt;strong&gt;Registration Link:&lt;/strong&gt; &lt;a href=&quot;https://tennessee.zoom.us/meeting/register/tZUsdeugrT8vGtFo5r3dhc8rAf5mgdvK2wX_&quot; target=&quot;_blank&quot;&gt;https://tennessee.zoom.us/meeting/register/tZUsdeugrT8vGtFo5r3dhc8rAf5mgdvK2wX_&lt;/a&gt;   &lt;br /&gt;
-&lt;strong&gt;Cost:&lt;/strong&gt; Free&lt;br /&gt;
-&lt;strong&gt;Details:&lt;/strong&gt;  &lt;br /&gt;
-Professor Dr. Avi Loeb from the Department of Astronomy, Harvard University, will talk about his book Interstellar and his group’s recent research from their expedition to retrieve fragments of the fireball off the western Pacific seafloor during 14-28th of June, 2023.&lt;/p&gt;
-
-&lt;p&gt;Dr. Avi Loeb is the Frank B. Baird Jr. Professor of Science at Harvard University. He received his PhD in Plasma Physics at age 24 from the Hebrew University of Jerusalem in 1986 and was subsequently a long-term member at the Institute for Advanced Study in Princeton during 1988-1993, where he started to work in theoretical astrophysics. In 1993, he moved to Harvard University where he was tenured three years later.&lt;/p&gt;
-
-&lt;p&gt;This event is supported by the National Science Foundation and also by the TN Space Grant Consortium at UTK.
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 11 Sep 2023 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/2023/09/11/webinar-sep-24-interstellar/</link>
-        <guid isPermaLink="true">http://localhost:4000/2023/09/11/webinar-sep-24-interstellar/</guid>
-        
-        <category>events</category>
         
         
       </item>
