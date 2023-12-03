@@ -5,8 +5,8 @@
     <description>The moon is beautiful, isn&apos;t it?</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 02 Dec 2023 10:31:42 -0500</pubDate>
-    <lastBuildDate>Sat, 02 Dec 2023 10:31:42 -0500</lastBuildDate>
+    <pubDate>Sun, 03 Dec 2023 17:12:51 -0500</pubDate>
+    <lastBuildDate>Sun, 03 Dec 2023 17:12:51 -0500</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -102,6 +102,50 @@ The thumb image is published in 1971 by NASA. Astronaut Edgar D. Mitchell, lunar
         <guid isPermaLink="true">http://localhost:4000/2023/11/11/on-ai/</guid>
         
         <category>opinions</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Recorded Webinar: interstellar</title>
+        <description>&lt;div class=&quot;col-12 col-md-9 col-lg-9 mb-9 gx-1&quot;&gt;
+
+&lt;div class=&quot;embed-container&quot;&gt;
+    &lt;iframe width=&quot;640&quot; height=&quot;390&quot; src=&quot;https://www.youtube.com/embed/oy0ctzALicE&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;style&gt;
+.embed-container {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+  max-width: 100%;
+}
+.embed-container iframe,
+.embed-container object,
+.embed-container embed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+&lt;/style&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;strong&gt;The Thumb Image&lt;/strong&gt; &lt;br /&gt;
+The thumb image is the artist impression of the interstellar object Oumuamua. &lt;em&gt;Image Credit&lt;/em&gt;: ESA/Hubble, NASA, ESO, M. Kornmesser
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 01 Nov 2023 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2023/11/01/recorded-webinar-interstellar/</link>
+        <guid isPermaLink="true">http://localhost:4000/2023/11/01/recorded-webinar-interstellar/</guid>
+        
+        <category>webinars</category>
+        
+        <category>planet</category>
         
         
       </item>
@@ -250,50 +294,6 @@ We will talk about ilmenite in Apollo thin sections.&lt;/p&gt;
         <guid isPermaLink="true">http://localhost:4000/2023/09/23/python-for-apollo-thin-sections/</guid>
         
         <category>events</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Recorded Webinar: Computing in Miniature: From Graphics to Science</title>
-        <description>&lt;div class=&quot;col-12 col-md-9 col-lg-9 mb-9 gx-1&quot;&gt;
-
-&lt;div class=&quot;embed-container&quot;&gt;
-    &lt;iframe width=&quot;640&quot; height=&quot;390&quot; src=&quot;https://www.youtube.com/embed/ybSLP8E4gtA&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-&lt;style&gt;
-.embed-container {
-  position: relative;
-  padding-bottom: 56.25%;
-  height: 0;
-  overflow: hidden;
-  max-width: 100%;
-}
-.embed-container iframe,
-.embed-container object,
-.embed-container embed {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-}
-&lt;/style&gt;
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;strong&gt;The Thumb Image&lt;/strong&gt; &lt;br /&gt;
-The thumb image is published in 1969. The bootprint marks one of the first steps human beings took on the Moon in July 1969. It was made by American astronaut Buzz Aldrin during the Apollo 11 mission. &lt;em&gt;Image Credit&lt;/em&gt;: NASA 
-&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Fri, 22 Sep 2023 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/2023/09/22/recorded-webinar-computing-in-miniature-from-graphics-to-science/</link>
-        <guid isPermaLink="true">http://localhost:4000/2023/09/22/recorded-webinar-computing-in-miniature-from-graphics-to-science/</guid>
-        
-        <category>webinars</category>
-        
-        <category>AI</category>
         
         
       </item>
