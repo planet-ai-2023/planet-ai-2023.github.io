@@ -5,8 +5,8 @@
     <description>The moon is beautiful, isn&apos;t it?</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 05 Dec 2023 07:05:00 -0500</pubDate>
-    <lastBuildDate>Tue, 05 Dec 2023 07:05:00 -0500</lastBuildDate>
+    <pubDate>Sat, 09 Dec 2023 05:32:44 -0500</pubDate>
+    <lastBuildDate>Sat, 09 Dec 2023 05:32:44 -0500</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -86,6 +86,7 @@ The thumb image is a concept image of a moon landing from 1959. [Photo: NASA/Pub
         <description>&lt;p&gt;&lt;strong&gt;ARTICLES&lt;/strong&gt;&lt;/p&gt;
 
 &lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jeffreycarter.substack.com/p/fanning-fear-with-ai&quot; target=&quot;_blank&quot;&gt;Fanning Fear With AI&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://docs.google.com/presentation/d/156WpBF_rGvf4Ecg19oM1fyR51g4FAmHV3Zs0WLukrLQ/edit#slide=id.g24daeb7f4f0_0_3373&quot; target=&quot;_blank&quot;&gt;State of AI Report 2023&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=5p248yoa3oE&quot; target=&quot;_blank&quot;&gt;Andrew Ng: Opportunities in AI - 2023&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=0GKou6lSfi0&quot; target=&quot;_blank&quot;&gt;Fireside Chat with Ilya Stskever and Jensen Huang: AI Today and Vision&lt;/a&gt;&lt;/li&gt;
