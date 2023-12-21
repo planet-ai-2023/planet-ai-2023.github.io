@@ -5,9 +5,39 @@
     <description>The moon is beautiful, isn&apos;t it?</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 09 Dec 2023 05:32:44 -0500</pubDate>
-    <lastBuildDate>Sat, 09 Dec 2023 05:32:44 -0500</lastBuildDate>
+    <pubDate>Thu, 21 Dec 2023 09:58:03 -0500</pubDate>
+    <lastBuildDate>Thu, 21 Dec 2023 09:58:03 -0500</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
+    
+      <item>
+        <title>Experimenting with AI-generated Optical Illusions by Our Program Alumni</title>
+        <description>&lt;div class=&quot;col-12 col-md-9 col-lg-9 mb-9 gx-1&quot;&gt;
+
+&lt;img width=&quot;350&quot; src=&quot;/assets/images/angel.png&quot; class=&quot;img-fluid&quot; alt=&quot;&quot; /&gt; 
+&lt;img width=&quot;350&quot; src=&quot;/assets/images/astronaut.png&quot; class=&quot;img-fluid&quot; alt=&quot;&quot; /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;img width=&quot;350&quot; src=&quot;/assets/images/giraff.png&quot; class=&quot;img-fluid&quot; alt=&quot;&quot; /&gt; 
+&lt;img width=&quot;350&quot; src=&quot;/assets/images/ship.png&quot; class=&quot;img-fluid&quot; alt=&quot;&quot; /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;img width=&quot;350&quot; src=&quot;/assets/images/tree.png&quot; class=&quot;img-fluid&quot; alt=&quot;&quot; /&gt; 
+&lt;img width=&quot;350&quot; src=&quot;/assets/images/bird.png&quot; class=&quot;img-fluid&quot; alt=&quot;&quot; /&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 12 Dec 2023 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2023/12/12/experimenting-with-ai-generated-optical-illusions/</link>
+        <guid isPermaLink="true">http://localhost:4000/2023/12/12/experimenting-with-ai-generated-optical-illusions/</guid>
+        
+        <category>AI</category>
+        
+        
+      </item>
     
       <item>
         <title>Recorded Webinar: AI in Contemporary Art</title>
@@ -119,7 +149,7 @@ The thumb image is published in 1971 by NASA. Astronaut Edgar D. Mitchell, lunar
       </item>
     
       <item>
-        <title>Recorded Webinar: interstellar</title>
+        <title>Recorded Webinar: Interstellar</title>
         <description>&lt;div class=&quot;col-12 col-md-9 col-lg-9 mb-9 gx-1&quot;&gt;
 
 &lt;div class=&quot;embed-container&quot;&gt;
@@ -280,30 +310,6 @@ On Thursday, Oct 5, 4-5pm Eastern, Dr. Helen Wang will give us a talk on Mars Da
         <pubDate>Sat, 23 Sep 2023 00:00:00 -0400</pubDate>
         <link>http://localhost:4000/2023/09/23/webinar-oct-5-mars-daily-global-maps/</link>
         <guid isPermaLink="true">http://localhost:4000/2023/09/23/webinar-oct-5-mars-daily-global-maps/</guid>
-        
-        <category>events</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Python for Apollo Thin Sections</title>
-        <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Saturday, Sep 30, 2023 7-8pm Eastern &lt;br /&gt;
-&lt;strong&gt;Location:&lt;/strong&gt; Online &lt;br /&gt;
-&lt;strong&gt;Registration Link:&lt;/strong&gt; &lt;a href=&quot;https://tennessee.zoom.us/webinar/register/WN_gTsTMGo-QaWNM9xxVDeXRg&quot; target=&quot;_blank&quot;&gt;https://tennessee.zoom.us/webinar/register/WN_gTsTMGo-QaWNM9xxVDeXRg&lt;/a&gt;   &lt;br /&gt;
-&lt;strong&gt;Cost:&lt;/strong&gt; Free&lt;br /&gt;
-&lt;strong&gt;Details:&lt;/strong&gt;  &lt;br /&gt;
-We will talk about ilmenite in Apollo thin sections.&lt;/p&gt;
-
-&lt;p&gt;This event is supported by the National Science Foundation and also by the TN Space Grant Consortium at UTK.
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Sat, 23 Sep 2023 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/2023/09/23/python-for-apollo-thin-sections/</link>
-        <guid isPermaLink="true">http://localhost:4000/2023/09/23/python-for-apollo-thin-sections/</guid>
         
         <category>events</category>
         

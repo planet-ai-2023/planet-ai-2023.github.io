@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Recorded Webinar: interstellar"
+title:  "Recorded Webinar: Interstellar"
 date: 2023-11-01
 image: assets/images/interstellar.png
 tags: [ webinars, planet ]
