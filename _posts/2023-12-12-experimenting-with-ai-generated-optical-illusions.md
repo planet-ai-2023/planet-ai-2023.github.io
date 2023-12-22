@@ -12,12 +12,24 @@ tags: [ AI ]
 <img width=350 src="/assets/images/astronaut.png" class="img-fluid" alt="" />
 <br/>
 <br/>
+<img width=350 src="/assets/images/exploring_moon.png" class="img-fluid" alt="" /> 
+<img width=350 src="/assets/images/exploring_earth.png" class="img-fluid" alt="" />
+<br/>
+<br/>
 <img width=350 src="/assets/images/giraff.png" class="img-fluid" alt="" /> 
 <img width=350 src="/assets/images/ship.png" class="img-fluid" alt="" />
 <br/>
 <br/>
 <img width=350 src="/assets/images/tree.png" class="img-fluid" alt="" /> 
 <img width=350 src="/assets/images/bird.png" class="img-fluid" alt="" />
+<br/>
+<br/>
+<img width=350 src="/assets/images/drone_on_mars.png" class="img-fluid" alt="" /> 
+<img width=350 src="/assets/images/bird_on_earth.png" class="img-fluid" alt="" />
+<br/>
+<br/>
+<img width=350 src="/assets/images/robot_on_mars.png" class="img-fluid" alt="" /> 
+<img width=350 src="/assets/images/robot_on_earth.png" class="img-fluid" alt="" />
 </div>
 <br/>
 <br/>
