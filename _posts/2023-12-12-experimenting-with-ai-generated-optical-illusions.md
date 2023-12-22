@@ -20,6 +20,10 @@ tags: [ AI ]
 <img width=350 src="/assets/images/ship.png" class="img-fluid" alt="" />
 <br/>
 <br/>
+<img width=350 src="/assets/images/humans_on_mars.png" class="img-fluid" alt="" /> 
+<img width=350 src="/assets/images/plants_on_mars.png" class="img-fluid" alt="" />
+<br/>
+<br/>
 <img width=350 src="/assets/images/tree.png" class="img-fluid" alt="" /> 
 <img width=350 src="/assets/images/bird.png" class="img-fluid" alt="" />
 <br/>
