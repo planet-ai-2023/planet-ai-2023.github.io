@@ -15,8 +15,7 @@ tags: [ AI, projects ]
 **Location**: Great Neck South High School Library Computer Lab   
 **Teacher**: Gina Russo (grusso@greatneck.k12.ny.us)
 
-**Organizer**
-Flora Yu Zhu, a sophormmore from the Great Neck South High School, NYC, is a program alumniand also a student volunteer for the Planet+AI program. She organized this event.
+Flora Yu Zhu, a sophormmore from the Great Neck South High School, NYC, is a program alumni, and also a student volunteer for the Planet+AI program. She organized this event.
 
 **Meeting Goals**
 - To foster a strong interest in AI
