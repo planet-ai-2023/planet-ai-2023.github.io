@@ -5,13 +5,16 @@
     <description>The moon is beautiful, isn&apos;t it?</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 22 Dec 2023 14:26:00 -0500</pubDate>
-    <lastBuildDate>Fri, 22 Dec 2023 14:26:00 -0500</lastBuildDate>
+    <pubDate>Sat, 23 Dec 2023 16:23:10 -0500</pubDate>
+    <lastBuildDate>Sat, 23 Dec 2023 16:23:10 -0500</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
         <title>Experimenting with AI-generated Optical Illusions Meeting in NYC</title>
-        <description>&lt;p&gt;&lt;strong&gt;Date&lt;/strong&gt;: 12/21/2023 &lt;br /&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/images/f1.png&quot; class=&quot;img-fluid&quot; alt=&quot;&quot; /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;strong&gt;Date&lt;/strong&gt;: 12/21/2023 &lt;br /&gt;
 &lt;strong&gt;Time&lt;/strong&gt;: 3-4pm Eastern &lt;br /&gt;
 &lt;strong&gt;Organizer&lt;/strong&gt;: Flora Yu Zhu &lt;br /&gt;
 &lt;strong&gt;Meeting size&lt;/strong&gt;: 20 high school students &lt;br /&gt;
@@ -27,12 +30,14 @@ Flora Yu Zhu, a sophormmore from the Great Neck South High School, NYC, is a pro
   &lt;li&gt;To facilitate meaningful learning experience&lt;/li&gt;
   &lt;li&gt;To empower students to apply AI in creating artworks themed on planetary explorations&lt;/li&gt;
   &lt;li&gt;To make the learing process accessible and fun for everyone who is interested in AI&lt;/li&gt;
-  &lt;li&gt;To unlock new possibilities in AI art.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Discussions&lt;/strong&gt; &lt;br /&gt;
-We examined the GitHub page and talked about the arxiv article and then we created optical illusions with the colab notebooks provided by the article authors. We tried flips, rotations, jigsaw rearrangements. We discussed the following questions:&lt;/p&gt;
-&lt;ul&gt;
+  &lt;li&gt;To unlock new possibilities in AI art.
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;/assets/images/f2.png&quot; class=&quot;img-fluid&quot; alt=&quot;&quot; /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;strong&gt;Discussions&lt;/strong&gt; &lt;br /&gt;
+We examined the GitHub page and talked about the arxiv article and then we created optical illusions with the colab notebooks provided by the article authors. We tried flips, rotations, jigsaw rearrangements. We discussed the following questions:&lt;/li&gt;
   &lt;li&gt;What is the difference between Midjourney and the code we navigated today?&lt;/li&gt;
   &lt;li&gt;How can we perform color inversion with the given Colab notebook?&lt;/li&gt;
   &lt;li&gt;What is the difference between a flip of an image and a 180 degree rotation?&lt;/li&gt;

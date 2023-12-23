@@ -5,7 +5,9 @@ date: 2023-12-22
 image: assets/images/drone_on_mars.png
 tags: [ AI, projects ]
 ---
-
+<img src="/assets/images/f1.png" class="img-fluid" alt="" />
+<br/>
+<br/>
 **Date**: 12/21/2023   
 **Time**: 3-4pm Eastern   
 **Organizer**: Flora Yu Zhu   
@@ -22,7 +24,11 @@ Flora Yu Zhu, a sophormmore from the Great Neck South High School, NYC, is a pro
 - To empower students to apply AI in creating artworks themed on planetary explorations
 - To make the learing process accessible and fun for everyone who is interested in AI
 - To unlock new possibilities in AI art.
-
+<br/>
+<br/>
+<img src="/assets/images/f2.png" class="img-fluid" alt="" />
+<br/>
+<br/>
 **Discussions**   
 We examined the GitHub page and talked about the arxiv article and then we created optical illusions with the colab notebooks provided by the article authors. We tried flips, rotations, jigsaw rearrangements. We discussed the following questions:
 - What is the difference between Midjourney and the code we navigated today?
