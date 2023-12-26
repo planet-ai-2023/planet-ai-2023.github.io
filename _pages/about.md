@@ -27,8 +27,12 @@ Planet+AI is an interdisciplinary outreach project funded by the National Scienc
     We lost Gene on June 22, 2023. Gene is a planetary scientist, a friend, a great colleague and he has been supporting our work since the beginning. We will always have Gene in our hearts.       
 - [Dr. John Bush](http://thales.mit.edu/bush/){:target="_blank"}   
     We are thankful to [Dr. John Bush](http://thales.mit.edu/bush/){:target="_blank"} for allowing us to use his fantastic hydrodynamic quantum analogs photos.   
+- [Dr. Michael J. Blum](https://artsci.utk.edu/blum-named-associate-dean-for-research-and-creative-activity/){:target="_blank"}    
+    We are thankful to [Dr. Michael J. Blum](https://artsci.utk.edu/blum-named-associate-dean-for-research-and-creative-activity/){:target="_blank"} for supporting our project.
 
-# Our Partners 
+    We are thankful to Stephanie Wall, Courtney Holbert, and Jennifer Donley for supporting our project.   
+
+# Our Collaborators 
 - [American Museum of Science and Energy](https://amse.org/){:target="_blank"}
 - [Department of Earth and Planetary Sciences, University of Tennessee, Knoxville](https://eps.utk.edu/){:target="_blank"}
 - University of Tennessee NASA Space Grant Consortium
