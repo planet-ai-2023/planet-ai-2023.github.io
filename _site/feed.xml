@@ -5,8 +5,8 @@
     <description>The moon is beautiful, isn&apos;t it? || The Internet has been the great equalizer of knowledge; AI will be the greatest equalizer of creativity.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 27 Dec 2023 13:13:38 -0500</pubDate>
-    <lastBuildDate>Wed, 27 Dec 2023 13:13:38 -0500</lastBuildDate>
+    <pubDate>Fri, 29 Dec 2023 18:48:50 -0500</pubDate>
+    <lastBuildDate>Fri, 29 Dec 2023 18:48:50 -0500</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -178,6 +178,7 @@ The thumb image is a concept image of a moon landing from 1959. [Photo: NASA/Pub
         <description>&lt;p&gt;&lt;strong&gt;ARTICLES&lt;/strong&gt;&lt;/p&gt;
 
 &lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.cnbc.com/2023/12/27/new-york-times-sues-microsoft-chatgpt-maker-openai-over-copyright-infringement.html&quot; target=&quot;_blank&quot;&gt;New York Times sues Microsoft, ChatGPT maker OpenAI over copyright infringement&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://arstechnica.com/apple/2023/12/apple-wants-ai-to-run-directly-on-its-hardware-instead-of-in-the-cloud/&quot; target=&quot;_blank&quot;&gt;Apple wants AI to run directly on its hardware instead of in the cloud&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.cnbc.com/2023/12/13/how-doctors-are-using-googles-new-ai-models-for-health-care.html&quot; target=&quot;_blank&quot;&gt;Google is rolling out new AI models for health care. Here’s how doctors are using them&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.cnbc.com/2023/12/23/the-first-minds-controlled-by-gen-ai-will-live-inside-video-games.html&quot; target=&quot;_blank&quot;&gt;The first minds to be controlled by generative AI will live inside video games&lt;/a&gt;&lt;/li&gt;
@@ -190,6 +191,8 @@ The thumb image is a concept image of a moon landing from 1959. [Photo: NASA/Pub
   &lt;li&gt;&lt;a href=&quot;https://www.lesswrong.com/posts/KqgujtM3vSAfZE2dR/on-ilya-sutskever-s-a-theory-of-unsupervised-learning&quot; target=&quot;_blank&quot;&gt;On Ilya Sutskever’s “A Theory of Unsupervised Learning”&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.ipam.ucla.edu/abstract/?tid=16106&amp;amp;pcode=&quot; target=&quot;_blank&quot;&gt;Automating Science Using Robot Scientists&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.technologyreview.com/2022/06/24/1054817/yann-lecun-bold-new-vision-future-ai-deep-learning-meta/&quot; target=&quot;_blank&quot;&gt;Yann LeCun has a bold new vision for the future of AI&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.pnas.org/doi/full/10.1073/pnas.2220022120&quot; target=&quot;_blank&quot;&gt;Turing, von Neumann, and the computational architecture of biological machines&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://consc.net/papers/singularity.pdf&quot; target=&quot;_blank&quot;&gt;The Singularity: A Philosophical Analysis&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://pessimistsarchive.org/&quot; target=&quot;_blank&quot;&gt;Pessimists Archive&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.amazon.com/Dreams-My-Father-Story-Inheritance/dp/1400082773&quot; target=&quot;_blank&quot;&gt;Dreams from My Father: A Story of Race and Inheritance&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://hca.gilead.org.il/&quot; target=&quot;_blank&quot;&gt; Hans Christian Andersen Fairy Tales and Stories &lt;/a&gt;&lt;/li&gt;
