@@ -5,9 +5,33 @@
     <description>The moon is beautiful, isn&apos;t it? || The Internet has been the great equalizer of knowledge; AI will be the greatest equalizer of creativity.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 30 Dec 2023 18:34:35 -0500</pubDate>
-    <lastBuildDate>Sat, 30 Dec 2023 18:34:35 -0500</lastBuildDate>
+    <pubDate>Mon, 01 Jan 2024 22:31:00 -0500</pubDate>
+    <lastBuildDate>Mon, 01 Jan 2024 22:31:00 -0500</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
+    
+      <item>
+        <title>Webinar on March 1: FlowVid</title>
+        <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Friday, March 1, 2024 4-5pm Eastern &lt;br /&gt;
+&lt;strong&gt;Location:&lt;/strong&gt; Online &lt;br /&gt;
+&lt;strong&gt;Registration Link:&lt;/strong&gt; &lt;a href=&quot;https://tennessee.zoom.us/webinar/register/WN_Q6vUV-gITNirGBR_zh9dWw&quot; target=&quot;_blank&quot;&gt;https://tennessee.zoom.us/webinar/register/WN_Q6vUV-gITNirGBR_zh9dWw&lt;/a&gt;   &lt;br /&gt;
+&lt;strong&gt;Cost:&lt;/strong&gt; Free&lt;br /&gt;
+&lt;strong&gt;Details:&lt;/strong&gt;  &lt;br /&gt;
+Jeff Liang will talk about his recent article on FlowVid.&lt;/p&gt;
+
+&lt;p&gt;This event is supported by the National Science Foundation and also by the TN Space Grant Consortium at UTK.
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 01 Jan 2024 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2024/01/01/webinar-march-1-flowvid/</link>
+        <guid isPermaLink="true">http://localhost:4000/2024/01/01/webinar-march-1-flowvid/</guid>
+        
+        <category>events</category>
+        
+        
+      </item>
     
       <item>
         <title>Experimenting with AI-generated Optical Illusions Meeting in NYC</title>
@@ -65,6 +89,10 @@ We examined the GitHub page and talked about the arxiv article and then we creat
 &lt;br /&gt;
 &lt;img width=&quot;350&quot; src=&quot;/assets/images/exploring_moon.png&quot; class=&quot;img-fluid&quot; alt=&quot;&quot; /&gt; 
 &lt;img width=&quot;350&quot; src=&quot;/assets/images/exploring_earth.png&quot; class=&quot;img-fluid&quot; alt=&quot;&quot; /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;img width=&quot;350&quot; src=&quot;/assets/images/station.png&quot; class=&quot;img-fluid&quot; alt=&quot;&quot; /&gt; 
+&lt;img width=&quot;350&quot; src=&quot;/assets/images/couple.png&quot; class=&quot;img-fluid&quot; alt=&quot;&quot; /&gt;
 &lt;br /&gt;
 &lt;br /&gt;
 &lt;img width=&quot;350&quot; src=&quot;/assets/images/giraff.png&quot; class=&quot;img-fluid&quot; alt=&quot;&quot; /&gt; 
@@ -330,32 +358,6 @@ Tung Nguyen, a PhD student at UCLA will talk about ClimatX: A Foundation Model f
         <pubDate>Sat, 23 Sep 2023 00:00:00 -0400</pubDate>
         <link>http://localhost:4000/2023/09/23/webinar-oct-20-climax-a-foundation-model-for-weather-and-climate/</link>
         <guid isPermaLink="true">http://localhost:4000/2023/09/23/webinar-oct-20-climax-a-foundation-model-for-weather-and-climate/</guid>
-        
-        <category>events</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Webinar on Oct 12: Exoplanets</title>
-        <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Thursday, Oct 12, 2023 4-5pm Pacific &lt;br /&gt;
-&lt;strong&gt;Location:&lt;/strong&gt; Online &lt;br /&gt;
-&lt;strong&gt;Registration Link:&lt;/strong&gt; &lt;a href=&quot;https://tennessee.zoom.us/webinar/register/WN_Q6vUV-gITNirGBR_zh9dWw&quot; target=&quot;_blank&quot;&gt;https://tennessee.zoom.us/webinar/register/WN_Q6vUV-gITNirGBR_zh9dWw&lt;/a&gt;   &lt;br /&gt;
-&lt;strong&gt;Cost:&lt;/strong&gt; Free&lt;br /&gt;
-&lt;strong&gt;Details:&lt;/strong&gt;  &lt;br /&gt;
-Dr. Jason Steffen will talk about exoplanets.&lt;/p&gt;
-
-&lt;p&gt;Dr. Jason Steffen is an Associate Professor of Physics at the University of Nevada, Las Vegas. Dr. Steffen studies the formation and properties of planets orbiting distant stars. He aslo does work in gravitation, particle astrophysics, dark matter, dark energy, and the boarding of airplane passengers.&lt;/p&gt;
-
-&lt;p&gt;This event is supported by the National Science Foundation and also by the TN Space Grant Consortium at UTK.
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Sat, 23 Sep 2023 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/2023/09/23/webinar-oct-12-exoplanets/</link>
-        <guid isPermaLink="true">http://localhost:4000/2023/09/23/webinar-oct-12-exoplanets/</guid>
         
         <category>events</category>
         

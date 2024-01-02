@@ -16,6 +16,10 @@ tags: [ AI ]
 <img width=350 src="/assets/images/exploring_earth.png" class="img-fluid" alt="" />
 <br/>
 <br/>
+<img width=350 src="/assets/images/station.png" class="img-fluid" alt="" /> 
+<img width=350 src="/assets/images/couple.png" class="img-fluid" alt="" />
+<br/>
+<br/>
 <img width=350 src="/assets/images/giraff.png" class="img-fluid" alt="" /> 
 <img width=350 src="/assets/images/ship.png" class="img-fluid" alt="" />
 <br/>
