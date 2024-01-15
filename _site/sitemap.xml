@@ -93,6 +93,14 @@
 <lastmod>2023-12-28T00:00:00-05:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/2023/12/29/butterfly_tutorial_series/</loc>
+<lastmod>2023-12-29T00:00:00-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/2023/12/29/recorded-webinar-ai-in-contemporary-art-critical-perspectives/</loc>
+<lastmod>2023-12-29T00:00:00-05:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/2024/01/01/webinar-march-1-flowvid/</loc>
 <lastmod>2024-01-01T00:00:00-05:00</lastmod>
 </url>
@@ -146,5 +154,8 @@
 </url>
 <url>
 <loc>http://localhost:4000/tag/webinars/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/page2/</loc>
 </url>
 </urlset>

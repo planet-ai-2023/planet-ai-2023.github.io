@@ -5,8 +5,8 @@
     <description>The moon is beautiful, isn&apos;t it? || The Internet has been the great equalizer of knowledge; AI will be the greatest equalizer of creativity.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 05 Jan 2024 11:52:55 -0500</pubDate>
-    <lastBuildDate>Fri, 05 Jan 2024 11:52:55 -0500</lastBuildDate>
+    <pubDate>Mon, 15 Jan 2024 08:56:50 -0500</pubDate>
+    <lastBuildDate>Mon, 15 Jan 2024 08:56:50 -0500</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -29,6 +29,74 @@ Jeff Liang, a PhD student at UT Austin, will talk about his recent article on Fl
         <guid isPermaLink="true">http://localhost:4000/2024/01/01/webinar-march-1-flowvid/</guid>
         
         <category>events</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Recorded Webinar: AI in Contemporary Art</title>
+        <description>&lt;div class=&quot;col-12 col-md-9 col-lg-9 mb-9 gx-1&quot;&gt;
+
+&lt;div class=&quot;embed-container&quot;&gt;
+    &lt;iframe width=&quot;640&quot; height=&quot;390&quot; src=&quot;https://www.youtube.com/embed/gRoFRhSB0ao&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;style&gt;
+.embed-container {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+  max-width: 100%;
+}
+.embed-container iframe,
+.embed-container object,
+.embed-container embed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+&lt;/style&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 29 Dec 2023 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2023/12/29/recorded-webinar-ai-in-contemporary-art-critical-perspectives/</link>
+        <guid isPermaLink="true">http://localhost:4000/2023/12/29/recorded-webinar-ai-in-contemporary-art-critical-perspectives/</guid>
+        
+        <category>webinars</category>
+        
+        <category>AI</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Butterfly Tutorial Series [1]</title>
+        <description>&lt;p&gt;Zhengyang Zhou, a PhD student at Brandeis University, developed the following computer vision tutorials with a curated butterfly dataset.&lt;/p&gt;
+
+&lt;p&gt;Here’s the butterfly dataset you can download:
+&lt;a href=&quot;https://drive.google.com/file/d/15hGKEOjLIxWmmL6fBHguI2sKLKjYi78A/view?usp=sharing&quot; target=&quot;_blank&quot;&gt;https://drive.google.com/file/d/15hGKEOjLIxWmmL6fBHguI2sKLKjYi78A/view?usp=sharing&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Use the butterfly dataset, you can explore the following Colab notebooks for computer vision tasks:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;https://drive.google.com/file/d/1HfjGaiEI0TrF9AA0BbL57Bi8QUfucSmx/view?usp=sharing&quot; target=&quot;_blank&quot;&gt;Classifying butterfly types in images&lt;/a&gt;: highlighting the need for data augmentation and complex model structures as tasks become more intricate.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://drive.google.com/file/d/1Pz9JI-RmBeBoHFpDt7k48zFknb5Dhk14/view?usp=sharing&quot; target=&quot;_blank&quot;&gt;Vision-Transformer for butterfly classification&lt;/a&gt;: introducing the Transformer model family.&lt;/li&gt;
+&lt;/ol&gt;
+
+</description>
+        <pubDate>Fri, 29 Dec 2023 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2023/12/29/butterfly_tutorial_series/</link>
+        <guid isPermaLink="true">http://localhost:4000/2023/12/29/butterfly_tutorial_series/</guid>
+        
+        <category>tutorials</category>
+        
+        <category>AI</category>
         
         
       </item>
@@ -305,97 +373,6 @@ The thumb image is a concept image of a moon landing from 1959. [Photo: NASA/Pub
         <guid isPermaLink="true">http://localhost:4000/2023/11/27/webinar-dec-1-on-ai-in-contemporary-art/</guid>
         
         <category>events</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>On AI, Planetary Explorations, and More</title>
-        <description>&lt;p&gt;&lt;strong&gt;ARTICLES&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.cnbc.com/2023/12/27/new-york-times-sues-microsoft-chatgpt-maker-openai-over-copyright-infringement.html&quot; target=&quot;_blank&quot;&gt;New York Times sues Microsoft, ChatGPT maker OpenAI over copyright infringement&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://arstechnica.com/apple/2023/12/apple-wants-ai-to-run-directly-on-its-hardware-instead-of-in-the-cloud/&quot; target=&quot;_blank&quot;&gt;Apple wants AI to run directly on its hardware instead of in the cloud&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.cnbc.com/2023/12/13/how-doctors-are-using-googles-new-ai-models-for-health-care.html&quot; target=&quot;_blank&quot;&gt;Google is rolling out new AI models for health care. Here’s how doctors are using them&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.weforum.org/agenda/2023/11/nightshade-generative-ai-poison/&quot; target=&quot;_blank&quot;&gt;What is Nightshade – the new tool allowing artists to ‘poison’ AI models?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.cnbc.com/2023/12/23/the-first-minds-controlled-by-gen-ai-will-live-inside-video-games.html&quot; target=&quot;_blank&quot;&gt;The first minds to be controlled by generative AI will live inside video games&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://jeffreycarter.substack.com/p/fanning-fear-with-ai&quot; target=&quot;_blank&quot;&gt;Fanning Fear With AI&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://docs.google.com/presentation/d/156WpBF_rGvf4Ecg19oM1fyR51g4FAmHV3Zs0WLukrLQ/edit#slide=id.g24daeb7f4f0_0_3373&quot; target=&quot;_blank&quot;&gt;State of AI Report 2023&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://arstechnica.com/ai/2023/08/how-chatgpt-turned-generative-ai-into-an-anything-tool/&quot; target=&quot;_blank&quot;&gt;How ChatGPT turned generative AI into an “anything tool”&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=5p248yoa3oE&quot; target=&quot;_blank&quot;&gt;Andrew Ng: Opportunities in AI - 2023&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=0GKou6lSfi0&quot; target=&quot;_blank&quot;&gt;Fireside Chat with Ilya Stskever and Jensen Huang: AI Today and Vision&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://arstechnica.com/gadgets/2023/01/the-generative-ai-revolution-has-begun-how-did-we-get-here/8/&quot; target=&quot;_blank&quot;&gt;The generative AI revolution has begun—how did we get here?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.lesswrong.com/posts/KqgujtM3vSAfZE2dR/on-ilya-sutskever-s-a-theory-of-unsupervised-learning&quot; target=&quot;_blank&quot;&gt;On Ilya Sutskever’s “A Theory of Unsupervised Learning”&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.ipam.ucla.edu/abstract/?tid=16106&amp;amp;pcode=&quot; target=&quot;_blank&quot;&gt;Automating Science Using Robot Scientists&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.technologyreview.com/2022/06/24/1054817/yann-lecun-bold-new-vision-future-ai-deep-learning-meta/&quot; target=&quot;_blank&quot;&gt;Yann LeCun has a bold new vision for the future of AI&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.pnas.org/doi/full/10.1073/pnas.2220022120&quot; target=&quot;_blank&quot;&gt;Turing, von Neumann, and the computational architecture of biological machines&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://consc.net/papers/singularity.pdf&quot; target=&quot;_blank&quot;&gt;The Singularity: A Philosophical Analysis&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://pessimistsarchive.org/&quot; target=&quot;_blank&quot;&gt;Pessimists Archive&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.amazon.com/Dreams-My-Father-Story-Inheritance/dp/1400082773&quot; target=&quot;_blank&quot;&gt;Dreams from My Father: A Story of Race and Inheritance&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://hca.gilead.org.il/&quot; target=&quot;_blank&quot;&gt; Hans Christian Andersen Fairy Tales and Stories &lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.gutenberg.org/cache/epub/2875/pg2875-images.html&quot; target=&quot;_blank&quot;&gt;Joan of Arc Volume 2 by Mark Twain&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.gutenberg.org/files/2874/2874-h/2874-h.htm&quot; target=&quot;_blank&quot;&gt;Joan of Arc Volume 1 by Mark Twain&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Serial_Experiments_Lain&quot; target=&quot;_blank&quot;&gt;Serial Experiments Lain&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;strong&gt;The Thumb Image&lt;/strong&gt; &lt;br /&gt;
-The thumb image is published in 1971 by NASA. Astronaut Edgar D. Mitchell, lunar module pilot, photographed this sweeping view showing fellow Moon-explorer astronaut Alan B. Shepard Jr., mission commander, and the Apollo 14 Lunar Module (LM). A small cluster of rocks and a few prints made by the lunar overshoes of Mitchell are in the foreground. Mitchell was standing in the boulder field, located just north by northwest of the LM, when he took this picture during the second Apollo 14 extravehicular activity (EVA-2), on February 6, 1971. While astronaut Stuart A. Roosa, command module pilot, remained with the Command and Service Modules (CSM) in lunar orbit, Shepard and Mitchell descended in the LM to explore the Moon.&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Sat, 11 Nov 2023 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2023/11/11/on-ai/</link>
-        <guid isPermaLink="true">http://localhost:4000/2023/11/11/on-ai/</guid>
-        
-        <category>opinions</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Recorded Webinar: Interstellar</title>
-        <description>&lt;div class=&quot;col-12 col-md-9 col-lg-9 mb-9 gx-1&quot;&gt;
-
-&lt;div class=&quot;embed-container&quot;&gt;
-    &lt;iframe width=&quot;640&quot; height=&quot;390&quot; src=&quot;https://www.youtube.com/embed/oy0ctzALicE&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-&lt;style&gt;
-.embed-container {
-  position: relative;
-  padding-bottom: 56.25%;
-  height: 0;
-  overflow: hidden;
-  max-width: 100%;
-}
-.embed-container iframe,
-.embed-container object,
-.embed-container embed {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-}
-&lt;/style&gt;
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;strong&gt;The Thumb Image&lt;/strong&gt; &lt;br /&gt;
-The thumb image is the artist impression of the interstellar object Oumuamua. &lt;em&gt;Image Credit&lt;/em&gt;: ESA/Hubble, NASA, ESO, M. Kornmesser
-&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Wed, 01 Nov 2023 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/2023/11/01/recorded-webinar-interstellar/</link>
-        <guid isPermaLink="true">http://localhost:4000/2023/11/01/recorded-webinar-interstellar/</guid>
-        
-        <category>webinars</category>
-        
-        <category>planet</category>
         
         
       </item>
