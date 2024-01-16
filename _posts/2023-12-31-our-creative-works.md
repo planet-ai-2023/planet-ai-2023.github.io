@@ -6,7 +6,8 @@ image: assets/images/for_loop_th.png
 tags: [ exhibits, AI ]
 ---
 
-I left the desert in a summer with two suitcases. And I arrived with two suitcases. It was raining on that day, as I remember.   
+I left the desert in a summer with two suitcases. And I arrived with two suitcases. It was raining on that day, as I remember. My students and I were very grateful that the art galleries would include our works. However, I wasn't able to participate in any of the discussions /talks.
+
 The following were some of our works by experimenting with emerging AI tools in the past few years.
 
 <br>
