@@ -5,8 +5,8 @@
     <description>The moon is beautiful, isn&apos;t it? || The Internet has been the great equalizer of knowledge; AI will be the greatest equalizer of creativity.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 16 Jan 2024 11:26:52 -0500</pubDate>
-    <lastBuildDate>Tue, 16 Jan 2024 11:26:52 -0500</lastBuildDate>
+    <pubDate>Tue, 16 Jan 2024 12:31:42 -0500</pubDate>
+    <lastBuildDate>Tue, 16 Jan 2024 12:31:42 -0500</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -59,7 +59,102 @@ The speaker Hairuo Fu is a PhD student at Harvard University. He will talk about
       </item>
     
       <item>
-        <title>Our Creative Works</title>
+        <title>Our Creative Works [2]</title>
+        <description>&lt;p&gt;The following were some of our works by experimenting with emerging AI tools in the past few years.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-md-3&quot;&gt;
+        &lt;div&gt;&lt;img src=&quot;/assets/images/alaska.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-md-3&quot;&gt;
+        &lt;div&gt;&lt;img src=&quot;/assets/images/blue_dunes.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-md-3&quot;&gt;
+        &lt;div&gt;&lt;img src=&quot;/assets/images/Didymos_and_Dimorphos.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-md-3&quot;&gt;
+        &lt;div&gt;&lt;img src=&quot;/assets/images/comet.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;row&quot;&gt;    
+    &lt;div class=&quot;col-md-12&quot;&gt;
+        &lt;div&gt;&lt;img src=&quot;/assets/images/flora_space_exploration.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-md-3&quot;&gt;
+        &lt;div&gt;&lt;img src=&quot;/assets/images/marmolada_glacier_italy.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-md-3&quot;&gt;
+        &lt;div&gt;&lt;img src=&quot;/assets/images/penguins_coulman_island_antarctica.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-md-3&quot;&gt;
+        &lt;div&gt;&lt;img src=&quot;/assets/images/MOPclouds.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-md-3&quot;&gt;
+        &lt;div&gt;&lt;img src=&quot;/assets/images/nabro_volcano.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-md-3&quot;&gt;
+        &lt;div&gt;&lt;img src=&quot;/assets/images/supervolcano.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-md-6&quot;&gt;
+        &lt;div&gt;&lt;img src=&quot;/assets/images/ESP_034830_1670.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-md-3&quot;&gt;
+        &lt;div&gt;&lt;img src=&quot;/assets/images/sample_return_mission.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-md-6&quot;&gt;
+        &lt;div&gt;&lt;img src=&quot;/assets/images/persistent_aeolian.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-md-3&quot;&gt;
+        &lt;div&gt;&lt;img src=&quot;/assets/images/drone_mars_mission.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-md-6&quot;&gt;
+        &lt;div&gt;&lt;img src=&quot;/assets/images/ESP_034830_1670.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-md-3&quot;&gt;
+        &lt;div&gt;&lt;img src=&quot;/assets/images/brenham1.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-md-6&quot;&gt;
+        &lt;div&gt;&lt;img src=&quot;/assets/images/surviving_mars.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 31 Dec 2023 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2023/12/31/our-creative-works-2/</link>
+        <guid isPermaLink="true">http://localhost:4000/2023/12/31/our-creative-works-2/</guid>
+        
+        <category>exhibits</category>
+        
+        <category>AI</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Our Creative Works [1]</title>
         <description>&lt;p&gt;I left the desert in a summer with two suitcases. And I arrived with two suitcases. It was raining on that day, as I remember. My students and I were very grateful that the art galleries would include our works. However, I wasn’t able to participate in any of the discussions /talks.&lt;/p&gt;
 
 &lt;p&gt;The following were some of our works by experimenting with emerging AI tools in the past few years.&lt;/p&gt;
@@ -119,10 +214,83 @@ The speaker Hairuo Fu is a PhD student at Harvard University. He will talk about
         &lt;div&gt;&lt;img src=&quot;/assets/images/t2.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
     &lt;/div&gt;    
 &lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-md-12&quot;&gt;
+        &lt;div&gt;&lt;img src=&quot;/assets/images/t3.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+    &lt;/div&gt;    
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-md-12&quot;&gt;
+        &lt;div&gt;&lt;img src=&quot;/assets/images/t4.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+    &lt;/div&gt;    
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-md-12&quot;&gt;
+        &lt;div&gt;&lt;img src=&quot;/assets/images/t5.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+    &lt;/div&gt;    
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-md-12&quot;&gt;
+        &lt;div&gt;&lt;img src=&quot;/assets/images/t6.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+    &lt;/div&gt;    
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-md-12&quot;&gt;
+        &lt;div&gt;&lt;img src=&quot;/assets/images/t7.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+    &lt;/div&gt;    
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-md-12&quot;&gt;
+        &lt;div&gt;&lt;img src=&quot;/assets/images/t8.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+    &lt;/div&gt;    
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-md-12&quot;&gt;
+        &lt;div&gt;&lt;img src=&quot;/assets/images/t9.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+    &lt;/div&gt;    
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-md-12&quot;&gt;
+        &lt;div&gt;&lt;img src=&quot;/assets/images/t10.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+    &lt;/div&gt;    
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-md-3&quot;&gt;
+        &lt;div&gt;&lt;img src=&quot;/assets/images/sf1.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-md-3&quot;&gt;
+        &lt;div&gt;&lt;img src=&quot;/assets/images/sf2.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-md-3&quot;&gt;
+        &lt;div&gt;&lt;img src=&quot;/assets/images/sf3.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-md-3&quot;&gt;
+        &lt;div&gt;&lt;img src=&quot;/assets/images/sf4.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 31 Dec 2023 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2023/12/31/our-creative-works/</link>
-        <guid isPermaLink="true">http://localhost:4000/2023/12/31/our-creative-works/</guid>
+        <link>http://localhost:4000/2023/12/31/our-creative-works-1/</link>
+        <guid isPermaLink="true">http://localhost:4000/2023/12/31/our-creative-works-1/</guid>
         
         <category>exhibits</category>
         
@@ -318,52 +486,6 @@ View of Apollo 17 Landing Site.
         <category>AI</category>
         
         <category>tutorials</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Experimenting with AI-generated Optical Illusions Meeting in NYC</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/assets/images/f1.png&quot; class=&quot;img-fluid&quot; alt=&quot;&quot; /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;strong&gt;Date&lt;/strong&gt;: 12/21/2023 &lt;br /&gt;
-&lt;strong&gt;Time&lt;/strong&gt;: 3-4pm Eastern &lt;br /&gt;
-&lt;strong&gt;Organizer&lt;/strong&gt;: Flora Yu Zhu &lt;br /&gt;
-&lt;strong&gt;Meeting size&lt;/strong&gt;: 20 high school students &lt;br /&gt;
-&lt;strong&gt;Location&lt;/strong&gt;: Great Neck South High School Library Computer Lab &lt;br /&gt;
-&lt;strong&gt;Teacher&lt;/strong&gt;: Gina Russo&lt;/p&gt;
-
-&lt;p&gt;Flora Yu Zhu, a sophormmore from the Great Neck South High School, NYC, is a program alumni, and also a student volunteer for the Planet+AI program. She organized this event.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Meeting Goals&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;To foster a strong interest in AI&lt;/li&gt;
-  &lt;li&gt;To facilitate meaningful learning experience&lt;/li&gt;
-  &lt;li&gt;To empower students to apply AI in creating artworks themed on planetary explorations&lt;/li&gt;
-  &lt;li&gt;To make the learing process accessible and fun for everyone who is interested in AI&lt;/li&gt;
-  &lt;li&gt;To unlock new possibilities in AI art.
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;img src=&quot;/assets/images/f2.png&quot; class=&quot;img-fluid&quot; alt=&quot;&quot; /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;strong&gt;Discussions&lt;/strong&gt; &lt;br /&gt;
-We examined the GitHub page and talked about the arxiv article and then we created optical illusions with the colab notebooks provided by the article authors. We tried flips, rotations, jigsaw rearrangements. We discussed the following questions:&lt;/li&gt;
-  &lt;li&gt;What is the difference between Midjourney and the code we navigated today?&lt;/li&gt;
-  &lt;li&gt;How can we perform color inversion with the given Colab notebook?&lt;/li&gt;
-  &lt;li&gt;What is the difference between a flip of an image and a 180 degree rotation?&lt;/li&gt;
-  &lt;li&gt;How would AI generated images, in this case, optical illusions affect our lives? In other words, how can we use this technique in our everyday life?&lt;/li&gt;
-&lt;/ul&gt;
-
-</description>
-        <pubDate>Fri, 22 Dec 2023 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2023/12/22/experimenting-with-ai-generated-optical-illusions-nyc/</link>
-        <guid isPermaLink="true">http://localhost:4000/2023/12/22/experimenting-with-ai-generated-optical-illusions-nyc/</guid>
-        
-        <category>AI</category>
-        
-        <category>projects</category>
         
         
       </item>
