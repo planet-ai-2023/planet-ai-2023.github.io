@@ -40,10 +40,10 @@ The following were some of our works by experimenting with emerging AI tools in 
         <div><img src="/assets/images/penguins_coulman_island_antarctica.png" class="img-fluid" ></div>
     </div>
     <div class="col-md-3">
-        <div><img src="/assets/images/MOPclouds.png" class="img-fluid" /></div>
+        <div><img src="/assets/images/nabro_volcano.png" class="img-fluid" /></div>
     </div>
     <div class="col-md-3">
-        <div><img src="/assets/images/nabro_volcano.png" class="img-fluid" /></div>
+        <div><img src="/assets/images/MOPclouds.png" class="img-fluid" /></div>
     </div>
 </div>
 <br/>
@@ -59,10 +59,7 @@ The following were some of our works by experimenting with emerging AI tools in 
 <br/>
 
 <div class="row">
-    <div class="col-md-3">
-        <div><img src="/assets/images/sample_return_mission.png" class="img-fluid" /></div>
-    </div>
-    <div class="col-md-6">
+    <div class="col-md-9">
         <div><img src="/assets/images/persistent_aeolian.png" class="img-fluid" /></div>
     </div>
 </div>
@@ -70,10 +67,13 @@ The following were some of our works by experimenting with emerging AI tools in 
 
 <div class="row">
     <div class="col-md-3">
+        <div><img src="/assets/images/sample_return_mission.png" class="img-fluid" /></div>
+    </div>
+    <div class="col-md-3">
         <div><img src="/assets/images/drone_mars_mission.png" class="img-fluid" /></div>
     </div>
     <div class="col-md-6">
-        <div><img src="/assets/images/ESP_034830_1670.png" class="img-fluid" ></div>
+        <div><img src="/assets/images/surviving_mars.png" class="img-fluid" /></div>
     </div>
 </div>
 <br/>
@@ -82,8 +82,6 @@ The following were some of our works by experimenting with emerging AI tools in 
     <div class="col-md-3">
         <div><img src="/assets/images/brenham1.png" class="img-fluid" /></div>
     </div>
-    <div class="col-md-6">
-        <div><img src="/assets/images/surviving_mars.png" class="img-fluid" /></div>
-    </div>
+    
 </div>
 <br/>

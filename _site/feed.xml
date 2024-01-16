@@ -5,8 +5,8 @@
     <description>The moon is beautiful, isn&apos;t it? || The Internet has been the great equalizer of knowledge; AI will be the greatest equalizer of creativity.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 16 Jan 2024 12:31:42 -0500</pubDate>
-    <lastBuildDate>Tue, 16 Jan 2024 12:31:42 -0500</lastBuildDate>
+    <pubDate>Tue, 16 Jan 2024 12:45:19 -0500</pubDate>
+    <lastBuildDate>Tue, 16 Jan 2024 12:45:19 -0500</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -94,10 +94,10 @@ The speaker Hairuo Fu is a PhD student at Harvard University. He will talk about
         &lt;div&gt;&lt;img src=&quot;/assets/images/penguins_coulman_island_antarctica.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
     &lt;/div&gt;
     &lt;div class=&quot;col-md-3&quot;&gt;
-        &lt;div&gt;&lt;img src=&quot;/assets/images/MOPclouds.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+        &lt;div&gt;&lt;img src=&quot;/assets/images/nabro_volcano.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
     &lt;/div&gt;
     &lt;div class=&quot;col-md-3&quot;&gt;
-        &lt;div&gt;&lt;img src=&quot;/assets/images/nabro_volcano.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+        &lt;div&gt;&lt;img src=&quot;/assets/images/MOPclouds.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
     &lt;/div&gt;
 &lt;/div&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -113,10 +113,7 @@ The speaker Hairuo Fu is a PhD student at Harvard University. He will talk about
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-md-3&quot;&gt;
-        &lt;div&gt;&lt;img src=&quot;/assets/images/sample_return_mission.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-md-6&quot;&gt;
+    &lt;div class=&quot;col-md-9&quot;&gt;
         &lt;div&gt;&lt;img src=&quot;/assets/images/persistent_aeolian.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
     &lt;/div&gt;
 &lt;/div&gt;
@@ -124,10 +121,13 @@ The speaker Hairuo Fu is a PhD student at Harvard University. He will talk about
 
 &lt;div class=&quot;row&quot;&gt;
     &lt;div class=&quot;col-md-3&quot;&gt;
+        &lt;div&gt;&lt;img src=&quot;/assets/images/sample_return_mission.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-md-3&quot;&gt;
         &lt;div&gt;&lt;img src=&quot;/assets/images/drone_mars_mission.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
     &lt;/div&gt;
     &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;div&gt;&lt;img src=&quot;/assets/images/ESP_034830_1670.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+        &lt;div&gt;&lt;img src=&quot;/assets/images/surviving_mars.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
     &lt;/div&gt;
 &lt;/div&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -136,9 +136,7 @@ The speaker Hairuo Fu is a PhD student at Harvard University. He will talk about
     &lt;div class=&quot;col-md-3&quot;&gt;
         &lt;div&gt;&lt;img src=&quot;/assets/images/brenham1.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
     &lt;/div&gt;
-    &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;div&gt;&lt;img src=&quot;/assets/images/surviving_mars.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
-    &lt;/div&gt;
+    
 &lt;/div&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 </description>
