@@ -2,7 +2,7 @@
 layout: post
 title:  "Our Creative Works"
 date: 2023-12-31
-image: assets/images/surviving_mars.png
+image: assets/images/for_loop_th.png
 tags: [ exhibits, AI ]
 ---
 
