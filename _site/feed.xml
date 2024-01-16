@@ -5,8 +5,8 @@
     <description>The moon is beautiful, isn&apos;t it? || The Internet has been the great equalizer of knowledge; AI will be the greatest equalizer of creativity.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 15 Jan 2024 19:27:43 -0500</pubDate>
-    <lastBuildDate>Mon, 15 Jan 2024 19:27:43 -0500</lastBuildDate>
+    <pubDate>Tue, 16 Jan 2024 10:38:24 -0500</pubDate>
+    <lastBuildDate>Tue, 16 Jan 2024 10:38:24 -0500</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -29,6 +29,103 @@ Jeff Liang, a PhD student at UT Austin, will talk about his recent article on Fl
         <guid isPermaLink="true">http://localhost:4000/2024/01/01/webinar-march-1-flowvid/</guid>
         
         <category>events</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Webinar on Jan 26: Lunar Narrative through Apollo Petrographic Thin Sections</title>
+        <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Fri, Jan 26, 2024 4-5pm Eastern &lt;br /&gt;
+&lt;strong&gt;Location:&lt;/strong&gt; Online &lt;br /&gt;
+&lt;strong&gt;Registration Link:&lt;/strong&gt; &lt;a href=&quot;https://tennessee.zoom.us/webinar/register/WN_MXlr9UQjTo265w66spaWYg&quot; target=&quot;_blank&quot;&gt;https://tennessee.zoom.us/webinar/register/WN_MXlr9UQjTo265w66spaWYg&lt;/a&gt;   &lt;br /&gt;
+&lt;strong&gt;Cost:&lt;/strong&gt; Free&lt;br /&gt;
+&lt;strong&gt;Details:&lt;/strong&gt;  &lt;br /&gt;
+The speaker Hairuo Fu is a PhD student at Harvard University. He will talk about his recent study on Apollo lunar thin sections.&lt;/p&gt;
+
+&lt;p&gt;This event is supported by the National Science Foundation and also by the TN Space Grant Consortium at UTK.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 31 Dec 2023 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2023/12/31/webinar-jan-26-lunar-narrative-through-apollo-petrographic-thin-sections/</link>
+        <guid isPermaLink="true">http://localhost:4000/2023/12/31/webinar-jan-26-lunar-narrative-through-apollo-petrographic-thin-sections/</guid>
+        
+        <category>events</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Our Creative Works</title>
+        <description>&lt;p&gt;I left the desert in a summer with two suitcases. And I arrived with two suitcases. It was raining on that day, as I remember. &lt;br /&gt;
+The following were some of our works by experimenting with emerging AI tools in the past few years.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-md-3&quot;&gt;
+        &lt;div&gt;&lt;img src=&quot;/assets/images/surviving_tan_1.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-md-3&quot;&gt;
+        &lt;div&gt;&lt;img src=&quot;/assets/images/surviving_tan_2.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-md-6&quot;&gt;
+        &lt;div&gt;&lt;img src=&quot;/assets/images/shining.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;row&quot;&gt;    
+    &lt;div class=&quot;col-md-3&quot;&gt;
+        &lt;div&gt;&lt;img src=&quot;/assets/images/g1.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-md-3&quot;&gt;
+        &lt;div&gt;&lt;img src=&quot;/assets/images/tonga.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-md-6&quot;&gt;
+        &lt;div&gt;&lt;img src=&quot;/assets/images/death_valley.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-md-3&quot;&gt;
+        &lt;div&gt;&lt;img src=&quot;/assets/images/fl1.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-md-3&quot;&gt;
+        &lt;div&gt;&lt;img src=&quot;/assets/images/fl2.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-md-3&quot;&gt;
+        &lt;div&gt;&lt;img src=&quot;/assets/images/fl3.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-md-3&quot;&gt;
+        &lt;div&gt;&lt;img src=&quot;/assets/images/fl4.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-md-12&quot;&gt;
+        &lt;div&gt;&lt;img src=&quot;/assets/images/t1.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+    &lt;/div&gt;   
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-md-12&quot;&gt;
+        &lt;div&gt;&lt;img src=&quot;/assets/images/t2.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+    &lt;/div&gt;    
+&lt;/div&gt;
+</description>
+        <pubDate>Sun, 31 Dec 2023 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2023/12/31/our-creative-works/</link>
+        <guid isPermaLink="true">http://localhost:4000/2023/12/31/our-creative-works/</guid>
+        
+        <category>exhibits</category>
+        
+        <category>AI</category>
         
         
       </item>
@@ -137,31 +234,6 @@ This Colab introduces the Transformer model family.&lt;/li&gt;
         <category>tutorials</category>
         
         <category>AI</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Webinar on Jan 26: Lunar Narrative through Apollo Petrographic Thin Sections</title>
-        <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Fri, Jan 26, 2024 4-5pm Eastern &lt;br /&gt;
-&lt;strong&gt;Location:&lt;/strong&gt; Online &lt;br /&gt;
-&lt;strong&gt;Registration Link:&lt;/strong&gt; &lt;a href=&quot;https://tennessee.zoom.us/webinar/register/WN_MXlr9UQjTo265w66spaWYg&quot; target=&quot;_blank&quot;&gt;https://tennessee.zoom.us/webinar/register/WN_MXlr9UQjTo265w66spaWYg&lt;/a&gt;   &lt;br /&gt;
-&lt;strong&gt;Cost:&lt;/strong&gt; Free&lt;br /&gt;
-&lt;strong&gt;Details:&lt;/strong&gt;  &lt;br /&gt;
-The speaker Hairuo Fu is a PhD student at Harvard University. He will talk about his recent study on Apollo lunar thin sections.&lt;/p&gt;
-
-&lt;p&gt;This event is supported by the National Science Foundation and also by the TN Space Grant Consortium at UTK.&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 28 Dec 2023 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2023/12/28/webinar-jan-26-lunar-narrative-through-apollo-petrographic-thin-sections/</link>
-        <guid isPermaLink="true">http://localhost:4000/2023/12/28/webinar-jan-26-lunar-narrative-through-apollo-petrographic-thin-sections/</guid>
-        
-        <category>events</category>
         
         
       </item>
@@ -291,56 +363,6 @@ We examined the GitHub page and talked about the arxiv article and then we creat
         <category>AI</category>
         
         <category>projects</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Experimenting with AI-generated Optical Illusions by Our Program Alumni</title>
-        <description>&lt;div class=&quot;col-12 col-md-9 col-lg-9 mb-9 gx-1&quot;&gt;
-
-&lt;img width=&quot;350&quot; src=&quot;/assets/images/angel.png&quot; class=&quot;img-fluid&quot; alt=&quot;&quot; /&gt; 
-&lt;img width=&quot;350&quot; src=&quot;/assets/images/astronaut.png&quot; class=&quot;img-fluid&quot; alt=&quot;&quot; /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;img width=&quot;350&quot; src=&quot;/assets/images/exploring_moon.png&quot; class=&quot;img-fluid&quot; alt=&quot;&quot; /&gt; 
-&lt;img width=&quot;350&quot; src=&quot;/assets/images/exploring_earth.png&quot; class=&quot;img-fluid&quot; alt=&quot;&quot; /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;img width=&quot;350&quot; src=&quot;/assets/images/station.png&quot; class=&quot;img-fluid&quot; alt=&quot;&quot; /&gt; 
-&lt;img width=&quot;350&quot; src=&quot;/assets/images/couple.png&quot; class=&quot;img-fluid&quot; alt=&quot;&quot; /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;img width=&quot;350&quot; src=&quot;/assets/images/giraff.png&quot; class=&quot;img-fluid&quot; alt=&quot;&quot; /&gt; 
-&lt;img width=&quot;350&quot; src=&quot;/assets/images/ship.png&quot; class=&quot;img-fluid&quot; alt=&quot;&quot; /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;img width=&quot;350&quot; src=&quot;/assets/images/humans_on_mars.png&quot; class=&quot;img-fluid&quot; alt=&quot;&quot; /&gt; 
-&lt;img width=&quot;350&quot; src=&quot;/assets/images/plants_on_mars.png&quot; class=&quot;img-fluid&quot; alt=&quot;&quot; /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;img width=&quot;350&quot; src=&quot;/assets/images/tree.png&quot; class=&quot;img-fluid&quot; alt=&quot;&quot; /&gt; 
-&lt;img width=&quot;350&quot; src=&quot;/assets/images/bird.png&quot; class=&quot;img-fluid&quot; alt=&quot;&quot; /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;img width=&quot;350&quot; src=&quot;/assets/images/drone_on_mars.png&quot; class=&quot;img-fluid&quot; alt=&quot;&quot; /&gt; 
-&lt;img width=&quot;350&quot; src=&quot;/assets/images/bird_on_earth.png&quot; class=&quot;img-fluid&quot; alt=&quot;&quot; /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;img width=&quot;350&quot; src=&quot;/assets/images/robot_on_mars.png&quot; class=&quot;img-fluid&quot; alt=&quot;&quot; /&gt; 
-&lt;img width=&quot;350&quot; src=&quot;/assets/images/robot_on_earth.png&quot; class=&quot;img-fluid&quot; alt=&quot;&quot; /&gt;
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 12 Dec 2023 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2023/12/12/experimenting-with-ai-generated-optical-illusions/</link>
-        <guid isPermaLink="true">http://localhost:4000/2023/12/12/experimenting-with-ai-generated-optical-illusions/</guid>
-        
-        <category>AI</category>
         
         
       </item>
