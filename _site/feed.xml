@@ -5,8 +5,8 @@
     <description>The moon is beautiful, isn&apos;t it? || The Internet has been the great equalizer of knowledge; AI will be the greatest equalizer of creativity.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 16 Jan 2024 13:11:36 -0500</pubDate>
-    <lastBuildDate>Tue, 16 Jan 2024 13:11:36 -0500</lastBuildDate>
+    <pubDate>Wed, 17 Jan 2024 16:27:22 -0500</pubDate>
+    <lastBuildDate>Wed, 17 Jan 2024 16:27:22 -0500</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -24,9 +24,35 @@ Jeff Liang, a PhD student at UT Austin, will talk about his recent article on Fl
 &lt;br /&gt;&lt;/p&gt;
 
 </description>
+        <pubDate>Tue, 02 Jan 2024 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2024/01/02/webinar-march-1-flowvid/</link>
+        <guid isPermaLink="true">http://localhost:4000/2024/01/02/webinar-march-1-flowvid/</guid>
+        
+        <category>events</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Webinar on Feb 23: Solar System Treks</title>
+        <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Fri, Feb 23, 2024 4-5pm Eastern &lt;br /&gt;
+&lt;strong&gt;Location:&lt;/strong&gt; Online &lt;br /&gt;
+&lt;strong&gt;Registration Link:&lt;/strong&gt; &lt;a href=&quot;https://tennessee.zoom.us/meeting/register/tZIkc-qgrzguGdHKWbR8nZAKNN9Ow9BM0yCw&quot; target=&quot;_blank&quot;&gt;https://tennessee.zoom.us/meeting/register/tZIkc-qgrzguGdHKWbR8nZAKNN9Ow9BM0yCw&lt;/a&gt;   &lt;br /&gt;
+&lt;strong&gt;Cost:&lt;/strong&gt; Free&lt;br /&gt;
+&lt;strong&gt;Details:&lt;/strong&gt;  &lt;br /&gt;
+Emily Law will talk about the Solar System Treks. The Solar System Treks are online, browser-based portals that allow you to visualize, explore, and analyze the surfaces of other worlds using real data returned from a growing fleet of spacecrafts. You can view the worlds through the eyes of many different instruments, pilot real-time 3D flyovers above mountains and into craters, and conduct measurements of surface features. The portals provide exciting capabilities for mission planning, planetary science, and public outreach. Here’s the Solar System Treks’ webpage: &lt;a href=&quot;https://trek.nasa.gov/#&quot; target=&quot;_blank&quot;&gt;https://trek.nasa.gov/#&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Emily Law has been working at NASA’s Jet Propulsion Laboratory for over 20 years where she has provided leadership and management in data intensive system architecture, development and operations.  Emily currently serves as Deputy Program Manager overseeing Earth Science Data Systems technology development, in addition to managing the Solar System Treks Project.&lt;/p&gt;
+
+&lt;p&gt;This event is supported by the National Science Foundation and also by the TN Space Grant Consortium at UTK.
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+</description>
         <pubDate>Mon, 01 Jan 2024 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2024/01/01/webinar-march-1-flowvid/</link>
-        <guid isPermaLink="true">http://localhost:4000/2024/01/01/webinar-march-1-flowvid/</guid>
+        <link>http://localhost:4000/2024/01/01/webinar-feb-23-solar-system-treks/</link>
+        <guid isPermaLink="true">http://localhost:4000/2024/01/01/webinar-feb-23-solar-system-treks/</guid>
         
         <category>events</category>
         
@@ -440,62 +466,6 @@ This talk will present artists who investigate systems, infrastructures and appl
         <guid isPermaLink="true">http://localhost:4000/2023/12/27/webinar-jan-12-on-ai-in-contemporary-art-critical-perspectives/</guid>
         
         <category>events</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Tutorial: Creating Videos by using Pika 1.0</title>
-        <description>&lt;p&gt;Things have been pretty wild in the world of AI-generated videos. Since its launch, Pika Labs has been one of the best cinematic AI video generators. On November 28, 2023, Pika Labs announced its major release &lt;a href=&quot;https://pika.art/blog&quot; target=&quot;_blank&quot;&gt;Pika 1.0&lt;/a&gt;. Pika Labs has opened up access to its video generator on Discord and the web, allowing users to generate videos from image(s), video(s) and text(s). Here’s how to use it:&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;1. Go to the url: &lt;a href=&quot;https://pika.art/&quot; target=&quot;_blank&quot;&gt;https://pika.art/&lt;/a&gt;&lt;/strong&gt; &lt;br /&gt;
-You can sign up via Gmail or Discord.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;2. Add a text prompt&lt;/strong&gt; &lt;br /&gt;
-Add a text prompt that describes your story that you want the video to represent. You can also attach an image or a video which helps in customizing your video.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;3. Hit the &lt;em&gt;Generate&lt;/em&gt; button, and wait for your video to be generated.&lt;/strong&gt; &lt;br /&gt;
-All the generated videos will be stored in &lt;em&gt;my library&lt;/em&gt; section.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;4. You can further choose Retry, Reprompt, Edit, Add 4s or Upscale.&lt;/strong&gt; &lt;br /&gt;
-Retry: generate another video by using the same prompt &lt;br /&gt;
-Reprompt: write another text prompt &lt;br /&gt;
-Edit: change brightness, contrast, etc &lt;br /&gt;
-Add 4s: add duration &lt;br /&gt;
-Upscale: enhance resolution&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;5 You can adjust settings before generating.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;strong&gt;The Thumb Image&lt;/strong&gt; &lt;br /&gt;
-The thumb image was published by NASA in 1972. The image shows the Apollo 17 landing site. The optic axis of the Mapping Camera is at a fixed angle relative to the spacecraft and is vertical when the spacecraft is in normal SIM Bay attitude. Mapping Camera stereo coverage is obtained by overlap, nominally 78 percent, of consecutive frames along the groundtrack. Oblique views area obtained by spacecraft attitude changes.  &lt;br /&gt;
-Lens Focal Length: 3 inches 7.62 centimeters  &lt;br /&gt;
-Lens Field of View: 74 degrees By 74 degrees  &lt;br /&gt;
-Film Width: 5 inches 12.70 centimeters  &lt;br /&gt;
-Film Image: 4.5 by 4.5 inches 11.43 centimeters  &lt;br /&gt;
-Film Type: 3400,Panatomic-X Aerial &lt;br /&gt;
-Principal Point Latitude: 20.0 North &lt;br /&gt;
-Principal Point Longitude: 29.9 East &lt;br /&gt;
-Camera Tilt: Vertical &lt;br /&gt;
-Camera AZ: Altitude &lt;br /&gt;
-Kilometers: 113  &lt;br /&gt;
-Revision Number: 14  &lt;br /&gt;
-Sun Elevation: 13  &lt;br /&gt;
-View of Apollo 17 Landing Site. 
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 27 Dec 2023 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2023/12/27/tutorial-creating-videos-by-using-pika-1.0/</link>
-        <guid isPermaLink="true">http://localhost:4000/2023/12/27/tutorial-creating-videos-by-using-pika-1.0/</guid>
-        
-        <category>AI</category>
-        
-        <category>tutorials</category>
         
         
       </item>

@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Webinar on Nov 20: Solar System Treks"
-date: 2023-09-28
-image: assets/images/emily_law.png
+title:  "Webinar on Feb 23: Solar System Treks"
+date: 2024-1-1
+image: assets/images/emily.png
 tags: [ events ]
 ---
 
 
-**When:** Monday, Nov 20, 2023 4-5pm Pacific   
+**When:** Fri, Feb 23, 2024 4-5pm Eastern   
 **Location:** Online   
 **Registration Link:** [https://tennessee.zoom.us/meeting/register/tZIkc-qgrzguGdHKWbR8nZAKNN9Ow9BM0yCw](https://tennessee.zoom.us/meeting/register/tZIkc-qgrzguGdHKWbR8nZAKNN9Ow9BM0yCw){:target="_blank"}     
 **Cost:** Free  

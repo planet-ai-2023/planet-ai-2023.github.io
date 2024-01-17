@@ -53,10 +53,6 @@
 <lastmod>2023-09-24T00:00:00-04:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/2023/09/28/webinar-nov-20-solar-system-treks/</loc>
-<lastmod>2023-09-28T00:00:00-04:00</lastmod>
-</url>
-<url>
 <loc>http://localhost:4000/2023/11/01/recorded-webinar-interstellar/</loc>
 <lastmod>2023-11-01T00:00:00-04:00</lastmod>
 </url>
@@ -117,8 +113,12 @@
 <lastmod>2023-12-31T00:00:00-05:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/2024/01/01/webinar-march-1-flowvid/</loc>
+<loc>http://localhost:4000/2024/01/01/webinar-feb-23-solar-system-treks/</loc>
 <lastmod>2024-01-01T00:00:00-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/2024/01/02/webinar-march-1-flowvid/</loc>
+<lastmod>2024-01-02T00:00:00-05:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/tag/AI/</loc>
