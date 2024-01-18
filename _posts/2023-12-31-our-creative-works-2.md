@@ -85,7 +85,7 @@ The following were some of our works by experimenting with emerging AI tools in 
 
 <div class="row">
     <div class="col-md-6">
-        <div><img src="/assets/images/surviving_mars.png" class="img-fluid" /></div>
+        <div><img src="/assets/images/surviving_on_mars.png" class="img-fluid" /></div>
     </div>
 </div>
 <br/>
