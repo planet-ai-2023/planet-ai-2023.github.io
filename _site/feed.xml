@@ -5,8 +5,8 @@
     <description>The moon is beautiful, isn&apos;t it? || The Internet has been the great equalizer of knowledge; AI will be the greatest equalizer of creativity.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 20 Jan 2024 07:19:47 -0500</pubDate>
-    <lastBuildDate>Sat, 20 Jan 2024 07:19:47 -0500</lastBuildDate>
+    <pubDate>Sat, 20 Jan 2024 09:41:28 -0500</pubDate>
+    <lastBuildDate>Sat, 20 Jan 2024 09:41:28 -0500</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -80,6 +80,63 @@ The speaker Hairuo Fu is a PhD student at Harvard University. He will talk about
         <guid isPermaLink="true">http://localhost:4000/2023/12/31/webinar-jan-26-lunar-narrative-through-apollo-petrographic-thin-sections/</guid>
         
         <category>events</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Our Creative Works [4]</title>
+        <description>&lt;p&gt;The following were some of our works by experimenting with emerging AI tools in the past few years.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-md-4&quot;&gt;
+        &lt;div&gt;&lt;img src=&quot;/assets/images/d_1.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-md-4&quot;&gt;
+        &lt;div&gt;&lt;img src=&quot;/assets/images/d_2.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+    &lt;/div&gt;    
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-md-3&quot;&gt;
+        &lt;div&gt;&lt;img src=&quot;/assets/images/astronaut_1.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-md-3&quot;&gt;
+        &lt;div&gt;&lt;img src=&quot;/assets/images/astronaut_2.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-md-3&quot;&gt;
+        &lt;div&gt;&lt;img src=&quot;/assets/images/astronaut_3.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-md-3&quot;&gt;
+        &lt;div&gt;&lt;img src=&quot;/assets/images/astronaut_4.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+    &lt;/div&gt;    
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-md-3&quot;&gt;
+        &lt;div&gt;&lt;img src=&quot;/assets/images/astronaut_5.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-md-3&quot;&gt;
+        &lt;div&gt;&lt;img src=&quot;/assets/images/astronaut_6.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-md-3&quot;&gt;
+        &lt;div&gt;&lt;img src=&quot;/assets/images/astronaut_7.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-md-3&quot;&gt;
+        &lt;div&gt;&lt;img src=&quot;/assets/images/astronaut_8.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+    &lt;/div&gt;    
+&lt;/div&gt;
+</description>
+        <pubDate>Sun, 31 Dec 2023 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2023/12/31/our-creative-works-4/</link>
+        <guid isPermaLink="true">http://localhost:4000/2023/12/31/our-creative-works-4/</guid>
+        
+        <category>exhibits</category>
+        
+        <category>AI</category>
         
         
       </item>
@@ -463,35 +520,6 @@ The speaker Hairuo Fu is a PhD student at Harvard University. He will talk about
         <guid isPermaLink="true">http://localhost:4000/2023/12/29/recorded-webinar-ai-in-contemporary-art-critical-perspectives/</guid>
         
         <category>webinars</category>
-        
-        <category>AI</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Butterfly Tutorial Series [1]</title>
-        <description>&lt;p&gt;Zhengyang Zhou, a PhD student at Brandeis University, developed the following computer vision tutorials with a curated butterfly dataset.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Butterlfy Dataset&lt;/strong&gt; &lt;br /&gt;
-Here’s the butterfly dataset you can download: &lt;br /&gt;
-&lt;a href=&quot;https://drive.google.com/file/d/15hGKEOjLIxWmmL6fBHguI2sKLKjYi78A/view?usp=sharing&quot; target=&quot;_blank&quot;&gt;https://drive.google.com/file/d/15hGKEOjLIxWmmL6fBHguI2sKLKjYi78A/view?usp=sharing&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Exploring the Following Colab Notebooks for Computer Vision Tasks&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;&lt;a href=&quot;https://drive.google.com/file/d/1HfjGaiEI0TrF9AA0BbL57Bi8QUfucSmx/view?usp=sharing&quot; target=&quot;_blank&quot;&gt;Classifying butterfly types in images&lt;/a&gt; &lt;br /&gt;
-This colab highlights the need for data augmentation and complex model structures as tasks become more intricate.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://drive.google.com/file/d/1Pz9JI-RmBeBoHFpDt7k48zFknb5Dhk14/view?usp=sharing&quot; target=&quot;_blank&quot;&gt;Vision-Transformer for butterfly classification&lt;/a&gt; &lt;br /&gt;
-This Colab introduces the Transformer model family.&lt;/li&gt;
-&lt;/ol&gt;
-
-</description>
-        <pubDate>Fri, 29 Dec 2023 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2023/12/29/butterfly_tutorial_series-1/</link>
-        <guid isPermaLink="true">http://localhost:4000/2023/12/29/butterfly_tutorial_series-1/</guid>
-        
-        <category>tutorials</category>
         
         <category>AI</category>
         
