@@ -5,8 +5,8 @@
     <description>The moon is beautiful, isn&apos;t it? || The Internet has been the great equalizer of knowledge; AI will be the greatest equalizer of creativity.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 18 Jan 2024 07:58:26 -0500</pubDate>
-    <lastBuildDate>Thu, 18 Jan 2024 07:58:26 -0500</lastBuildDate>
+    <pubDate>Sat, 20 Jan 2024 07:19:47 -0500</pubDate>
+    <lastBuildDate>Sat, 20 Jan 2024 07:19:47 -0500</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -80,6 +80,61 @@ The speaker Hairuo Fu is a PhD student at Harvard University. He will talk about
         <guid isPermaLink="true">http://localhost:4000/2023/12/31/webinar-jan-26-lunar-narrative-through-apollo-petrographic-thin-sections/</guid>
         
         <category>events</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Our Creative Works [3]</title>
+        <description>&lt;p&gt;The following were some of our works by experimenting with emerging AI tools in the past few years.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-md-3&quot;&gt;
+        &lt;div&gt;&lt;img src=&quot;/assets/images/rover_m_1.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-md-7&quot;&gt;
+        &lt;div&gt;&lt;img src=&quot;/assets/images/rover_m_5.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+    &lt;/div&gt;    
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-md-3&quot;&gt;
+        &lt;div&gt;&lt;img src=&quot;/assets/images/rover_m_2.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-md-7&quot;&gt;
+        &lt;div&gt;&lt;img src=&quot;/assets/images/rover_m_6.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+    &lt;/div&gt;    
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-md-3&quot;&gt;
+        &lt;div&gt;&lt;img src=&quot;/assets/images/rover_m_3.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-md-7&quot;&gt;
+        &lt;div&gt;&lt;img src=&quot;/assets/images/rover_m_7.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+    &lt;/div&gt;    
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-md-3&quot;&gt;
+        &lt;div&gt;&lt;img src=&quot;/assets/images/rover_m_4.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-md-7&quot;&gt;
+        &lt;div&gt;&lt;img src=&quot;/assets/images/rover_m_8.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+    &lt;/div&gt;    
+&lt;/div&gt;
+</description>
+        <pubDate>Sun, 31 Dec 2023 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2023/12/31/our-creative-works-3/</link>
+        <guid isPermaLink="true">http://localhost:4000/2023/12/31/our-creative-works-3/</guid>
+        
+        <category>exhibits</category>
+        
+        <category>AI</category>
         
         
       </item>
@@ -439,33 +494,6 @@ This Colab introduces the Transformer model family.&lt;/li&gt;
         <category>tutorials</category>
         
         <category>AI</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Webinar on Jan 12: AI in Contemporary Art: Critical Perspectives</title>
-        <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Fri, Jan 12, 2024 4-5pm Eastern &lt;br /&gt;
-&lt;strong&gt;Location:&lt;/strong&gt; Online &lt;br /&gt;
-&lt;strong&gt;Registration Link:&lt;/strong&gt; &lt;a href=&quot;https://tennessee.zoom.us/webinar/register/WN_Fyl2tF0IRZypx6HrpyUbiA&quot; target=&quot;_blank&quot;&gt;https://tennessee.zoom.us/webinar/register/WN_Fyl2tF0IRZypx6HrpyUbiA&lt;/a&gt;   &lt;br /&gt;
-&lt;strong&gt;Cost:&lt;/strong&gt; Free&lt;br /&gt;
-&lt;strong&gt;Details:&lt;/strong&gt;  &lt;br /&gt;
-This talk will present artists who investigate systems, infrastructures and applications of AI. It will cover artists who investigate the components of AI systems such as datasets and classification and look at the social impact of technologies such as facial recognition, recommendation systems and deep fakes.&lt;/p&gt;
-
-&lt;p&gt;The speaker for this talk, Luba Elliott, is a curator and researcher specialising in AI art. She works to educate and engage the broader public about the recent developments in AI art through talks and exhibitions at venues across the art, business and technology spectrum including The Serpentine Galleries, arebyte, ZKM, V&amp;amp;A Museum, Impakt Festival, CogX, NeurIPS and ICCV. Her recent projects include the Unit London exhibition ‘The Perfect Error’ and the ART-AI Festival in Leicester, UK. She founded the NeurIPS Creativity and Design Workshop and curated the online galleries aiartonline.com and computervisionart.com. She is an Honorary Senior Research Fellow at the UCL Centre for Artificial Intelligence. Prior to that, she worked in start-ups, including the art collector database Larry’s List. She obtained her undergraduate degree in Modern Languages at the University of Cambridge.&lt;/p&gt;
-
-&lt;p&gt;This event is supported by the National Science Foundation and also by the TN Space Grant Consortium at UTK.&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 27 Dec 2023 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2023/12/27/webinar-jan-12-on-ai-in-contemporary-art-critical-perspectives/</link>
-        <guid isPermaLink="true">http://localhost:4000/2023/12/27/webinar-jan-12-on-ai-in-contemporary-art-critical-perspectives/</guid>
-        
-        <category>events</category>
         
         
       </item>
