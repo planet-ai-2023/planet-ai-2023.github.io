@@ -3,7 +3,7 @@ layout: post
 title:  "Recorded Webinar: Interstellar"
 date: 2023-11-01
 image: assets/images/interstellar.png
-tags: [ webinars, planet ]
+tags: [ webinars, planet, resources ]
 ---
 
 <div class="col-12 col-md-9 col-lg-9 mb-9 gx-1">

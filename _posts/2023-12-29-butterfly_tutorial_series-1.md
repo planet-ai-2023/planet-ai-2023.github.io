@@ -3,7 +3,7 @@ layout: post
 title:  "Butterfly Tutorial Series [1]"
 date: 2023-12-29
 image: assets/images/butterfly_d.png
-tags: [ tutorials, AI ]
+tags: [ tutorials, AI, resources ]
 ---
 
 Zhengyang Zhou, a PhD student at Brandeis University, developed the following computer vision tutorials with a curated butterfly dataset.

@@ -3,7 +3,7 @@ layout: post
 title:  "Stable Diffusion and SDXL"
 date: 2023-08-08
 image: assets/images/12_alan_bean.png
-tags: [ AI ]
+tags: [ AI, resources ]
 ---
 
 

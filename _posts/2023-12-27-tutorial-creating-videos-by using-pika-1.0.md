@@ -3,7 +3,7 @@ layout: post
 title:  "Tutorial: Creating Videos by using Pika 1.0"
 date: 2023-12-27
 image: assets/images/as17-m-0447.png
-tags: [ AI, tutorials ]
+tags: [ AI, tutorials, resources ]
 ---
 
 Things have been pretty wild in the world of AI-generated videos. Since its launch, Pika Labs has been one of the best cinematic AI video generators. On November 28, 2023, Pika Labs announced its major release [Pika 1.0](https://pika.art/blog){:target="_blank"}. Pika Labs has opened up access to its video generator on Discord and the web, allowing users to generate videos from image(s), video(s) and text(s). Here's how to use it:
