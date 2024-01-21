@@ -2,7 +2,7 @@
 layout: post
 title:  "Webinar on Feb 23: Solar System Treks"
 date: 2024-1-1
-image: assets/images/emily.png
+image: assets/images/emily_law.png
 tags: [ events ]
 ---
 
