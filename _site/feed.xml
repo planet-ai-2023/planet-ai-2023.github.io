@@ -5,8 +5,8 @@
     <description>The moon is beautiful, isn&apos;t it? || The Internet has been the great equalizer of knowledge; AI will be the greatest equalizer of creativity.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 21 Jan 2024 12:14:49 -0500</pubDate>
-    <lastBuildDate>Sun, 21 Jan 2024 12:14:49 -0500</lastBuildDate>
+    <pubDate>Sun, 21 Jan 2024 14:04:49 -0500</pubDate>
+    <lastBuildDate>Sun, 21 Jan 2024 14:04:49 -0500</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -80,6 +80,85 @@ The speaker Hairuo Fu is a PhD student at Harvard University. He will talk about
         <guid isPermaLink="true">http://localhost:4000/2023/12/31/webinar-jan-26-lunar-narrative-through-apollo-petrographic-thin-sections/</guid>
         
         <category>events</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Our Creative Works [6]</title>
+        <description>&lt;p&gt;The following were some of our works by experimenting with emerging AI tools in the past few years.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-md-8&quot;&gt;
+        &lt;div&gt;&lt;img src=&quot;/assets/images/basalt_1.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-md-8&quot;&gt;
+        &lt;div&gt;&lt;img src=&quot;/assets/images/basalt_2.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-md-8&quot;&gt;
+        &lt;div&gt;&lt;img src=&quot;/assets/images/basalt_3.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-md-8&quot;&gt;
+        &lt;div&gt;&lt;img src=&quot;/assets/images/basalt_4.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-md-8&quot;&gt;
+        &lt;div&gt;&lt;img src=&quot;/assets/images/basalt_5.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-md-8&quot;&gt;
+        &lt;div&gt;&lt;img src=&quot;/assets/images/basalt_6.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-md-8&quot;&gt;
+        &lt;div&gt;&lt;img src=&quot;/assets/images/basalt_7.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-md-8&quot;&gt;
+        &lt;div&gt;&lt;img src=&quot;/assets/images/supervolcano_1.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-md-8&quot;&gt;
+        &lt;div&gt;&lt;img src=&quot;/assets/images/supervolcano_2.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 31 Dec 2023 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2023/12/31/our-creative-works-6/</link>
+        <guid isPermaLink="true">http://localhost:4000/2023/12/31/our-creative-works-6/</guid>
+        
+        <category>exhibits</category>
+        
+        <category>AI</category>
         
         
       </item>
@@ -529,26 +608,6 @@ The speaker Hairuo Fu is a PhD student at Harvard University. He will talk about
         <pubDate>Sun, 31 Dec 2023 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/2023/12/31/HiRISE_tutorial/</link>
         <guid isPermaLink="true">http://localhost:4000/2023/12/31/HiRISE_tutorial/</guid>
-        
-        <category>tutorials</category>
-        
-        <category>AI</category>
-        
-        <category>resources</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Butterfly Tutorial Series [2]</title>
-        <description>&lt;p&gt;We will use the following Colab notebook to generate butterfly images by training a diffusion model with Smithsonian’s butterfly dataset.
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;script src=&quot;https://gist.github.com/planet-ai-2023/964360fccaab9e53d6a6ef2f318236b4.js&quot;&gt;&lt;/script&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sat, 30 Dec 2023 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2023/12/30/butterfly_tutorial_series-2/</link>
-        <guid isPermaLink="true">http://localhost:4000/2023/12/30/butterfly_tutorial_series-2/</guid>
         
         <category>tutorials</category>
         
