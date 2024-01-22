@@ -5,8 +5,8 @@
     <description>The moon is beautiful, isn&apos;t it? || The Internet has been the great equalizer of knowledge; AI will be the greatest equalizer of creativity.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 21 Jan 2024 14:04:49 -0500</pubDate>
-    <lastBuildDate>Sun, 21 Jan 2024 14:04:49 -0500</lastBuildDate>
+    <pubDate>Sun, 21 Jan 2024 20:19:10 -0500</pubDate>
+    <lastBuildDate>Sun, 21 Jan 2024 20:19:10 -0500</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -80,6 +80,79 @@ The speaker Hairuo Fu is a PhD student at Harvard University. He will talk about
         <guid isPermaLink="true">http://localhost:4000/2023/12/31/webinar-jan-26-lunar-narrative-through-apollo-petrographic-thin-sections/</guid>
         
         <category>events</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Our Creative Works [7]</title>
+        <description>&lt;p&gt;The following were some of our works by experimenting with emerging AI tools in the past few years.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-md-9&quot;&gt;
+        &lt;div&gt;&lt;img src=&quot;/assets/images/rustic_1.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+    &lt;/div&gt;    
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-md-9&quot;&gt;
+        &lt;div&gt;&lt;img src=&quot;/assets/images/rustic_2.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+    &lt;/div&gt;    
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-md-3&quot;&gt;
+        &lt;div&gt;&lt;img src=&quot;/assets/images/butterfly_r_3.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-md-3&quot;&gt;
+        &lt;div&gt;&lt;img src=&quot;/assets/images/butterfly_r_4.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-md-3&quot;&gt;
+        &lt;div&gt;&lt;img src=&quot;/assets/images/butterfly_r_5.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-md-3&quot;&gt;
+        &lt;div&gt;&lt;img src=&quot;/assets/images/p_1.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-md-3&quot;&gt;
+        &lt;div&gt;&lt;img src=&quot;/assets/images/p_2.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-md-3&quot;&gt;
+        &lt;div&gt;&lt;img src=&quot;/assets/images/p_3.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-md-3&quot;&gt;
+        &lt;div&gt;&lt;img src=&quot;/assets/images/p_4.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-md-3&quot;&gt;
+        &lt;div&gt;&lt;img src=&quot;/assets/images/p_5.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-md-3&quot;&gt;
+        &lt;div&gt;&lt;img src=&quot;/assets/images/p_6.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-md-3&quot;&gt;
+        &lt;div&gt;&lt;img src=&quot;/assets/images/p_7.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 31 Dec 2023 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2023/12/31/our-creative-works-7/</link>
+        <guid isPermaLink="true">http://localhost:4000/2023/12/31/our-creative-works-7/</guid>
+        
+        <category>exhibits</category>
+        
+        <category>AI</category>
         
         
       </item>
@@ -594,26 +667,6 @@ The speaker Hairuo Fu is a PhD student at Harvard University. He will talk about
         <category>exhibits</category>
         
         <category>AI</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>HiRISE Tutorial</title>
-        <description>&lt;p&gt;We will use the following Colab notebook to generate HiRISE images by training a diffusion model with a customized HiRISE dataset of Martian surface features.
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;script src=&quot;https://gist.github.com/planet-ai-2023/a30167b68200ee43dcd9b2f0e6988dc0.js&quot;&gt;&lt;/script&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sun, 31 Dec 2023 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2023/12/31/HiRISE_tutorial/</link>
-        <guid isPermaLink="true">http://localhost:4000/2023/12/31/HiRISE_tutorial/</guid>
-        
-        <category>tutorials</category>
-        
-        <category>AI</category>
-        
-        <category>resources</category>
         
         
       </item>
