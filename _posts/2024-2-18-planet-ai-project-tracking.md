@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "Planet+AI Project Tracking"
+date: 2024-2-18
+image: assets/images/pt.png
+tags: [ projects ]
+---
+
+This article will be updated.
+
+- Ping Wang et al. were invited for in-person poster presentation at LPSC 2024.
+- Ping Wang started Family Visits at the Strong Hall since Feb 1, 2023.
+- Ping Wang published, in Jan 2024, the multimodal Alluvial Fans on Mars dataset for AI outreach and research, which will be introduced to participating students in the summer course.
+- Ping Wang with colleagues submitted to an abstract *EXPERIMENTING WITH EMERGING ARTIFICIAL INTELLIGENCE AND AUGMENTED REALITY TECHNOLOGIES UTILIZING PLANETARY SCIENCE DATA FOR STEM EDUCATION AND PUBLIC OUTREACH* to LPSC in January 2024.
+- Dr. Maroulas and his PhD student Layal Bou Hamdan started to prepare the math component of the summer curriculum.
+- Ping Wang submitted the IRB for approval on Jan 3, 2024. 
+- Ping Wang sent student team's From Hawaii to the Moon work to the American Museum of Science and Energy in Dec 2023.
+- Ping Wang attended AGU and talked to colleagues on AI outreach for Geosciences in Dec 2023.
+- Ping Wang attended the NSF AISL Awardee Meeting between Dec 6-8, 2023. 
+- Ping Wang mentored student teams in NYC and San Jose, CA to create a series of AI-assisted creative works, including AI Optical Illusions since Sep 1, 2023.
+- Ping Wang mentored student teams in NYC and San Jose, CA to create *From Hawaii to the Moon* works in Dec 2023.
+- Ping Wang has been organizing and conducting public lecture series since Sep 1, 2023.
+- Ping Wang has been organizing and conducting public webinar series (weekly) since Sep 1, 2023.
+- Researchers at Brandeis and Ping Wang at UTK have been preparing for summer-camp curriculum from September to December 2023.
+- Project Kickoff Meeting was held on Monday, Sep 11, 4-5pm Eastern.
+- Ping Wang was hired by UT on Sep 18, 2023.
+- Proposal #2314155 Collaborative Research: Cultivating Tomorrow’s Innovators Through Exploring Planetary Images with Artificial Intelligence was awarded by NSF on Aug 22, 2023.
+
+<br/>
+<br/>
