@@ -9,7 +9,7 @@ tags: [ events ]
 
 **When:** Fri, Feb 23, 2024 4-5pm Eastern   
 **Location:** Online   
-**Registration Link:** [https://tennessee.zoom.us/meeting/register/tZIkc-qgrzguGdHKWbR8nZAKNN9Ow9BM0yCw](https://tennessee.zoom.us/meeting/register/tZIkc-qgrzguGdHKWbR8nZAKNN9Ow9BM0yCw){:target="_blank"}     
+**Registration Link:** [https://tennessee.zoom.us/webinar/register/WN_wZxzDz_aQwWPKAG-22M3PA](https://tennessee.zoom.us/webinar/register/WN_wZxzDz_aQwWPKAG-22M3PA){:target="_blank"}     
 **Cost:** Free  
 **Details:**    
 Emily Law will talk about the Solar System Treks. The Solar System Treks are online, browser-based portals that allow you to visualize, explore, and analyze the surfaces of other worlds using real data returned from a growing fleet of spacecrafts. You can view the worlds through the eyes of many different instruments, pilot real-time 3D flyovers above mountains and into craters, and conduct measurements of surface features. The portals provide exciting capabilities for mission planning, planetary science, and public outreach. Here's the Solar System Treks' webpage: [https://trek.nasa.gov/#](https://trek.nasa.gov/#){:target="_blank"}
