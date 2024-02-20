@@ -13,15 +13,15 @@ This article will be updated.
 - Ping Wang started Family Visits at the Strong Hall since Feb 1, 2024.
 - Ping Wang published, in Jan 2024, the multimodal Alluvial Fans on Mars dataset for AI outreach and research, which will be introduced to participating students in the summer course.
 - Ping Wang with colleagues submitted to an abstract *EXPERIMENTING WITH EMERGING ARTIFICIAL INTELLIGENCE AND AUGMENTED REALITY TECHNOLOGIES UTILIZING PLANETARY SCIENCE DATA FOR STEM EDUCATION AND PUBLIC OUTREACH* to LPSC in January 2024.
-- Dr. Maroulas and his PhD student Layal Bou Hamdan started to prepare the math component of the summer curriculum.
+- Dr. Maroulas and his PhD student Layal Bou Hamdan started to prepare the math component of the summer curriculum in January 2024.
 - Ping Wang submitted the IRB for approval on Jan 3, 2024. 
 - Ping Wang sent student team's From Hawaii to the Moon work to the American Museum of Science and Energy in Dec 2023.
 - Ping Wang attended AGU and talked to colleagues on AI outreach for Geosciences in Dec 2023.
 - Ping Wang attended the NSF AISL Awardee Meeting between Dec 6-8, 2023. 
 - Ping Wang mentored student teams in NYC and San Jose, CA to create a series of AI-assisted creative works, including AI Optical Illusions since Sep 1, 2023.
 - Ping Wang mentored student teams in NYC and San Jose, CA to create *From Hawaii to the Moon* works in Dec 2023.
-- Ping Wang has been organizing and conducting public lecture series since Sep 1, 2023.
-- Ping Wang has been organizing and conducting public webinar series (weekly) since Sep 1, 2023.
+- Ping Wang has been organizing and conducting public lecture series, since Sep 1, 2023, co-funded by NSF and NASA Space Grant Consortium at UTK for which Dr. Nick Dygert is the Director.
+- Ping Wang has been organizing and conducting public webinar series (weekly), since Sep 1, 2023, co-funded by NSF and NASA Space Grant Consortium at UTK for which Dr. Nick Dygert is the Director.
 - Researchers at Brandeis and Ping Wang at UTK have been preparing for summer-camp curriculum from September to December 2023.
 - Project Kickoff Meeting was held on Monday, Sep 11, 4-5pm Eastern.
 - Ping Wang was hired by UT on Sep 18, 2023.
