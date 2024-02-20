@@ -22,7 +22,7 @@ This article will be updated.
 - Ping Wang mentored student teams in NYC and San Jose, CA to create *From Hawaii to the Moon* works in Dec 2023.
 - Ping Wang has been organizing and conducting public lecture series, since Sep 1, 2023, co-funded by NSF and NASA Space Grant Consortium at UTK for which Dr. Nick Dygert is the Director.
 - Ping Wang has been organizing and conducting public webinar series (weekly), since Sep 1, 2023, co-funded by NSF and NASA Space Grant Consortium at UTK for which Dr. Nick Dygert is the Director.
-- Researchers at Brandeis and Ping Wang at UTK have been preparing for summer-camp curriculum from September to December 2023.
+- Researchers, including Dr. Pengyu Hong and his PhD student Zhengyang Zhou, at Brandeis and Ping Wang at UTK have been preparing for summer-camp curriculum from September to December 2023.
 - Project Kickoff Meeting was held on Monday, Sep 11, 4-5pm Eastern.
 - Ping Wang was hired by UT on Sep 18, 2023.
 - Proposal #2314155 Collaborative Research: Cultivating Tomorrow’s Innovators Through Exploring Planetary Images with Artificial Intelligence was awarded by NSF on Aug 22, 2023.
