@@ -12,7 +12,7 @@ tags: [ events ]
 **Registration Link:** [https://tennessee.zoom.us/webinar/register/WN_h7QyAJYbR_6GN07cV5GkoA](https://tennessee.zoom.us/webinar/register/WN_h7QyAJYbR_6GN07cV5GkoA){:target="_blank"}     
 
 **Introduction:**   
-Artificial Intelligence (AI) technologies have been advancing rapidly; and AI shows great promise in a range of areas. This online symposium explores the frontiers of AI technologies and their implications on individuals and communities by communicating AI with the public by experts in AI, science, law, arts, and education. The goal of this symposium is to bring people in different sectors together and have meaningful conversations on AI. This event will be jointly hosted by UTK and UGA. 
+Artificial Intelligence (AI) technologies have been advancing rapidly; and they have shown great promise in a range of areas. This online symposium explores the frontiers of AI technologies and their implications on individuals and communities by communicating AI with the public. We will birng in experts with a vareity of background from fields, including AI, science, law, arts, and education, together and have meaningful conversations on AI. This event will be jointly hosted by University of Tennessee, Knoxville and University of Georgia. 
 
 **Our speakers**:   
 
@@ -22,7 +22,7 @@ Dr. Guoyu Lu's research focuses on computer vision, machine learning, and roboti
 **Dr. Weiyan Shi, Researcher at Stanford NLP**    
 Dr. Weiyan Shi got her PhD from Columbia University working on Natural Language Processing. She will talk about interactive AI Systems specialized in social influence. 
 
-**Dr. Chia Shen, Program Director in the Divison of Research on Learning in the Directorate of Education and Human Resources at the National Science Foundation**
+**Dr. Chia Shen, Program Director in the Division of Research on Learning in the Directorate of Education and Human Resources at the National Science Foundation**
 
 **Irene Lee and Helen Zhang, Researchers on Ethical AI and Responsible AI**   
 Researchers, Irene Lee and Helen Zhang, will talk about Responsible AI for Social Empowerment and Education by introducing their recent work at the MIT Media Lab.
