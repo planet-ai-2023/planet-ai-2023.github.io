@@ -25,7 +25,7 @@ Dr. Weiyan Shi got her PhD from Columbia University working on Natural Language 
 **Dr. Chia Shen, Program Director in the Divison of Research on Learning in the Directorate of Education and Human Resources at the National Science Foundation**
 
 **Irene Lee, Helen Zhang, Researchers on Ethical AI and Responsible AI**   
-Researchers, Irene Lee, Helen Zhang will talk about Responsible AI for Social Empowerment and Education by introducing their recent work at the MIT Media Lab.
+Researchers, Irene Lee and Helen Zhang will talk about Responsible AI for Social Empowerment and Education by introducing their recent work at the MIT Media Lab.
 
 **Ping Wang, Research Associate at the Department of Earth and Planetary Sciences, UTK**   
 Ping Wang will talk about her recent research on AI outreach.
