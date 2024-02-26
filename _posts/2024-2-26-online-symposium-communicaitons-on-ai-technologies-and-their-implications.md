@@ -2,7 +2,7 @@
 layout: post
 title:  "Online Symposium on March 22: Communications on AI Technologies and Their Implications"
 date: 2024-2-19
-image: assets/images/communications_ai.png
+image: assets/images/com.png
 tags: [ events ]
 ---
 
@@ -25,7 +25,7 @@ Dr. Weiyan Shi got her PhD from Columbia University working on Natural Language 
 **Dr. Chia Shen, Program Director in the Divison of Research on Learning in the Directorate of Education and Human Resources at the National Science Foundation**
 
 **Irene Lee, Helen Zhang, Researchers on Ethical AI and Responsible AI**   
-Researchers, Irene Lee and Helen Zhang will talk about Responsible AI for Social Empowerment and Education by introducing their recent work at the MIT Media Lab.
+Researchers, Irene Lee, Helen Zhang will talk about Responsible AI for Social Empowerment and Education by introducing their recent work at the MIT Media Lab.
 
 **Ping Wang, Research Associate at the Department of Earth and Planetary Sciences, UTK**   
 Ping Wang will talk about her recent research on AI outreach.
@@ -42,7 +42,15 @@ Professor Nugent will talk about law and AI.
 **Lawrens Tan, Australian Sculptor**   
 Lawrens Tan will talk about arts and AI.
 
-This event is supported by the National Science Foundation and also by the TN Space Grant Consortium at UTK. 
+This event is supported by the National Science Foundation and also by the TN Space Grant Consortium at UTK and sponsored by
+- Department of Earth and Planetary Sciences, University of Tennessee, Knoxville
+- College of Arts and Sciences, University of Tennessee, Knoxville
+- AI Tennessee Initative, University of Tennessee, Knoxville
+- College of Engineering, University of Georgia
+
+------
+**The Thumb Image**   
+The thumb image was created by Harold Cohenn's AARON Gijon in 2007. 
 <br/>
 <br/>
 <br/>
