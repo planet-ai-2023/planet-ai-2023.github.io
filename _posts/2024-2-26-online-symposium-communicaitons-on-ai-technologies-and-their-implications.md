@@ -12,7 +12,7 @@ tags: [ events ]
 **Registration Link:** [https://tennessee.zoom.us/webinar/register/WN_h7QyAJYbR_6GN07cV5GkoA](https://tennessee.zoom.us/webinar/register/WN_h7QyAJYbR_6GN07cV5GkoA){:target="_blank"}     
 
 **Introduction:**   
-Artificial Intelligence (AI) technologies have been advancing rapidly; and AI shows great promise in a range of areas. This online symposium explores the fronties of AI technologies and their implications on individuals and communities by communicating AI with the public by experts in AI, science, law, arts, and education. The goal of this symposium is to bring people in different sectors together and have meaningful conversations on AI. This event will be jointly hosted by UTK and UGA. 
+Artificial Intelligence (AI) technologies have been advancing rapidly; and AI shows great promise in a range of areas. This online symposium explores the frontiers of AI technologies and their implications on individuals and communities by communicating AI with the public by experts in AI, science, law, arts, and education. The goal of this symposium is to bring people in different sectors together and have meaningful conversations on AI. This event will be jointly hosted by UTK and UGA. 
 
 **Our speakers**:   
 
