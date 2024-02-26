@@ -16,7 +16,7 @@ Artificial Intelligence (AI) technologies have been advancing rapidly; and they 
 
 **Our speakers**:   
 
-**Dr. Guoyu Lu, Assistant Professor of EECS, University of Georgia**   
+**Dr. Guoyu Lu, Assistant Professor of EECS, UGA**   
 Dr. Guoyu Lu's research focuses on computer vision, machine learning, and robotics. He will talk about his recent research on AI4Agriculture and self-driving cars.
 
 **Dr. Weiyan Shi, Researcher at Stanford NLP**    
