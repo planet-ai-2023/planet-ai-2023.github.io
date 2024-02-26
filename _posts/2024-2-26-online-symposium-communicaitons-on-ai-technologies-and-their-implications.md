@@ -16,13 +16,13 @@ Artificial Intelligence (AI) technologies have been advancing rapidly; and they 
 
 **Our speakers**:   
 
-**Dr. Guoyu Lu, Assistant Professor of EECS, UGA**   
-Dr. Guoyu Lu's research focuses on computer vision, machine learning, and robotics. He will talk about his recent research on AI4Agriculture and self-driving cars.
+**Guoyu Lu, Assistant Professor of EECS, UGA**   
+Guoyu Lu's research focuses on computer vision, machine learning, and robotics. He will talk about his recent research on AI4Agriculture and self-driving cars.
 
-**Dr. Weiyan Shi, Researcher at Stanford NLP**    
-Dr. Weiyan Shi got her PhD from Columbia University working on Natural Language Processing. She will talk about interactive AI Systems specialized in social influence. 
+**Weiyan Shi, Researcher at Stanford NLP**    
+Weiyan Shi got her PhD from Columbia University working on Natural Language Processing. She will talk about interactive AI Systems specialized in social influence. 
 
-**Dr. Chia Shen, Program Director in the Division of Research on Learning in the Directorate of Education and Human Resources at the National Science Foundation**
+**Chia Shen, Program Director in the Division of Research on Learning in the Directorate of Education and Human Resources at the National Science Foundation**
 
 **Irene Lee and Helen Zhang, Researchers on Ethical AI and Responsible AI**   
 Researchers, Irene Lee and Helen Zhang, will talk about Responsible AI for Social Empowerment and Education by introducing their recent work at the MIT Media Lab.
