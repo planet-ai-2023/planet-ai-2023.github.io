@@ -43,13 +43,20 @@ Lawrens Tan will talk about arts and AI.
 **Xiaopeng Zhao, Program Director of AI and Data Science, College of Emerging and Collaborative Studies, UTK**   
 Xiaopeng Zhao will give a presentation on Collaborative AI and Robotics to Empower Persons with Dementia (CARE4PwD).
 
+------
+**Acknowledgement**   
+This online symposium is based upon work supported by the National Science Foundation under Grant EDU DRL #2314155.
 
-This event is supported by the National Science Foundation and also by the TN Space Grant Consortium at UTK and sponsored by
+This event is also supported by
+- NASA Space Grant Consortium at University of Tennessee, Knoxville
 - Department of Earth and Planetary Sciences, University of Tennessee, Knoxville
 - College of Arts and Sciences, University of Tennessee, Knoxville
 - College of Emerging and Collaborative Studies, University of Tennessee, Knoxville
 - AI Tennessee Initative, University of Tennessee, Knoxville
 - College of Engineering, University of Georgia
+
+**Disclaimer**   
+Any opionions, findings, and conclusions or recommendations expressed in this symposium are those of the speakers and do not necessarily reflect the views of the National Science Foundation or NASA.
 
 ------
 **The Thumb Image**   
