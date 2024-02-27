@@ -55,6 +55,7 @@ This event is also supported by
 - AI Tennessee Initative, University of Tennessee, Knoxville
 - College of Engineering, University of Georgia
 
+------
 **Disclaimer**   
 Any opionions, findings, and conclusions or recommendations expressed in this symposium are those of the speakers and do not necessarily reflect the views of the National Science Foundation or NASA.
 
