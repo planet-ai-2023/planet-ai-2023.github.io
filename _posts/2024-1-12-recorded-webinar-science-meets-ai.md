@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Recorded Webinar: Creative Video Understanding, Editing and Generation"
+title:  "Recorded Webinar: Science Meets AI"
 date: 2024-1-1
 image: assets/images/flora_josh.png
 tags: [ webinars, AI, resources ]
