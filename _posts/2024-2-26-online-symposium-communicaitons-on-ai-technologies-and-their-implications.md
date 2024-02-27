@@ -42,9 +42,14 @@ Professor Nugent will talk about law and AI.
 **Lawrens Tan, Australian Sculptor**   
 Lawrens Tan will talk about arts and AI.
 
+**Xiaopeng Zhao, Program Director of AI and Data Science, College of Emerging and Collaborative Studies, UTK**   
+Xiaopeng Zhao will give a presentation on Collaborative AI and Robotics to Empower Persons with Dementia (CARE4PwD).
+
+
 This event is supported by the National Science Foundation and also by the TN Space Grant Consortium at UTK and sponsored by
 - Department of Earth and Planetary Sciences, University of Tennessee, Knoxville
 - College of Arts and Sciences, University of Tennessee, Knoxville
+- College of Emerging and Collaborative Studies, University of Tennessee, Knoxville
 - AI Tennessee Initative, University of Tennessee, Knoxville
 - College of Engineering, University of Georgia
 
