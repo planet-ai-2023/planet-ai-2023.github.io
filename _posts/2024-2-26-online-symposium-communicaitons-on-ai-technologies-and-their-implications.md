@@ -46,6 +46,9 @@ Lawrens Tan will talk about arts and AI.
 **Xiaopeng Zhao, Program Director of AI and Data Science, College of Emerging and Collaborative Studies, UTK**   
 Xiaopeng Zhao will give a presentation on Collaborative AI and Robotics to Empower Persons with Dementia (CARE4PwD).
 
+**Yuanyang Liu, Assistant Professor at the Department of Business Analytics & Statistics, Haslam College of Business, UTK**   
+Yuanyang Liu will talk about how AI technologies have changed the nature of work for people. For example, does AI decrease the barriers to job entry or does it diminish entry-level job opportunities? Is college not necessary or not enough in the age of AI? This presentation will delve into our latest research to address these pertinent inquiries.
+
 ------
 **Acknowledgement**   
 This online symposium is based upon work supported by the National Science Foundation under Grant EDU DRL #2314155.
