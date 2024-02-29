@@ -22,7 +22,7 @@ Guoyu Lu's research focuses on computer vision, machine learning, and robotics. 
 **Weiyan Shi, Researcher at Stanford NLP**    
 Weiyan Shi got her PhD from Columbia University working on Natural Language Processing. She will talk about interactive AI Systems specialized in social influence. 
 
-**Kevin Ashley**   
+**Kevin Ashley, Professor of Law and Intelligent Systems at the University of Pittsburgh**   
 Kevin Ashley holds interdisciplinary appointments as a Professor of Law and Intelligent Systems at the University of Pittsburgh, a Senior Scientist at the Learning Research and Development Center, a facutly member of the Graduate Program in Intelligent Systems, and an Adjunct Professor of Computer Science. He received his JD from Harvard Law School and PhD in Computer Science from the University of Massachusetts. He will talk about AI and Legal Analytics.
 
 **Irene Lee and Helen Zhang, Researchers on Ethical AI and Responsible AI**   
