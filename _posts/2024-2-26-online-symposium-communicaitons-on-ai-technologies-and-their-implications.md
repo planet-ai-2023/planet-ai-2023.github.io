@@ -11,10 +11,10 @@ tags: [ events ]
 **Location:** Online, live-streaming   
 **Registration Link:** [https://tennessee.zoom.us/webinar/register/WN_h7QyAJYbR_6GN07cV5GkoA](https://tennessee.zoom.us/webinar/register/WN_h7QyAJYbR_6GN07cV5GkoA){:target="_blank"}     
 
-**Introduction:**   
+**Introduction**   
 Artificial Intelligence (AI) technologies have been advancing rapidly; and they have shown great promise in a range of areas. This online symposium explores the frontiers of AI technologies and their implications on individuals and communities by communicating AI with the public. We will bring in experts with a vareity of background from fields, including AI, science, law, arts, and education, together and have meaningful conversations on AI.
 
-**Our speakers**:   
+**Our speakers**  
 
 **Guoyu Lu, Assistant Professor of EECS, UGA**   
 Guoyu Lu's research focuses on computer vision, machine learning, and robotics. He will talk about his recent research on AI4Agriculture and self-driving cars.
