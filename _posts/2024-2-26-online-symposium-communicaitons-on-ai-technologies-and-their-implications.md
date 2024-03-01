@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Online Symposium on March 22: Communications on AI Technologies and Their Implications"
+title:  "Online Symposium on March 22: AI Technologies and Their Implications"
 date: 2024-2-19
 image: assets/images/com.png
 tags: [ events ]
@@ -12,7 +12,7 @@ tags: [ events ]
 **Registration Link:** [https://tennessee.zoom.us/webinar/register/WN_h7QyAJYbR_6GN07cV5GkoA](https://tennessee.zoom.us/webinar/register/WN_h7QyAJYbR_6GN07cV5GkoA){:target="_blank"}     
 
 **Introduction:**   
-Artificial Intelligence (AI) technologies have been advancing rapidly; and they have shown great promise in a range of areas. This online symposium explores the frontiers of AI technologies and their implications on individuals and communities by communicating AI with the public. We will bring in experts with a vareity of background from fields, including AI, science, law, arts, and education, together and have meaningful conversations on AI.
+Artificial Intelligence (AI) technologies have been advancing rapidly; and they have shown great promise in a range of areas. This online symposium explores the frontiers of AI technologies and their implications on individuals and communities by communicating AI with the public. We will bring in experts with a vareity of background from fields, including AI, science, law, arts, and education, together and have meaningful conversations on AI. This event will be jointly hosted by University of Tennessee, Knoxville and University of Georgia. 
 
 **Our speakers**:   
 
