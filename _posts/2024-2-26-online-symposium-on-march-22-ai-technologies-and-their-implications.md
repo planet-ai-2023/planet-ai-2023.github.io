@@ -21,7 +21,7 @@ Weiyan Shi, Stanford
 
 For questions and comments, please contat pwang27@utk.edu
 
-**Our speakers**   
+**Our Speakers**   
 
 **Vasileios Maroulas, Assistant Vice Chancellor and Deputy Director of AI Tennessee Initiative; Professor of Mathematics, UTK**   
 Vasileios Maroulas will talk about *AI TENNessee: an open invitation for convergent collaboration*.
