@@ -36,7 +36,7 @@ Weiyan Shi got her PhD from Columbia University working on Natural Language Proc
 Kevin Ashley holds interdisciplinary appointments as a Professor of Law and Intelligent Systems at the University of Pittsburgh, a Senior Scientist at the Learning Research and Development Center, a facutly member of the Graduate Program in Intelligent Systems, and an Adjunct Professor of Computer Science. He received his JD from Harvard Law School and PhD in Computer Science from the University of Massachusetts. He will talk about AI and Legal Analytics.
 
 **Irene Lee and Helen Zhang, Researchers on Ethical AI and Responsible AI**   
-Researchers, Irene Lee and Helen Zhang, will talk about Responsible AI for Social Empowerment and Education by introducing their recent work at the MIT Media Lab.
+Researchers, Irene Lee and Helen Zhang, will talk about Responsible AI for Social Empowerment and Education by introducing their recent work at the MIT STEP Lab and Boston College.
 
 **Ping Wang, Research Associate at the Department of Earth and Planetary Sciences, UTK**   
 Ping Wang will talk about her recent research on AI outreach.
