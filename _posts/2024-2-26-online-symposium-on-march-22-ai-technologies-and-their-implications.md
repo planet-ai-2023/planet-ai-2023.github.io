@@ -17,11 +17,12 @@ Artificial Intelligence (AI) technologies have been advancing rapidly; and they 
 **Organizing Committee**   
 Ping Wang, UTK   
 Guoyu Lu, UGA   
-Weiyan Shi, Stanford
+Weiyan Shi, Stanford   
+Anyi Rao, Stanford
 
 For questions and comments, please contat pwang27@utk.edu
 
-**Our Speakers**   
+**Our speakers**   
 
 **Vasileios Maroulas, Assistant Vice Chancellor and Deputy Director of AI Tennessee Initiative; Professor of Mathematics, UTK**   
 Vasileios Maroulas will talk about *AI TENNessee: an open invitation for convergent collaboration*.
@@ -31,6 +32,9 @@ Guoyu Lu's research focuses on computer vision, machine learning, and robotics. 
 
 **Weiyan Shi, Researcher at Stanford NLP**    
 Weiyan Shi got her PhD from Columbia University working on Natural Language Processing. She will talk about interactive AI Systems specialized in social influence. 
+
+**Anyi Rao, Postdoctoral Scholar at Stanford with Maneesh Agrawala**   
+Anyi Rao will talk about Intelligent Tools to Support Video Production and How AI will augment human creativity in video production.
 
 **Kevin Ashley, Professor of Law and Intelligent Systems at the University of Pittsburgh**   
 Kevin Ashley holds interdisciplinary appointments as a Professor of Law and Intelligent Systems at the University of Pittsburgh, a Senior Scientist at the Learning Research and Development Center, a facutly member of the Graduate Program in Intelligent Systems, and an Adjunct Professor of Computer Science. He received his JD from Harvard Law School and PhD in Computer Science from the University of Massachusetts. He will talk about AI and Legal Analytics.
