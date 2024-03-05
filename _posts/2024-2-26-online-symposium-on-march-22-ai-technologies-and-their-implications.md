@@ -45,7 +45,7 @@ Ping Wang will talk about her recent research on AI outreach.
 Director Alan Lowe will talk about museums and AI. 
 
 **Danielle Walters, the COIL Manager at the Global Engagement of UTK**   
-Deanielle Walters will talk about global citizenship and AI.
+Deanielle Walters will talk about global engagement and AI.
 
 **Nick Nugent, Assistant Professor of Law at UTK**   
 Professor Nugent will talk about law and AI.
