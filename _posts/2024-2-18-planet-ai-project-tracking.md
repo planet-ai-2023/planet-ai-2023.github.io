@@ -8,9 +8,9 @@ tags: [ projects ]
 
 This article will be updated.
 
-- Our Planet+AI summer program was approved by the Programs for Minors Office at the UTK!
-- *The Moon Rocks* by our program alumni is on exhibit at the American Museum of Science and Energy! 
-- Ping Wang et al. were invited for in-person poster presentation at LPSC 2024.
+- Our Planet+AI summer program was approved by the Programs for Minors Office at the UTK on March 5, 2024!
+- *The Moon Rocks* by our program alumni is on exhibit at the American Museum of Science and Energy (it starts from March 3, 2024)! 
+- Ping Wang et al. were invited for in-person poster presentation at LPSC 2024 in Feb 2024.
 - Ping Wang attended the Canada Consulate Luncheon on the Impact of Technology and AI on Public Engagement in Atlanta on Feb 6, 2024.
 - Ping Wang started Family Visits at the Strong Hall since Feb 1, 2024.
 - Ping Wang published, in Jan 2024, the multimodal Alluvial Fans on Mars dataset for AI outreach and research, which will be introduced to participating students in the summer course.
