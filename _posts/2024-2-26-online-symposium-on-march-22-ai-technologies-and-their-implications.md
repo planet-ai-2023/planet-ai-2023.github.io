@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Online Symposium on March 22: AI Technologies and Their Implications"
-date: 2024-2-19
+date: 2024-2-26
 image: assets/images/com.png
 tags: [ events ]
 ---
