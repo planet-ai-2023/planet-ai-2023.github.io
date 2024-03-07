@@ -6,7 +6,6 @@ image: assets/images/com.png
 tags: [ events ]
 ---
 
-
 **When:** Fri, March 22, 2024 1-5pm Eastern   
 **Location:** Online, live-streaming   
 **Registration Link:** [https://tennessee.zoom.us/webinar/register/WN_h7QyAJYbR_6GN07cV5GkoA](https://tennessee.zoom.us/webinar/register/WN_h7QyAJYbR_6GN07cV5GkoA){:target="_blank"}     
@@ -33,7 +32,7 @@ Guoyu Lu's research focuses on computer vision, machine learning, and robotics. 
 **Weiyan Shi, Researcher at Stanford NLP**    
 Weiyan Shi got her PhD from Columbia University working on Natural Language Processing. She will talk about interactive AI Systems specialized in social influence. 
 
-**Anyi Rao, Postdoctoral Scholar at Stanford with Maneesh Agrawala**   
+**Anyi Rao, Postdoctoral Scholar at Stanford**   
 Anyi Rao will talk about Intelligent Tools to Support Video Production and How AI will augment human creativity in video production.
 
 **Kevin Ashley, Professor of Law and Intelligent Systems at the University of Pittsburgh**   
@@ -79,6 +78,12 @@ This event is also supported by
 **Disclaimer**   
 Any opinions, findings, and conclusions or recommendations expressed in this symposium are those of the speakers and do not necessarily reflect the views of the National Science Foundation or NASA.
 
+------
+Flyer
+
+<img src="/assets/images/ai_implications.png" width= 500 alt="flyer" class="img-fluid" />
+<br/>
+<br/>
 ------
 **The Thumb Image**   
 The thumb image was created by Harold Cohenn's AARON Gijon in 2007. 
