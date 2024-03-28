@@ -8,7 +8,10 @@ tags: [ projects ]
 
 This article will be updated.
 
+- On March 22, 2024, Ping Wang and colleagues, including Dr. Guoyu Lu, Dr. Weiyan Shi, Dr. Anyi Rao, organized the online Symposium on AI Technologies and Their Implications.
+- During March 11-15, 2024, Ping Wang presented research at LPSC in Houston.
 - Our Planet+AI summer program was approved by the Programs for Minors Office at the UTK on March 5, 2024!
+- During March, Ping Wang did outreach in the Art School, UTK by working with Professor Koichi Yamamoto on visual anagrams.
 - *The Moon Rocks* by our program alumni is on exhibit at the American Museum of Science and Energy (it starts from March 3, 2024)! 
 - Ping Wang et al. were invited for in-person poster presentation at LPSC 2024 in Feb 2024.
 - Ping Wang attended the Canada Consulate Luncheon on the Impact of Technology and AI on Public Engagement in Atlanta on Feb 6, 2024.
