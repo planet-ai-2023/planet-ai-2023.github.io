@@ -6,7 +6,7 @@ image: assets/images/lee_zhang_ai_ethics.png
 tags: [ webinars, AI, resources ]
 ---
 
-Researchers, Irene Lee and Helen Zhang, talked about AI+Ethics Framing and Its Integration in the Middle School “Developing AI Literacy” (DAILy) Curriculum from the MIT STEP Lab and Boston College.
+Researchers, Irene Lee and Helen Zhang, talks about AI+Ethics Framing and Its Integration in the Middle School “Developing AI Literacy” (DAILy) Curriculum from the MIT STEP Lab and Boston College.
 
 <div class="col-12 col-md-9 col-lg-9 mb-9 gx-1">
 
