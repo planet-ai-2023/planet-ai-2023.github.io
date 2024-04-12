@@ -8,7 +8,7 @@ tags: [ events ]
 
 
 **When:** Fri, April 12, 2024 4-5pm Eastern   
-**Location:** Online, Live streaming 
+**Location:** Online, Live streaming    
 **Registration Link:** [https://tennessee.zoom.us/webinar/register/WN_Xf3C7SBIQoCml-YooG9IHQ](https://tennessee.zoom.us/webinar/register/WN_Xf3C7SBIQoCml-YooG9IHQ){:target="_blank"}     
 **Cost:** Free  
 **Details:**    
