@@ -7,7 +7,8 @@ tags: [ projects ]
 ---
 
 This article will be updated.
-
+- April 25, 2024, We had a group meeting on the Planet+AI Summer Program.
+- March-May, 2024, With the support the Knox County School District, our team have been recruiting high school students for our Planet+AI Summer Program.
 - On March 22, 2024, Ping Wang and colleagues, including Dr. Guoyu Lu, Dr. Weiyan Shi, Dr. Anyi Rao, organized the online Symposium on AI Technologies and Their Implications.
 - During March 11-15, 2024, Ping Wang presented research at LPSC in Houston.
 - Our Planet+AI summer program was approved by the Programs for Minors Office at the UTK on March 5, 2024!
