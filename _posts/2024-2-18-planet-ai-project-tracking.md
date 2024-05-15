@@ -8,7 +8,8 @@ tags: [ projects ]
 
 This article will be updated.
 - April 25, 2024, We had a group meeting on the Planet+AI Summer Program.
-- March-May, 2024, With the support the Knox County School District, our team have been recruiting high school students for our Planet+AI Summer Program.
+- April 2, 2024, Ping Wang, Professor Kwon from the Law School at UTK, and Principals at Austin East had a meeting together discussing how to recruit students from Austin East High.
+- March-May, 2024, With the support the Knox County School District, our team have been recruiting high school students for our Planet+AI Summer Program. Ping Wang and Melody Hawkins has been talking about recruiting minority students, making plans, and building strageties since September, 2023. 
 - On March 22, 2024, Ping Wang and colleagues, including Dr. Guoyu Lu, Dr. Weiyan Shi, Dr. Anyi Rao, organized the online Symposium on AI Technologies and Their Implications.
 - During March 11-15, 2024, Ping Wang presented research at LPSC in Houston.
 - Our Planet+AI summer program was approved by the Programs for Minors Office at the UTK on March 5, 2024!
