@@ -2,7 +2,7 @@
 layout: post
 title:  "Recorded Webinar: Creative Video Understanding, Editing and Generation"
 date: 2024-1-1
-image: assets/images/flora_anyi.png
+image: assets/images/PIA13001_orig.png
 tags: [ webinars, AI, resources ]
 ---
 
@@ -15,3 +15,6 @@ tags: [ webinars, AI, resources ]
 
 <br>
 <br>
+
+**Thumbnail Image**   
+The Thumbnail image is from NASA, titled *Surface Warmth on a Venus Volcano*. This figure shows the volcanic peak Idunn Mons in the Imdr Regio area of Venus. The topographic backbone brown color was derived from data obtained by NASA Magellan spacecraft and the overlay was derived from data from ESA Venus Express Spacecraft.
