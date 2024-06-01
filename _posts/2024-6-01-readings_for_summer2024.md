@@ -18,6 +18,7 @@ tags: [ AI, tutorials, resources, summer2024 ]
 - Why do LLMs hallucinate?
 
 **Video links**:
+- [GPT-4o (Omni) math tutoring demo on Khan Academy](https://www.youtube.com/watch?v=IvXZCocyU_M&t=11s){:target="_blank"}
 - [GPT-4o (Omni) Human interaction demo w/ Sal Khan](https://www.youtube.com/watch?v=dBrdd7xg-dg){:target="_blank"}
 - [Is the Future of Linear Algebra.. Random?](https://www.youtube.com/watch?v=6htbyY3rH1w){:target="_blank"}
 &nbsp;   
