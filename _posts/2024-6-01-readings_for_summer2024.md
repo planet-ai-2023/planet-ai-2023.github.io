@@ -21,6 +21,7 @@ tags: [ AI, tutorials, resources, summer2024 ]
 - [GPT-4o (Omni) math tutoring demo on Khan Academy](https://www.youtube.com/watch?v=IvXZCocyU_M&t=11s){:target="_blank"}
 - [GPT-4o (Omni) Human interaction demo w/ Sal Khan](https://www.youtube.com/watch?v=dBrdd7xg-dg){:target="_blank"}
 - [Is the Future of Linear Algebra.. Random?](https://www.youtube.com/watch?v=6htbyY3rH1w){:target="_blank"}
+- [Painting a Landscape with Maths](https://www.youtube.com/watch?v=BFld4EBO2RE){:target="_blank"}
 &nbsp;   
 
 **Articles and books**
@@ -31,6 +32,7 @@ tags: [ AI, tutorials, resources, summer2024 ]
 
 **Top AI conferences**:
 - [NeurIPS: Neural Information Processing Systems](https://neurips.cc/){:target="_blank"}
+- [SIGGRAPH: Special Interest Group on Computer Graphics and Interactive Techniques by ACM](https://www.siggraph.org/){:target="_blank"}
 - [IJCAI: International Joint Conferences on Artificial Intelligence](https://www.ijcai.org/){:target="_blank"}
 - [ICCV: International Conference on Computer Vision](https://iccv2023.thecvf.com){:target="_blank"}
 - [ICLR: International Conference on Learning Representations](https://iclr.cc/){:target="_blank"}
