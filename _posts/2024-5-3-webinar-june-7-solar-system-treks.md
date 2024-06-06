@@ -7,7 +7,7 @@ tags: [ events ]
 ---
 
 
-**When:** Fri, June 7, 2024 4-5pm Eastern   
+**When:** Fri, June 7, 2024 3-4pm Eastern   
 **Location:** Online   
 **Registration Link:** [https://tennessee.zoom.us/webinar/register/WN_HiAwfggVQ26kWNR7YLDBjQ](https://tennessee.zoom.us/webinar/register/WN_HiAwfggVQ26kWNR7YLDBjQ){:target="_blank"}     
 **Cost:** Free  
