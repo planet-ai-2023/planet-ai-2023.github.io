@@ -3,7 +3,7 @@ layout: post
 title:  "Our Works in the Summer of 2024"
 date: 2024-6-11
 image: assets/images/qsb.png
-tags: [ exhibits, AI ]
+tags: [ exhibits, AI, summer2024 ]
 ---
 
 The following were some of our works by experimenting with emerging AI tools in the summer of 2024.
