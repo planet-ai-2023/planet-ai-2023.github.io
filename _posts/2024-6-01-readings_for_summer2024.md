@@ -29,6 +29,9 @@ tags: [ AI, tutorials, resources, summer2024 ]
 - [Reflections on Motive Power of Heat](https://www3.nd.edu/~powers/ame.20231/carnot1897.pdf){:target="_blank"}
 - [AI’s Advances Will Echo the Internet, Not the Steam Engine](https://www.deccanherald.com/opinion/ais-advances-will-echo-the-internet-not-the-steam-engine-2971889){:target="_blank"}
 
+**AI competitions for high school students**   
+- [CVPR AI Art Gallery 2024](https://cvpr.thecvf.com/Conferences/2024/CallForAIArt){:target="_blank"}   
+- [NeurIPS Call for High School Projects](https://neurips.cc/Conferences/2024/CallforHighSchoolProjects){:target="_blank"}   
 
 **Top AI conferences**:
 - [NeurIPS: Neural Information Processing Systems](https://neurips.cc/){:target="_blank"}
