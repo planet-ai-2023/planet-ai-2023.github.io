@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Webinar on June 17: Remote Sensing Geology on Earth and Beyond"
-date: 2024-5-3
+date: 2024-5-30
 image: assets/images/jeff.png
 tags: [ events ]
 ---
