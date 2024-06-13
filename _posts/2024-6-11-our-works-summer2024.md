@@ -81,6 +81,9 @@ The following were some of our works by experimenting with emerging AI tools in 
     <div class="col-md-4">
         <div><img src="/assets/images/Pattern_lt_mt.png" style="box-shadow: 0 9px 18px #bbbbbb;" class="img-fluid" /></div>
     </div>
+    <div class="col-md-4">
+        <div><img src="/assets/images/dn_pdf-reg.jpg" style="box-shadow: 0 9px 18px #bbbbbb;" class="img-fluid" /></div>
+    </div>
 </div>
 <br/>
 <br/>
