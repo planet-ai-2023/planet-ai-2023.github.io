@@ -7,7 +7,7 @@ tags: [ events ]
 ---
 
 
-**When:** Mon, June 17, 2024 3-4pm Eastern   
+**When:** Mon, June 17, 2024 4-5pm Eastern   
 **Location:** Online   
 **Registration Link:** [https://tennessee.zoom.us/webinar/register/WN_wVnIUcpsTX6jEhQ088kVQw](https://tennessee.zoom.us/webinar/register/WN_wVnIUcpsTX6jEhQ088kVQw){:target="_blank"}     
 **Cost:** Free  
