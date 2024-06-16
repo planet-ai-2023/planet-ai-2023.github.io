@@ -87,3 +87,16 @@ The following were some of our works by experimenting with emerging AI tools in 
 </div>
 <br/>
 <br/>
+<div class="row">
+    <div class="col-md-4">
+        <div><img src="/assets/images/butterflyBot_lt.jpg" style="box-shadow: 0 9px 18px #bbbbbb;" class="img-fluid" /></div>
+    </div>
+    <div class="col-md-4">
+        <div><img src="/assets/images/colorTransfer1.jpg" style="box-shadow: 0 9px 18px #bbbbbb;" class="img-fluid" /></div>
+    </div>
+    <div class="col-md-4">
+        <div><img src="/assets/images/glacier_lt.jpg" style="box-shadow: 0 9px 18px #bbbbbb;" class="img-fluid" /></div>
+    </div>
+</div>
+<br/>
+<br/>
