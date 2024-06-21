@@ -2,7 +2,7 @@
 layout: post
 title:  "Our Works [2] in the Summer of 2024"
 date: 2024-6-12
-image: assets/images/de.png
+image: assets/images/landscape_de.png
 tags: [ exhibits, AI, summer2024 ]
 ---
 
