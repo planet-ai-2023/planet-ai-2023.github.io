@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Webinar on June 28: Diffusion Illusion"
+title:  "Webinar on July 19: Diffusion Illusion"
 date: 2024-5-31
 image: assets/images/ryan.png
 tags: [ events ]
 ---
 
 
-**When:** Fri, June 28, 4-5pm Eastern   
+**When:** Fri, July 19, 4-5pm Eastern   
 **Location:** Online, live streaming      
 **Registration Link:** [https://tennessee.zoom.us/webinar/register/WN_hBMtj5gsRoOm0md5pt9Ryg](https://tennessee.zoom.us/webinar/register/WN_hBMtj5gsRoOm0md5pt9Ryg){:target="_blank"}     
 **Cost:** Free  
