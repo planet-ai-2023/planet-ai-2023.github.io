@@ -159,6 +159,45 @@ The following were some of our works by experimenting with emerging AI tools in 
     <div class="col-md-4">
         <div><img src="/assets/images/i29.jpg" style="box-shadow: 0 9px 18px #bbbbbb;" class="img-fluid" /></div>
     </div>
+    <div class="col-md-4">
+        <div><img src="/assets/images/i30.jpg" style="box-shadow: 0 9px 18px #bbbbbb;" class="img-fluid" /></div>
+    </div>
+</div>
+<br/>
+<br>
+<div class="row">
+    <div class="col-md-4">
+        <div><img src="/assets/images/i31.jpg" style="box-shadow: 0 9px 18px #bbbbbb;" class="img-fluid" /></div>
+    </div>
+    <div class="col-md-4">
+        <div><img src="/assets/images/i32.jpg" style="box-shadow: 0 9px 18px #bbbbbb;" class="img-fluid" /></div>
+    </div>
+    <div class="col-md-4">
+        <div><img src="/assets/images/i33.jpg" style="box-shadow: 0 9px 18px #bbbbbb;" class="img-fluid" /></div>
+    </div>
+</div>
+<br/>
+<br>
+<div class="row">
+    <div class="col-md-4">
+        <div><img src="/assets/images/i34.jpg" style="box-shadow: 0 9px 18px #bbbbbb;" class="img-fluid" /></div>
+    </div>
+    <div class="col-md-4">
+        <div><img src="/assets/images/i35.jpg" style="box-shadow: 0 9px 18px #bbbbbb;" class="img-fluid" /></div>
+    </div>
+    <div class="col-md-4">
+        <div><img src="/assets/images/i36.jpg" style="box-shadow: 0 9px 18px #bbbbbb;" class="img-fluid" /></div>
+    </div>
+</div>
+<br/>
+<br>
+<div class="row">
+    <div class="col-md-4">
+        <div><img src="/assets/images/i37.jpg" style="box-shadow: 0 9px 18px #bbbbbb;" class="img-fluid" /></div>
+    </div>
+    <div class="col-md-4">
+        <div><img src="/assets/images/i38.jpg" style="box-shadow: 0 9px 18px #bbbbbb;" class="img-fluid" /></div>
+    </div>
 </div>
 <br/>
 <br>
