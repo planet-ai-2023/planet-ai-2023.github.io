@@ -35,3 +35,107 @@ The following were some of our works by experimenting with emerging AI tools in 
 </div>
 <br/>
 <br>
+<div class="row">
+    <div class="col-md-4">
+        <div><img src="/assets/images/i1.jpg" style="box-shadow: 0 9px 18px #bbbbbb;" class="img-fluid" /></div>
+    </div>
+    <div class="col-md-4">
+        <div><img src="/assets/images/i2.jpg" style="box-shadow: 0 9px 18px #bbbbbb;" class="img-fluid" /></div>
+    </div>
+    <div class="col-md-4">
+        <div><img src="/assets/images/i3.jpg" style="box-shadow: 0 9px 18px #bbbbbb;" class="img-fluid" /></div>
+    </div>
+</div>
+<br/>
+<br>
+<div class="row">
+    <div class="col-md-4">
+        <div><img src="/assets/images/i4.jpg" style="box-shadow: 0 9px 18px #bbbbbb;" class="img-fluid" /></div>
+    </div>
+    <div class="col-md-4">
+        <div><img src="/assets/images/i5.jpg" style="box-shadow: 0 9px 18px #bbbbbb;" class="img-fluid" /></div>
+    </div>
+    <div class="col-md-4">
+        <div><img src="/assets/images/i6.jpg" style="box-shadow: 0 9px 18px #bbbbbb;" class="img-fluid" /></div>
+    </div>
+</div>
+<br/>
+<br>
+<div class="row">
+    <div class="col-md-4">
+        <div><img src="/assets/images/i7.jpg" style="box-shadow: 0 9px 18px #bbbbbb;" class="img-fluid" /></div>
+    </div>
+    <div class="col-md-4">
+        <div><img src="/assets/images/i8.jpg" style="box-shadow: 0 9px 18px #bbbbbb;" class="img-fluid" /></div>
+    </div>
+    <div class="col-md-4">
+        <div><img src="/assets/images/i9.jpg" style="box-shadow: 0 9px 18px #bbbbbb;" class="img-fluid" /></div>
+    </div>
+</div>
+<br/>
+<br>
+<div class="row">
+    <div class="col-md-4">
+        <div><img src="/assets/images/i10.jpg" style="box-shadow: 0 9px 18px #bbbbbb;" class="img-fluid" /></div>
+    </div>
+    <div class="col-md-4">
+        <div><img src="/assets/images/i11.jpg" style="box-shadow: 0 9px 18px #bbbbbb;" class="img-fluid" /></div>
+    </div>
+    <div class="col-md-4">
+        <div><img src="/assets/images/i12.jpg" style="box-shadow: 0 9px 18px #bbbbbb;" class="img-fluid" /></div>
+    </div>
+</div>
+<br/>
+<br>
+<div class="row">
+    <div class="col-md-4">
+        <div><img src="/assets/images/i13.jpg" style="box-shadow: 0 9px 18px #bbbbbb;" class="img-fluid" /></div>
+    </div>
+    <div class="col-md-4">
+        <div><img src="/assets/images/i14.jpg" style="box-shadow: 0 9px 18px #bbbbbb;" class="img-fluid" /></div>
+    </div>
+    <div class="col-md-4">
+        <div><img src="/assets/images/i15.jpg" style="box-shadow: 0 9px 18px #bbbbbb;" class="img-fluid" /></div>
+    </div>
+</div>
+<br/>
+<br>
+<div class="row">
+    <div class="col-md-4">
+        <div><img src="/assets/images/i16.jpg" style="box-shadow: 0 9px 18px #bbbbbb;" class="img-fluid" /></div>
+    </div>
+    <div class="col-md-4">
+        <div><img src="/assets/images/i17.jpg" style="box-shadow: 0 9px 18px #bbbbbb;" class="img-fluid" /></div>
+    </div>
+    <div class="col-md-4">
+        <div><img src="/assets/images/i18.jpg" style="box-shadow: 0 9px 18px #bbbbbb;" class="img-fluid" /></div>
+    </div>
+</div>
+<br/>
+<br>
+<div class="row">
+    <div class="col-md-4">
+        <div><img src="/assets/images/i19.jpg" style="box-shadow: 0 9px 18px #bbbbbb;" class="img-fluid" /></div>
+    </div>
+    <div class="col-md-4">
+        <div><img src="/assets/images/i20.jpg" style="box-shadow: 0 9px 18px #bbbbbb;" class="img-fluid" /></div>
+    </div>
+    <div class="col-md-4">
+        <div><img src="/assets/images/i21.jpg" style="box-shadow: 0 9px 18px #bbbbbb;" class="img-fluid" /></div>
+    </div>
+</div>
+<br/>
+<br>
+<div class="row">
+    <div class="col-md-4">
+        <div><img src="/assets/images/i22.jpg" style="box-shadow: 0 9px 18px #bbbbbb;" class="img-fluid" /></div>
+    </div>
+    <div class="col-md-4">
+        <div><img src="/assets/images/i23.jpg" style="box-shadow: 0 9px 18px #bbbbbb;" class="img-fluid" /></div>
+    </div>
+    <div class="col-md-4">
+        <div><img src="/assets/images/i24.jpg" style="box-shadow: 0 9px 18px #bbbbbb;" class="img-fluid" /></div>
+    </div>
+</div>
+<br/>
+<br>
