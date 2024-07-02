@@ -13,7 +13,9 @@ The Planet+AI Journal Club will be organized by some of our program alumni:
 Here's some topics we are going to focus on:    
 - reprensentation learning
 - deep learning
-- 
+- AlphaGo
+- convolution
+- LeNet
 
 
 Videos:   
