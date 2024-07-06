@@ -7,6 +7,9 @@ tags: [ projects ]
 ---
 
 This article will be updated.
+- July 6, 2024, Planet+AI Research Group first meeting.
+- June, 2024, Alice Zou, a program alunmni living in San Jose, lead their DAISY group and submitted their project to NeurIPS 2024. 
+- June 3- June 21, Planet+AI Summer 2024, 47 high school students completed the program.
 - April 25, 2024, We had a group meeting on the Planet+AI Summer Program.
 - April 2, 2024, Ping Wang, Professor Kwon from the Law School at UTK, and Principals at Austin East had a meeting together discussing how to recruit students from Austin East High.
 - March-May, 2024, With the support the Knox County School District, our team have been recruiting high school students for our Planet+AI Summer Program. Ping Wang and Melody Hawkins has been talking about recruiting minority students, making plans, and building strageties since September, 2023. 
@@ -31,7 +34,6 @@ This article will be updated.
 - Ping Wang has been organizing and conducting public webinar series (weekly), since Sep 1, 2023, co-funded by NSF and NASA Space Grant Consortium at UTK for which Dr. Nick Dygert is the Director.
 - Researchers, including Dr. Pengyu Hong and his PhD student Zhengyang Zhou, at Brandeis and Ping Wang at UTK have been preparing for summer-camp curriculum from September to December 2023.
 - Project Kickoff Meeting was held on Monday, Sep 11, 4-5pm Eastern.
-- Ping Wang was hired by UT on Sep 18, 2023.
 - Proposal #2314155 Collaborative Research: Cultivating Tomorrow’s Innovators Through Exploring Planetary Images with Artificial Intelligence was awarded by NSF on Aug 22, 2023.
 
 <br/>
