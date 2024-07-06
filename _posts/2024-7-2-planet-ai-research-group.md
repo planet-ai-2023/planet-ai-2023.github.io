@@ -36,7 +36,10 @@ The Planet+AI Research Group were started by our program alumni:
 - ChatGPT prompt engineering
 <br/>
 
-*Related videos* 
+*Related Readings*   
+- [The Mathematical Theory of Communication by C.E. Shannon](https://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf){:target="_blank"}   
+
+*Related Videos* 
 - [Deep learning Bootcamp: Kaiming He](https://www.youtube.com/watch?v=D_jt-xO_RmI){:target="_blank"}
 - [ChatGPT Prompt Engineering](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/){:target="_blank"}
 <br/>
