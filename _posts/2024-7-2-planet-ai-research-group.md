@@ -12,7 +12,6 @@ The Planet+AI Research Group were started by our program alumni:
 - Alice Zou  
 
 
-
 *Alice Zou* is a high school student in San Jose. She had participated in our NASA-funded HiRISE+AI program and also our NSF-funded Planet+AI program. Recently, Alice led a team with team members from our Knoxville-Oak Ridge area and finished a project which they submitted to NeurIPS this year. 
 
 **II. ADVISORS**  
@@ -45,8 +44,10 @@ The Planet+AI Research Group were started by our program alumni:
 <br/>
 
 **IV. RESEARCH RPOJECTS**   
-- NeurIPS 2024: *Development of an Intelligent Chatbot DAISY for Natural Disaster Information Dissemination*, by Alice Zou, Dominick Pelaia, Nathan He, Sadie Jones, & Flora Zhu
-- 
+- **Project Chatbot DAISY for NeurIPS 2024**: *Development of an Intelligent Chatbot DAISY for Natural Disaster Information Dissemination*, by Alice Zou, Dominick Pelaia, Nathan He, Sadie Jones, & Flora Zhu
+<br/>
+
+- **Project WaterBot for AGU 2024**
 
 
 
