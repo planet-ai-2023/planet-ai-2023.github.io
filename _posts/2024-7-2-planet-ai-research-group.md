@@ -10,7 +10,7 @@ tags: [ AI, summer2024 ]
 
 The Planet+AI Research Group were started by our program alumni:   
 - Alice Zou  
-- Stephen Xiao
+
 
 
 *Alice Zou* is a high school student in San Jose. She had participated in our NASA-funded HiRISE+AI program and also our NSF-funded Planet+AI program. Recently, Alice led a team with team members from our Knoxville-Oak Ridge area and finished a project which they submitted to NeurIPS this year. 
