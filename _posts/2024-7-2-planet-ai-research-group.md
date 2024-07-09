@@ -25,6 +25,7 @@ The Planet+AI Research Group were started by our program alumni:
 
 *Topics for Summer 2024*   
 - reprensentation learning
+- neural networks
 - deep learning
 - AlphaGo
 - convolution
