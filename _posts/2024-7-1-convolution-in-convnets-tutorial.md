@@ -52,7 +52,7 @@ b0[:, :, 0]
 b1[:, :, 1]   
 0   
 
-**Output feature map (3x3x2)**   
+**Output feature maps (3x3x2)**   
 The size of the output feature map is determined by several factors including the size of the input or feature map, the size of the filter, and the stride of the convolution operation.
 
 output[:, :, 0]   
