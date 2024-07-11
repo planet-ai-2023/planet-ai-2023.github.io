@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Planet+AI is an interdisciplinary outreach project funded by the National Science Foundation, which aims to engage our youths, particularly high school students in the State of TN, and the public at large, in exploring AI by working with planetary images and planetary datasets.   
+Planet+AI is an cross-disciplinary outreach project funded by the National Science Foundation, which aims to engage our youths, particularly high school students in the State of TN, and the public at large, in exploring AI by working with planetary images and planetary datasets.   
 
 # Our Team  
 - Leading PI: Ping Wang
