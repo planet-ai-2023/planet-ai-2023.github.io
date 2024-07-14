@@ -41,5 +41,9 @@ The periodic table arranges all the known elements in an array. Elments are arra
 - [Periodic Table of the Elements](https://depts.washington.edu/eooptic/linkfiles/The%20Elements.pdf){:target="_blank"}   
 - [Periodic Tables of Elemental Abundances](https://drive.google.com/file/d/12kSfP_ekUiRW2ONNmmFnXPRgQK-UIrOt/view?usp=sharing){:target="_blank"}   
 - [Abundance of 30 Elements in Lunar Rocks](https://drive.google.com/file/d/1BawQqY8FTfDbtCSoUMKgWvmTTi-GWZJT/view?usp=sharing){:target="_blank"}
+- [Environmental Sampling and Analytical Methods (ESAM) by EPA](https://www.epa.gov/esam){:target="_blank"}   
+- [EPA Method 200.8](https://www.epa.gov/sites/default/files/2015-06/documents/epa-200.8.pdf){:target="_blank"}   
+- [Analyzing Trace Elements with EPA Method 200.8](https://www.thermofisher.com/us/en/home/industrial/environmental/environmental-learning-center/environmental-resource-library/us-epa-methods/analyzing-trace-elements-epa-method-200-8.html){:target="_blank"}
+
 
 
