@@ -16,7 +16,6 @@ The Planet+AI Research Group were started by our program alumni:
 
 **II. ADVISORS**  
 - Ping Wang
-- Clint LaFollette
 - Melody Hawkins
 
 
