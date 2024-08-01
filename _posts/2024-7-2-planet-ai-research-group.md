@@ -21,6 +21,7 @@ The Planet+AI Research Group were started by our program alumni:
 
 **III. GROUP MEETINGS**   
 - July 6, 2024: Using Machine Learning to Find the Best Alloy Crack Susceptibility for Additive Manufacturing   
+- July 20, 2024: Neural Networks
 
 *Topics for Summer 2024*   
 - reprensentation learning
@@ -49,10 +50,10 @@ The Planet+AI Research Group were started by our program alumni:
 <br/>
 
 **IV. RESEARCH RPOJECTS**   
-- **Project Chatbot DAISY for NeurIPS 2024**: *Development of an Intelligent Chatbot DAISY for Natural Disaster Information Dissemination*, by Alice Zou, Dominick Pelaia, Nathan He, Sadie Jones, & Flora Zhu
+- **Project Chatbot DAISY for NeurIPS 2024**: *Development of an Intelligent Chatbot DAISY for Natural Disaster Information Dissemination*
 <br/>
 
-- **Project WaterBot for AGU 2024**
+- **Project WaterBot for AGU 2024**: *Exploring Trace Element Fingerprinting in Water Samples with Artificial Intelligence*
 
 
 

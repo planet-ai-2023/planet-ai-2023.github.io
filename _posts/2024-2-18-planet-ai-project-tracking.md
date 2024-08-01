@@ -7,8 +7,9 @@ tags: [ projects ]
 ---
 
 This article will be updated.
+- July 31, 2024, Alice Zou led her team in a waterbot project and submitted an abstract to AGU2024, titled *Exploring Trace Element Fingerprinting in Water Samples with Artificial Intelligence*. The lab work was done in the UTK’s High Temperature geoCHemistry (HiTeCH) lab by using the state-of-the-art inductively coupled plasma mass spectrometry (ICP-MS) technique for trace element abundances. The team were mentored by Ping Wang, Dr. Shichun Huang and Dr. Brian Daniel Duggan.
 - July 6, 2024, Planet+AI Research Group first meeting.
-- June, 2024, Alice Zou, a program alunmni living in San Jose, lead their DAISY group and submitted their project to NeurIPS 2024. 
+- June, 2024, Alice Zou, a program alunmni living in San Jose, led their DAISY group and submitted their project to NeurIPS 2024. 
 - June 3- June 21, Planet+AI Summer 2024, 47 high school students completed the program.
 - April 25, 2024, We had a group meeting on the Planet+AI Summer Program.
 - April 2, 2024, Ping Wang, Professor Kwon from the Law School at UTK, and Principals at Austin East had a meeting together discussing how to recruit students from Austin East High.
