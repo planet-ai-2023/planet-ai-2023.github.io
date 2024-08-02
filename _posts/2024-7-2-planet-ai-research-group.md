@@ -50,10 +50,10 @@ The Planet+AI Research Group were started by our program alumni:
 <br/>
 
 **IV. RESEARCH RPOJECTS**   
-- **Project Chatbot DAISY for NeurIPS 2024**: *Development of an Intelligent Chatbot DAISY for Natural Disaster Information Dissemination*
+- **Project Chatbot DAISY for NeurIPS2024**: *Development of an Intelligent Chatbot DAISY for Natural Disaster Information Dissemination*, mentored by Ping Wang.
 <br/>
 
-- **Project WaterBot for AGU 2024**: *Exploring Trace Element Fingerprinting in Water Samples with Artificial Intelligence*
+- **Project WaterBot for AGU2024**: *Exploring Trace Element Fingerprinting in Water Samples with Artificial Intelligence*, mentored by Ping Wang, Dr. Shichun Huang, Dr. Brain Daniel Duggan.
 
 
 
