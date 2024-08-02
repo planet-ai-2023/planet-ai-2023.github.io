@@ -7,7 +7,7 @@ tags: [ projects ]
 ---
 
 This article will be updated.
-- July 31, 2024, Alice Zou led her team in a waterbot project and submitted an abstract to AGU2024, titled *Exploring Trace Element Fingerprinting in Water Samples with Artificial Intelligence*. The lab work was done in the UTK’s High Temperature geoCHemistry (HiTeCH) lab by using the state-of-the-art inductively coupled plasma mass spectrometry (ICP-MS) technique for trace element abundances. The team were mentored by Ping Wang, Dr. Shichun Huang and Dr. Brian Daniel Duggan.
+- July 31, 2024, Alice Zou led her team in a waterbot project and submitted an abstract to AGU2024, titled *Exploring Trace Element Fingerprinting in Water Samples with Artificial Intelligence*. The lab work was done in the UTK’s High Temperature geoCHemistry (HiTeCH) lab by using the state-of-the-art inductively coupled plasma mass spectrometry (ICP-MS) technique for trace element abundances. The team was mentored by Ping Wang, Dr. Shichun Huang and Dr. Brian Daniel Duggan.
 - July 6, 2024, Planet+AI Research Group first meeting.
 - June, 2024, Alice Zou, a program alunmni living in San Jose, led their DAISY group and submitted their project to NeurIPS2024. 
 - June 3- June 21, Planet+AI Summer 2024, 47 high school students completed the program. The team was mentored by Ping Wang.
