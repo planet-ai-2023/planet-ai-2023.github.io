@@ -42,6 +42,9 @@ Counts per second, abbreviated to *cps*. Sensitivity in ICP-MS is expressed as c
 Matrix refers to the components of a sample other than the analyte of interest.   
 The matrix can have a considerable effect on the way the analysis is conducted and the quality of the results are obtained; Such effects are called matrix effects.   
 
+**standard solution**   
+A standard solution is a solution containing an accurately known concentration.  
+
 <br/>
 
 **LEARNING MATERIALS**   
