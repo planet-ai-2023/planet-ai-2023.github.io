@@ -35,6 +35,13 @@ Concentration can be expressed in terms of the number of grams of an element dis
 **periodic table**   
 The periodic table arranges all the known elements in an array. Elments are arranged left to right and top to bottom in order of increasing atomic number, which coincides with increasing atomic mass. The rows of elements are periods. The period number of an element signifies the highest energy level an electron in that element occupies.   
 
+**counts per second (cps)**   
+Counts per second, abbreviated to *cps*. Sensitivity in ICP-MS is expressed as counts per second per unit concentration (e.g. cps/ppb). Without sufficient sensitivity, small particles cannot be detected. 
+
+**matrix**   
+Matrix refers to the components of a sample other than the analyte of interest.   
+The matrix can have a considerable effect on the way the analysis is conducted and the quality of the results are obtained; Such effects are called matrix effects.   
+
 <br/>
 
 **LEARNING MATERIALS**   
