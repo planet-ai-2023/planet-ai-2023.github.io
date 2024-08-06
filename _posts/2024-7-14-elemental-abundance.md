@@ -38,12 +38,49 @@ The periodic table arranges all the known elements in an array. Elments are arra
 **counts per second (cps)**   
 Counts per second, abbreviated to *cps*. Sensitivity in ICP-MS is expressed as counts per second per unit concentration (e.g. cps/ppb). Without sufficient sensitivity, small particles cannot be detected. 
 
+**analyte**   
+Analyte refers to the component of a sample that is ultimately determined directly or indirectly.   
+
 **matrix**   
 Matrix refers to the components of a sample other than the analyte of interest.   
 The matrix can have a considerable effect on the way the analysis is conducted and the quality of the results are obtained; Such effects are called matrix effects.   
 
 **standard solution**   
 A standard solution is a solution containing an accurately known concentration.  
+Standards are prepared in volumetric flasks.   
+The mass concentration μg ml<sup>-1</sup> (it could also be expresses as mg l<sup>-1</sup>) is also referred to as ppm (parts per million).   
+
+**commonly used prefixes (multiple-prefix-symbol)**   
+10<sup>3</sup>: kilo, K   
+10<sup>6</sup>: mega, M   
+10<sup>9</sup>: giga, G   
+10<sup>12</sup>: tera, T   
+10<sup>15</sup>: peta, P   
+10<sup>-3</sup>: milli, m   
+10<sup>-6</sup>: micro, μ   
+10<sup>-9</sup>: nano, n   
+10<sup>-12</sup>: pico, p   
+10<sup>-15</sup>: femto, f   
+
+**limit of detection (LOD)**   
+The limit of detection (LOD) of an analytical procedure is the lowest amount of analyte in an unknown sample that can be detected but not necessarily quantified, that is, recorded as an exact concentration.
+
+**accuracy**   
+Accuracy refers to the difference beetween the mean of a set of results or an individual result and the value that is accepted as the true or correct value for the quantity being measured.   
+
+**precision**   
+Precision refers to the closeness of agreement between independent test results obtained under stipulated conditions.   
+
+**bias**   
+Bias characterizes the systematic error in each analytical procedure and is the deviation of the mean analytical result from the true value.   
+
+**calibration**   
+Calibration refers to the set of operations that establish, under specified conditions, the relationship between values indicated by a measuring instrument or measuring system and the corresponding known values of the measurand.   
+
+**calibration curve**   
+Calibration curve refers to graphical representation of a measuring signal as a function of quantity of analyte.
+
+
 
 <br/>
 
