@@ -15,7 +15,7 @@ tags: [planet, tutorials, resources, summer2024 ]
 
 <br/>
 
-**CONCEPTS & TERMS FOR PROJECT WATERBOT**   
+**CONCEPTS & TERMS**   
 
 **concentration**   
 Concentration is a measure of the relative amount of dissolved substances in a solution. Concentration can be expressed in many different ways.
@@ -80,6 +80,25 @@ Calibration refers to the set of operations that establish, under specified cond
 **calibration curve**   
 Calibration curve refers to graphical representation of a measuring signal as a function of quantity of analyte.
 
+<br/>
+
+**DATA ANALYSIS**   
+
+**graph**   
+You can plot a graph with Excel, or Python, or by hand (I recommend you always try to plot a graph by hand first if you are a new learner- you need the skill to plot a graph). Graphs are used to describe a relationship between two variables, x and y. It is normal practice to identify the x-axis as the horizontal axis for the independent variable, e.g., concentration in μg ml<sup>-1</sup>. The y-axis is used to plot the dependent variable, y, e.g., signal response in mV. The mathematical relationship for straight line graphs is: y = mx + b, where y is the signal response in mV, x is the concentration in μg ml<sup>-1</sup>, m is the slope of the line of best fit of the graph, and c is the intercept on the x-axis.     
+
+
+**Linest function in Excel**   
+The linest function in Excel is a tool to fit a line (y=mx+b) to the data in order to identify the relationship between two variables (x and y). The linest function uses the least square procedure which fits a line to a set of data points by minizing the sum of the squares of the residuals of the points from the curve. 
+
+You need two columns of data, one for variable x and one for y.   
+x &nbsp; &nbsp; &nbsp; &nbsp;y   
+1 &nbsp; &nbsp; &nbsp; &nbsp;1   
+9 &nbsp; &nbsp; &nbsp; 1.35   
+16&nbsp; &nbsp; &nbsp;1.36   
+24&nbsp; &nbsp; &nbsp;1.24   
+31&nbsp; &nbsp; &nbsp;1.21   
+38&nbsp; &nbsp; &nbsp;1.16   
 
 
 <br/>
