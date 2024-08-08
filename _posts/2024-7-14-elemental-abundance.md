@@ -84,6 +84,14 @@ Calibration curve refers to graphical representation of a measuring signal as a 
 
 **DATA ANALYSIS**   
 
+**Excel**   
+- **<em>Hide rows or columns</em>**: right-click the selected rows or columns and then select Hide   
+- **<em>Unhide</em>**: Format -> Column -> Unhide   
+- **<em>Dollar sign</em>**: Add dollar sign for absolute reference before the row and the column, e.g., $AG142, G$48   
+- **<em>Freeze first two columns</em>**: Select the third column and select View -> Freeze Panes   
+
+
+
 **graph**   
 You can plot a graph with Excel, or Python, or by hand (I recommend you always try to plot a graph by hand first if you are a new learner- you need the skill to plot a graph). Graphs are used to describe a relationship between two variables, x and y. It is normal practice to identify the x-axis as the horizontal axis for the independent variable, e.g., concentration in μg ml<sup>-1</sup>. The y-axis is used to plot the dependent variable, y, e.g., signal response in mV. The mathematical relationship for straight line graphs is: y = mx + b, where y is the signal response in mV, x is the concentration in μg ml<sup>-1</sup>, m is the slope of the line of best fit of the graph, and c is the intercept on the x-axis.     
 
