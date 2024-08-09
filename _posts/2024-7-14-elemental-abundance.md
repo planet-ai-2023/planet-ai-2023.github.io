@@ -88,7 +88,8 @@ Calibration curve refers to graphical representation of a measuring signal as a 
 - **<em>Hide rows or columns</em>**: right-click the selected rows or columns and then select Hide   
 - **<em>Unhide</em>**: Format -> Column -> Unhide   
 - **<em>Dollar sign</em>**: Add dollar sign for absolute reference before the row and the column, e.g., $AG142, G$48   
-- **<em>Freeze first two columns</em>**: Select the third column and select View -> Freeze Panes   
+- **<em>Freeze first two columns</em>**: Select the third column and select View -> Freeze Panes  
+- **<em>Freeze first two rows</em>**: Select the cell (third row and thir column) and select View -> Freeze Panes 
 
 
 
@@ -108,6 +109,15 @@ x &nbsp; &nbsp; &nbsp; &nbsp;y
 31&nbsp; &nbsp; &nbsp;1.21   
 38&nbsp; &nbsp; &nbsp;1.16   
 
+**Polynomial interpolation in Excel**   
+Polynomial interpolation is a method of finding a polynomial function that fits a set of data points. One of the most common ways to perform polynomial interpolation is by using the Lagrange polynomial.   
+Excel formula to calculate a polynomial trendline:   
+y = a1 x^3 + a2 x^2 + a3 x^ + b
+
+a1 = INDEX(LINEST(y,x^{1,2,3}),1,1)   
+a2 = INDEX(LINEST(y,x^{1,2,3}),1,2)   
+a3 = INDEX(LINEST(y,x^{1,2,3}),1,3)   
+b = INDEX(LINEST(y,x^{1,2,3}),1,4)   
 
 <br/>
 
