@@ -22,6 +22,8 @@ The Planet+AI Research Group were started by our program alumni:
 **III. GROUP MEETINGS**   
 - July 6, 2024: Using Machine Learning to Find the Best Alloy Crack Susceptibility for Additive Manufacturing   
 - July 20, 2024: Neural Networks
+- Aug 3, 2024: Diffusion Illusion
+- Aug 17, 2024: Data reduction 
 
 *Topics for Summer 2024*   
 - reprensentation learning
@@ -45,6 +47,7 @@ The Planet+AI Research Group were started by our program alumni:
 
 
 *Related Videos* 
+- [The Potential for AI in Science and Mathematics- Terence Tao](https://www.youtube.com/watch?v=_sTDSO74D8Q){:target="_blank"}
 - [Deep learning Bootcamp: Kaiming He](https://www.youtube.com/watch?v=D_jt-xO_RmI){:target="_blank"}
 - [ChatGPT Prompt Engineering](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/){:target="_blank"}
 <br/>
