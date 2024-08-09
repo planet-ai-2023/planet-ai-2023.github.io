@@ -33,7 +33,7 @@ Elements with concentrations measured in ppm or ppb are called trace elements. F
 Concentration can be expressed in terms of the number of grams of an element dissolved in 1,000 g of water. The unit for this measure is parts per thousand, or ppt. For example, salinity is hte measure of the number of grams of salts per kilogram (kg) of water. The average salinity of seawater is about 35 g/kg of seawater, or 35 ppt.   
 
 **periodic table**   
-The periodic table arranges all the known elements in an array. Elments are arranged left to right and top to bottom in order of increasing atomic number, which coincides with increasing atomic mass. The rows of elements are periods. The period number of an element signifies the highest energy level an electron in that element occupies.   
+The periodic table arranges all the known elements in an array. Elments are arranged left to right and top to bottom in order of increasing atomic number, which coincides with increasing atomic mass. The rows of elements are periods. The period number of an element signifies the highest energy level an electron in that element occupies. There are **118** known elements today. The first periodic table was published by Dmitri Mendeleev in 1869. Everything around us is made of different combinations of elements. Elemental analysis can help you identify which elements something is made of. You may want to measure elements, rather than the molecues and compounds.   
 
 **counts per second (cps)**   
 Counts per second, abbreviated to *cps*. Sensitivity is expressed as counts per second per unit concentration (e.g. cps/ppb). Without sufficient sensitivity, small particles cannot be detected. 
@@ -97,7 +97,7 @@ Calibration curve refers to graphical representation of a measuring signal as a 
 You can plot a graph with Excel, or Python, or by hand (I recommend you always try to plot a graph by hand first if you are a new learner- you need the skill to plot a graph). Graphs are used to describe a relationship between two variables, x and y. It is normal practice to identify the x-axis as the horizontal axis for the independent variable, e.g., concentration in μg ml<sup>-1</sup>. The y-axis is used to plot the dependent variable, y, e.g., signal response in mV. The mathematical relationship for straight line graphs is: y = mx + b, where y is the signal response in mV, x is the concentration in μg ml<sup>-1</sup>, m is the slope of the line of best fit of the graph, and c is the intercept on the x-axis.     
 
 
-**Linest function in Excel**   
+**linest function in Excel**   
 The linest function in Excel is a tool to fit a line (y=mx+b) to the data in order to identify the relationship between two variables (x and y). The linest function uses the least square procedure which fits a line to a set of data points by minizing the sum of the squares of the residuals of the points from the curve. 
 
 You need two columns of data, one for variable x and one for y.   
@@ -109,7 +109,7 @@ x &nbsp; &nbsp; &nbsp; &nbsp;y
 31&nbsp; &nbsp; &nbsp;1.21   
 38&nbsp; &nbsp; &nbsp;1.16   
 
-**Polynomial interpolation in Excel**   
+**polynomial interpolation in Excel**   
 Polynomial interpolation is a method of finding a polynomial function that fits a set of data points. One of the most common ways to perform polynomial interpolation is by using the Lagrange polynomial.   
 Excel formula to calculate a polynomial trendline:   
 y = a1 x^3 + a2 x^2 + a3 x^ + b
