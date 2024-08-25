@@ -28,3 +28,6 @@ The U.S. National Science Foundation Game Maker Awards is an exciting opportunit
 
 Vectors, matrices, and linear transformations are fundamental math concepts which are extremely useful for game design, including creating visual effects. For example, a vertex's position is the fundamental thing and it can be represented through vectors. We will introduce some basic ideas and concepts on ray tracing and how ray tracing works through vectors, matrices, and linear transformation in Linear Algebra.
 
+<br/>
+**COLABS**   
+- vectors etc.: [https://gist.github.com/planet-ai-2023/8062c9b504476bfd0c7aa625cb912175](https://gist.github.com/planet-ai-2023/8062c9b504476bfd0c7aa625cb912175){:target="_blank"}
