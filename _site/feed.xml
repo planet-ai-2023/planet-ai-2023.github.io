@@ -2,671 +2,781 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Planet+AI</title>
-    <description>The moon is beautiful, isn&apos;t it? || The Internet has been the great equalizer of knowledge; AI will be the greatest equalizer of creativity.</description>
+    <description>combining creativity with technology</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 21 Jan 2024 20:19:10 -0500</pubDate>
-    <lastBuildDate>Sun, 21 Jan 2024 20:19:10 -0500</lastBuildDate>
+    <pubDate>Sun, 25 Aug 2024 11:52:09 -0400</pubDate>
+    <lastBuildDate>Sun, 25 Aug 2024 11:52:09 -0400</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
-        <title>Webinar on March 1: FlowVid</title>
-        <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Friday, March 1, 2024 4-5pm Eastern &lt;br /&gt;
-&lt;strong&gt;Location:&lt;/strong&gt; Online &lt;br /&gt;
-&lt;strong&gt;Registration Link:&lt;/strong&gt; &lt;a href=&quot;https://tennessee.zoom.us/webinar/register/WN_j3rVdVXDRQ2uo8hssl9Hcw&quot; target=&quot;_blank&quot;&gt;https://tennessee.zoom.us/webinar/register/WN_j3rVdVXDRQ2uo8hssl9Hcw&lt;/a&gt;   &lt;br /&gt;
-&lt;strong&gt;Cost:&lt;/strong&gt; Free&lt;br /&gt;
-&lt;strong&gt;Details:&lt;/strong&gt;  &lt;br /&gt;
-Jeff Liang, a PhD student at UT Austin, will talk about his recent article on FlowVid.&lt;/p&gt;
+        <title>Linear Algebra for Video Games</title>
+        <description>&lt;p&gt;&lt;strong&gt;LINEAR ALGEBRA&lt;/strong&gt; &lt;br /&gt;
+We usually meet on Saturday 4pm Eastern over Zoom for meetings and discussions on topics, including Linear Algebra, coding, computer graphics, computer vision, 3D math, and creating games. These meetings are for anyone who would like to get a good overview of Linear Algebra in a relatively short amount of time; and high school students will get the most out of these meetings. Colab notebooks with all code in Python, PyTorch, PyGame, PyOpenGL, and NumPy will be provided. We are not going to collect any data from participants in these meetings and discussions; however, all our Zoom meetings will be recorded. These meetings and discussions are totally seperate from our summer programs and PD workshops. Our summer programs and PD workshops are for educational research purposes and each participant gets a stipend for attending our educational research; and because of that, we collect data for educational research only in our summer programs and PD workshops. During June 2024, 47 high school students from the Knoxville-Oak Ridge area participated in our summer program; and each of them got a stipend of $1,200 for attending our 3-week Planet+AI program (with 2 exceptions). Only US Citizens are eligible for our summer programs and PD workshops.&lt;/p&gt;
 
-&lt;p&gt;This event is supported by the National Science Foundation and also by the TN Space Grant Consortium at UTK.
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;strong&gt;TEXTBOOKS&lt;/strong&gt; &lt;br /&gt;
+We will use the following books:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;em&gt;Linear Algebra and Learning from Data&lt;/em&gt;&lt;/strong&gt; by Gilbert Strang:
+&lt;a href=&quot;https://math.mit.edu/~gs/learningfromdata/&quot; target=&quot;_blank&quot;&gt;https://math.mit.edu/~gs/learningfromdata/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;em&gt; Essential Math for Games Programmers&lt;/em&gt;&lt;/strong&gt; by James M. Van Verth &amp;amp; Lars M. Bishop, &amp;amp; AK Peters: &lt;a href=&quot;http://www.essentialmath.com/book.htm&quot; target=&quot;_blank&quot;&gt;http://www.essentialmath.com/book.htm&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;em&gt;The Manga Guide to Linear Algebra&lt;/em&gt;&lt;/strong&gt; by Shin Takahashi &amp;amp; Iroha Inoue: &lt;a href=&quot;https://nostarch.com/linearalgebra&quot; target=&quot;_blank&quot;&gt;https://nostarch.com/linearalgebra&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;strong&gt;REGISTRATION LINK&lt;/strong&gt; &lt;br /&gt;
+Here’s the registration link: &lt;a href=&quot;https://tennessee.zoom.us/meeting/register/tZ0lfu2vqzgiHtzCj0wExSu9AjZH7NjtJIP1&quot; target=&quot;_blank&quot;&gt;https://tennessee.zoom.us/meeting/register/tZ0lfu2vqzgiHtzCj0wExSu9AjZH7NjtJIP1&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;strong&gt;NSF GAME MAKER AWARDS&lt;/strong&gt; &lt;br /&gt;
+The U.S. National Science Foundation Game Maker Awards is an exciting opportunity for students in grades K-12 to showcase their creativity, technical skills and passion for game design. The NSF Game Maker Awards is a video game design competition for K-12 students with the theme “Life in 2100”. Here’s the webpage for the competition: 
+&lt;a href=&quot;https://new.nsf.gov/75years/game-maker-awards&quot; target=&quot;_blank&quot;&gt;https://new.nsf.gov/75years/game-maker-awards&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Vectors, matrices, and linear transformations are fundamental math concepts which are extremely useful for game design, including creating visual effects. For example, a vertex’s position is the fundamental thing and it can be represented through vectors. We will introduce some basic ideas and concepts on ray tracing and how ray tracing works through vectors, matrices, and linear transformation in Linear Algebra.&lt;/p&gt;
 
 </description>
-        <pubDate>Tue, 02 Jan 2024 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2024/01/02/webinar-march-1-flowvid/</link>
-        <guid isPermaLink="true">http://localhost:4000/2024/01/02/webinar-march-1-flowvid/</guid>
+        <pubDate>Sun, 14 Jul 2024 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2024/07/14/linear-algebra-2024/</link>
+        <guid isPermaLink="true">http://localhost:4000/2024/07/14/linear-algebra-2024/</guid>
         
-        <category>events</category>
+        <category>planet</category>
+        
+        <category>AI</category>
+        
+        <category>tutorials</category>
+        
+        <category>resources</category>
         
         
       </item>
     
       <item>
-        <title>Webinar on Feb 23: Solar System Treks</title>
-        <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Fri, Feb 23, 2024 4-5pm Eastern &lt;br /&gt;
-&lt;strong&gt;Location:&lt;/strong&gt; Online &lt;br /&gt;
-&lt;strong&gt;Registration Link:&lt;/strong&gt; &lt;a href=&quot;https://tennessee.zoom.us/meeting/register/tZIkc-qgrzguGdHKWbR8nZAKNN9Ow9BM0yCw&quot; target=&quot;_blank&quot;&gt;https://tennessee.zoom.us/meeting/register/tZIkc-qgrzguGdHKWbR8nZAKNN9Ow9BM0yCw&lt;/a&gt;   &lt;br /&gt;
-&lt;strong&gt;Cost:&lt;/strong&gt; Free&lt;br /&gt;
-&lt;strong&gt;Details:&lt;/strong&gt;  &lt;br /&gt;
-Emily Law will talk about the Solar System Treks. The Solar System Treks are online, browser-based portals that allow you to visualize, explore, and analyze the surfaces of other worlds using real data returned from a growing fleet of spacecrafts. You can view the worlds through the eyes of many different instruments, pilot real-time 3D flyovers above mountains and into craters, and conduct measurements of surface features. The portals provide exciting capabilities for mission planning, planetary science, and public outreach. Here’s the Solar System Treks’ webpage: &lt;a href=&quot;https://trek.nasa.gov/#&quot; target=&quot;_blank&quot;&gt;https://trek.nasa.gov/#&lt;/a&gt;&lt;/p&gt;
+        <title>Elemental Abundance</title>
+        <description>&lt;p&gt;   &lt;br /&gt;
+&lt;img width=&quot;900&quot; src=&quot;/assets/images/periodic.png&quot; class=&quot;img-fluid&quot; /&gt;
+ &lt;/p&gt;
 
-&lt;p&gt;Emily Law has been working at NASA’s Jet Propulsion Laboratory for over 20 years where she has provided leadership and management in data intensive system architecture, development and operations.  Emily currently serves as Deputy Program Manager overseeing Earth Science Data Systems technology development, in addition to managing the Solar System Treks Project.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Credit: Wikipedia. https://en.wikipedia.org/wiki/Periodic_table#/media/File:Colour_18-col_PT_with_labels.png&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;This event is supported by the National Science Foundation and also by the TN Space Grant Consortium at UTK.
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;CONCEPTS &amp;amp; TERMS&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;mass&lt;/strong&gt; &lt;br /&gt;
+Mass is the quantity in a body regardless of its volume or any forces acting on it.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;atomic number&lt;/strong&gt; &lt;br /&gt;
+The total number of protons present in the nucleus of an atom is called its atomic number.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;mass number&lt;/strong&gt; &lt;br /&gt;
+The total number of protons and neutrons present in the nucleaus of an atom is called its mass number.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;isotopes&lt;/strong&gt; &lt;br /&gt;
+Atoms that have the same number of protons but different numbers of neutrons are known as isotopes. Isotopes have different atomic masses. The relative abundance of an isotope is the percentage of atoms with a specific atomic mass found in a naturally occuring sample of an element. The average atomic mass of an element is a weighted average calculated by multiplying the relative abundances of the element’s isotopes by their atomic masses and the summing the products. The relative abundance of each isotope can be determined using mass spectrometry. There are three main types of subatomic particles in an atom: protons, neutrons, and electrons. A proton carries a 1+ charge, an electron carries a 1- charge, and a neutron carries 0 charge. Protons and neutrons are found in the nucleus at the center of an atom, whereas electrons are found in orbitals that surround the nucleus. Since electrons are negatively charged, they are strongly attracted to the positively charged protons in the nucleus. For example, helium atom contains 2 protons, 2 neutrons and 2 electrons. The atomic number of helium is 2, so any helium atom must have 2 protons in its nucleus and 2 electrons. Atoms of the same element can contain different number of neutrons in their nuclei and still remain their identity. Such atoms are known as isotopes, and a single element can have different isotopes. Each isotope has a unique atomic mass. The mass number of an atom is equal to the number of protons plus the number of neutrons in its nucleus. The number of neutrons is equal to the mass number minus the number of protons. For example, an atom of carbon-12 has 6 neutrons in its nucleus. Calcium-40 is the most stable isotope of calcium. A single atom of calcium-40 has 20 neutrons.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;isotope notation&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img width=&quot;500&quot; src=&quot;/assets/images/isotope.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;(1). Isotopes are specified by the name or symbol of the particular element, immediately following by a hyphen and the mass number, e.g., carbon-14 or C-14.  &lt;br /&gt;
+(2). Isotopes can also be defined in standard, or “AZE”, notation where A is the mass number, Z is the atomic number, and E is the element symbol. The mass number A is indicated with a superscript to the left of the chemical symbol E while the atomic number Z is indicated with a subscript.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;relative isotopic mass of some elements&lt;/strong&gt; &lt;br /&gt;
+Hydrogen-1, H, atomic number 1, mass 1    &lt;br /&gt;
+Helium-4, He, atomic number 2, mass 4    &lt;br /&gt;
+Lithum-7, Li, atomic number 3, mass 7  &lt;br /&gt;
+Beryllium-9, Be, atomic number 4, mass 9   &lt;br /&gt;
+Sodium-23, Na, atomic number 11, mass 23 &lt;br /&gt;
+Magnesium-25, Mg, atomic number 12, mass 25    &lt;br /&gt;
+Aluminum-27, Al, atomic number 13, mass 27 &lt;br /&gt;
+Phosphorus-31, P, atomic number 15, mass 31 &lt;br /&gt;
+Argon-40, Ar, atomic number 18, mass 40   &lt;br /&gt;
+Potassium-39, K, atomic number 19, mass 39  &lt;br /&gt;
+Calcium-44, Ca, atomic number 20, mass 44    &lt;br /&gt;
+Titanium-48, Ti, atomic number 22, mass 48  &lt;br /&gt;
+Iron-56, Fe, atomic number 26, mass: 56    &lt;br /&gt;
+Iron-57, Fe, atomic number 26, mass 57 &lt;br /&gt;
+Copper-63, Cu, atomic number 29, mass 63 &lt;br /&gt;
+Strontium-88, Sr, atomic number 38, mass 88     &lt;br /&gt;
+Indium-115, In, atomic number 49, mass 115     &lt;br /&gt;
+Europium-153, Eu, atomic number 63, mass 153&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;concentration&lt;/strong&gt; &lt;br /&gt;
+Concentration is a measure of the relative amount of dissolved substances in a solution. Concentration can be expressed in many different ways.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;parts per million (ppm)&lt;/strong&gt; &lt;br /&gt;
+The number of grams of an element dissolved in 1,000,000 g of water. &lt;br /&gt;
+Parts per million or ppm describes the concentration of something in water. One ppm is equivalent to 1 milligram of something per liter of water (mg/l) or a milligram of something per kilogram (mg/kg).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;parts per billion (ppb)&lt;/strong&gt; &lt;br /&gt;
+The number of grams of an element dissolved in 1,000,000,000 g of water.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;trace element&lt;/strong&gt; &lt;br /&gt;
+Elements with concentrations measured in ppm or ppb are called trace elements. For example, if 40g of a trace elememt are found in 1,000,000 g of water, the trace element’s concentration is 40 ppm.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;parts per thousand (ppt)&lt;/strong&gt; &lt;br /&gt;
+Concentration can be expressed in terms of the number of grams of an element dissolved in 1,000 g of water. The unit for this measure is parts per thousand, or ppt. For example, salinity is hte measure of the number of grams of salts per kilogram (kg) of water. The average salinity of seawater is about 35 g/kg of seawater, or 35 ppt.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;periodic table&lt;/strong&gt; &lt;br /&gt;
+The periodic table arranges all the known elements in an array. Elments are arranged left to right and top to bottom in order of increasing atomic number, which coincides with increasing atomic mass. The rows of elements are periods. The period number of an element signifies the highest energy level an electron in that element occupies. There are &lt;strong&gt;118&lt;/strong&gt; known elements today. The first periodic table was published by Dmitri Mendeleev in 1869. Everything around us is made of different combinations of elements. Elemental analysis can help you identify which elements something is made of. You may want to measure elements, rather than the molecues and compounds.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;plasma&lt;/strong&gt; &lt;br /&gt;
+Plasma is often called the fourth state of matter after solid, liquid, and gas, and refers to a gas of charged particles generated by ionization. Plasma exists in a very high-energy (high temperature) state and the temperature of the Ar Plasma ranges between 6,000 K and 10,000 K.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;counts per second (cps)&lt;/strong&gt; &lt;br /&gt;
+Counts per second, abbreviated to &lt;em&gt;cps&lt;/em&gt;. Sensitivity is expressed as counts per second per unit concentration (e.g. cps/ppb). Without sufficient sensitivity, small particles cannot be detected.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;analyte&lt;/strong&gt; &lt;br /&gt;
+Analyte refers to the component of a sample that is ultimately determined directly or indirectly.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;matrix&lt;/strong&gt; &lt;br /&gt;
+Matrix refers to the components of a sample other than the analyte of interest. &lt;br /&gt;
+The matrix can have a considerable effect on the way the analysis is conducted and the quality of the results are obtained; Such effects are called matrix effects.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;standard solution&lt;/strong&gt; &lt;br /&gt;
+A standard solution is a solution containing an accurately known concentration.&lt;br /&gt;
+Standards are prepared in volumetric flasks. &lt;br /&gt;
+The mass concentration μg ml&lt;sup&gt;-1&lt;/sup&gt; (it could also be expresses as mg l&lt;sup&gt;-1&lt;/sup&gt;) is also referred to as ppm (parts per million).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;commonly used prefixes (multiple-prefix-symbol)&lt;/strong&gt; &lt;br /&gt;
+10&lt;sup&gt;3&lt;/sup&gt;: kilo, K &lt;br /&gt;
+10&lt;sup&gt;6&lt;/sup&gt;: mega, M &lt;br /&gt;
+10&lt;sup&gt;9&lt;/sup&gt;: giga, G &lt;br /&gt;
+10&lt;sup&gt;12&lt;/sup&gt;: tera, T &lt;br /&gt;
+10&lt;sup&gt;15&lt;/sup&gt;: peta, P &lt;br /&gt;
+10&lt;sup&gt;-3&lt;/sup&gt;: milli, m &lt;br /&gt;
+10&lt;sup&gt;-6&lt;/sup&gt;: micro, μ &lt;br /&gt;
+10&lt;sup&gt;-9&lt;/sup&gt;: nano, n &lt;br /&gt;
+10&lt;sup&gt;-12&lt;/sup&gt;: pico, p &lt;br /&gt;
+10&lt;sup&gt;-15&lt;/sup&gt;: femto, f&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;limit of detection (LOD)&lt;/strong&gt; &lt;br /&gt;
+The limit of detection (LOD) of an analytical procedure is the lowest amount of analyte in an unknown sample that can be detected but not necessarily quantified, that is, recorded as an exact concentration.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;accuracy&lt;/strong&gt; &lt;br /&gt;
+Accuracy refers to the difference beetween the mean of a set of results or an individual result and the value that is accepted as the true or correct value for the quantity being measured.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;precision&lt;/strong&gt; &lt;br /&gt;
+Precision refers to the closeness of agreement between independent test results obtained under stipulated conditions.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;bias&lt;/strong&gt; &lt;br /&gt;
+Bias characterizes the systematic error in each analytical procedure and is the deviation of the mean analytical result from the true value.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;DATA ANALYSIS&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Excel&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;em&gt;Hide rows or columns&lt;/em&gt;&lt;/strong&gt;: right-click the selected rows or columns and then select Hide&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;em&gt;Unhide&lt;/em&gt;&lt;/strong&gt;: Format -&amp;gt; Column -&amp;gt; Unhide&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;em&gt;Dollar sign&lt;/em&gt;&lt;/strong&gt;: Add dollar sign for absolute reference before the row and the column, e.g., $AG142, G$48&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;em&gt;Freeze first two columns&lt;/em&gt;&lt;/strong&gt;: Select the third column and select View -&amp;gt; Freeze Panes&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;em&gt;Freeze first two rows&lt;/em&gt;&lt;/strong&gt;: Select the cell (third row and thir column) and select View -&amp;gt; Freeze Panes&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;graph&lt;/strong&gt; &lt;br /&gt;
+You can plot a graph with Excel, or Python, or by hand (I recommend you always try to plot a graph by hand first if you are a new learner- you need the skill to plot a graph). Graphs are used to describe a relationship between two variables, x and y. It is normal practice to identify the x-axis as the horizontal axis for the independent variable, e.g., concentration in μg ml&lt;sup&gt;-1&lt;/sup&gt;. The y-axis is used to plot the dependent variable, y, e.g., signal response in mV. The mathematical relationship for straight line graphs is: y = mx + b, where y is the signal response in mV, x is the concentration in μg ml&lt;sup&gt;-1&lt;/sup&gt;, m is the slope of the line of best fit of the graph, and c is the intercept on the x-axis.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;linest function in Excel&lt;/strong&gt; &lt;br /&gt;
+The linest function in Excel is a tool to fit a line (y=mx+b) to the data in order to identify the relationship between two variables (x and y). The linest function uses the least square procedure which fits a line to a set of data points by minizing the sum of the squares of the residuals of the points from the curve.&lt;/p&gt;
+
+&lt;p&gt;You need two columns of data, one for variable x and one for y. &lt;br /&gt;
+x        y &lt;br /&gt;
+1        1 &lt;br /&gt;
+9       1.35 &lt;br /&gt;
+16     1.36 &lt;br /&gt;
+24     1.24 &lt;br /&gt;
+31     1.21 &lt;br /&gt;
+38     1.16&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;polynomial interpolation in Excel&lt;/strong&gt; &lt;br /&gt;
+Polynomial interpolation is a method of finding a polynomial function that fits a set of data points. One of the most common ways to perform polynomial interpolation is by using the Lagrange polynomial. &lt;br /&gt;
+Excel formula to calculate a polynomial trendline: &lt;br /&gt;
+y = a1 x^3 + a2 x^2 + a3 x^ + a4&lt;/p&gt;
+
+&lt;p&gt;a1 = INDEX(LINEST(y,x^{1,2,3}),1,1) &lt;br /&gt;
+a2 = INDEX(LINEST(y,x^{1,2,3}),1,2) &lt;br /&gt;
+a3 = INDEX(LINEST(y,x^{1,2,3}),1,3) &lt;br /&gt;
+a4 = INDEX(LINEST(y,x^{1,2,3}),1,4)&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;LEARNING MATERIALS&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://depts.washington.edu/eooptic/linkfiles/The%20Elements.pdf&quot; target=&quot;_blank&quot;&gt;Periodic Table of the Elements&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://drive.google.com/file/d/12kSfP_ekUiRW2ONNmmFnXPRgQK-UIrOt/view?usp=sharing&quot; target=&quot;_blank&quot;&gt;Periodic Tables of Elemental Abundances&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://drive.google.com/file/d/1BawQqY8FTfDbtCSoUMKgWvmTTi-GWZJT/view?usp=sharing&quot; target=&quot;_blank&quot;&gt;Abundance of 30 Elements in Lunar Rocks&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.epa.gov/esam&quot; target=&quot;_blank&quot;&gt;Environmental Sampling and Analytical Methods (ESAM) by EPA&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.epa.gov/sites/default/files/2015-06/documents/epa-200.8.pdf&quot; target=&quot;_blank&quot;&gt;EPA Method 200.8&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.thermofisher.com/us/en/home/industrial/environmental/environmental-learning-center/environmental-resource-library/us-epa-methods/analyzing-trace-elements-epa-method-200-8.html&quot; target=&quot;_blank&quot;&gt;Analyzing Trace Elements with EPA Method 200.8&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
 </description>
-        <pubDate>Mon, 01 Jan 2024 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2024/01/01/webinar-feb-23-solar-system-treks/</link>
-        <guid isPermaLink="true">http://localhost:4000/2024/01/01/webinar-feb-23-solar-system-treks/</guid>
+        <pubDate>Sun, 14 Jul 2024 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2024/07/14/elemental-abundance/</link>
+        <guid isPermaLink="true">http://localhost:4000/2024/07/14/elemental-abundance/</guid>
         
-        <category>events</category>
+        <category>planet</category>
+        
+        <category>AI</category>
+        
+        <category>tutorials</category>
+        
+        <category>resources</category>
         
         
       </item>
     
       <item>
-        <title>Webinar on Jan 26: Lunar Narrative through Apollo Petrographic Thin Sections</title>
-        <description>&lt;p&gt;&lt;strong&gt;When:&lt;/strong&gt; Fri, Jan 26, 2024 4-5pm Eastern &lt;br /&gt;
-&lt;strong&gt;Location:&lt;/strong&gt; Online &lt;br /&gt;
-&lt;strong&gt;Registration Link:&lt;/strong&gt; &lt;a href=&quot;https://tennessee.zoom.us/webinar/register/WN_MXlr9UQjTo265w66spaWYg&quot; target=&quot;_blank&quot;&gt;https://tennessee.zoom.us/webinar/register/WN_MXlr9UQjTo265w66spaWYg&lt;/a&gt;   &lt;br /&gt;
-&lt;strong&gt;Cost:&lt;/strong&gt; Free&lt;br /&gt;
-&lt;strong&gt;Details:&lt;/strong&gt;  &lt;br /&gt;
-The speaker Hairuo Fu is a PhD student at Harvard University. He will talk about his recent study on Apollo lunar thin sections.&lt;/p&gt;
+        <title>Planet+AI Research Group</title>
+        <description>&lt;p&gt;&lt;strong&gt;I. GROUP ADVISORS&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Ping Wang&lt;/li&gt;
+  &lt;li&gt;Melody Hawkins&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;This event is supported by the National Science Foundation and also by the TN Space Grant Consortium at UTK.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;II. GROUP MEETINGS&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;July 6, 2024: Using Machine Learning to Find the Best Alloy Crack Susceptibility for Additive Manufacturing (presented by Alice Zou)&lt;/li&gt;
+  &lt;li&gt;July 20, 2024: Neural Networks (presented by Mark Lee)&lt;/li&gt;
+  &lt;li&gt;Aug 3, 2024: Diffusion models (presented by Mark Lee)&lt;/li&gt;
+  &lt;li&gt;Aug 10, 2024: Data reduction (presented by Ping Wang)&lt;/li&gt;
+  &lt;li&gt;Agu 17, 2024: Computer Vision basics (presented by Nathan He)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;III. RESEARCH RPOJECTS&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Project Chatbot DAISY for NeurIPS2024&lt;/strong&gt;: &lt;em&gt;Development of an Intelligent Chatbot DAISY for Natural Disaster Information Dissemination&lt;/em&gt;, mentored by Ping Wang.
+&lt;br /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Project WaterBot for AGU2024&lt;/strong&gt;: &lt;em&gt;Exploring Trace Element Fingerprinting in Water Samples with Artificial Intelligence&lt;/em&gt;, mentored by Ping Wang, Dr. Shichun Huang, Dr. Brain Daniel Duggan.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Tue, 02 Jul 2024 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2024/07/02/planet-ai-research-group/</link>
+        <guid isPermaLink="true">http://localhost:4000/2024/07/02/planet-ai-research-group/</guid>
+        
+        <category>planet</category>
+        
+        <category>AI</category>
+        
+        <category>projects</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Timeline of AI</title>
+        <description>&lt;p&gt;Let’s review some of the major events that occurred along the AI timeline.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;1950s: Computing power was largely reliant on human brains. Alan Turing, a British mathematician, developed a method for assessing whether a machine thinks on par with a human, which he called “imitation game”, and now called “the Turing Test”.&lt;/li&gt;
+  &lt;li&gt;1956: John McCarthy, a Darthmouth mathematician, invited researchers in a summer workshop on investigating the possibility of “thinking machines”. The Group believed, “Every aspect of learning or any other feature of intelligence can in principle be so precisely described that a machine can be made to simulate it”, which is largely credited with founding the field of artificial intelligence.&lt;/li&gt;
+  &lt;li&gt;1970s: AI winter was caused by the pessimism about machine learning.&lt;/li&gt;
+  &lt;li&gt;1979: American Association of Artificial Intelligence was established with a journal in the field, annual conference, and workshops.&lt;/li&gt;
+  &lt;li&gt;1996: Deep Blue by IBM won one of the six chess-playing games against then-world champion Gary Kasparov.&lt;/li&gt;
+  &lt;li&gt;2012: AlexNet authored by Alex Krizhevsky, Ilya Sutskever, Geoffrey E. Hinton was published at the ImageNet competition. Hinton began his research in neural networks during his PhD in the 1970s. AlexNet popularized deep neural networks. Hinton joined Google in 2013 and resigned in 2023.&lt;/li&gt;
+  &lt;li&gt;2013: word2vec was published, revolutionzing the procesisng of text in machine learning.&lt;/li&gt;
+  &lt;li&gt;2016: Google DeepMind created AlphaGo, which beat Lee Sedol, one of the best palyers in the game of Go.&lt;/li&gt;
+  &lt;li&gt;2017: Attention is all you need was published by a team at Google Brain which invented the transformer architecture.&lt;/li&gt;
+  &lt;li&gt;2018: AlphaFold 1 was published.&lt;/li&gt;
+  &lt;li&gt;2018: OpenAI published GPT (generative pre-trained transformer).&lt;/li&gt;
+  &lt;li&gt;2021: DALL-E was published.&lt;/li&gt;
+  &lt;li&gt;2022: Midjourney v1 was released.&lt;/li&gt;
+  &lt;li&gt;2022: OpenAI released ChatGPT-3.5 in November 2022.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 01 Jul 2024 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2024/07/01/timeline-of-ai/</link>
+        <guid isPermaLink="true">http://localhost:4000/2024/07/01/timeline-of-ai/</guid>
+        
+        <category>AI</category>
+        
+        <category>tutorials</category>
+        
+        <category>resources</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Neural Networks Tutorial (to be updated)</title>
+        <description>&lt;p&gt;This tutorial is based on &lt;a href=&quot;https://www.bishopbook.com/&quot; target=&quot;_blank&quot;&gt;Deep Learning: Foundations and Concepts&lt;/a&gt; and also Ping Wang’s previous work with students, parents, teachers and researchers in AI outreach (NASA-funded HiRISE+AI and NSF-funded Planet+AI) since 2021, targeting high school students and the general public at large.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;MACHINE LEARNING&lt;/strong&gt; &lt;br /&gt;
+Machine learning is computationally-focused statistical learning. Most machine learning problems belong to one of the following three main categories: supervised learning, unsupervised learning, and reinforcement learning. In supervised learning, each data point is labeled or associated with a category. In unsupervised learning, data points have no labels associated with them. In reinforcement learning, the algorithm gets to choose an action in response to each data point. Supervised learning can come in two distinct forms: (1) classification whenver we use the data to predict categories, and (2) regression whenever we use the data to predict real values.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;DEEP LEARNING&lt;/strong&gt; &lt;br /&gt;
+Deep learning uses artificial neural networks trained with big data to solve many problems in many fields, including computer vision and natural language processing. Deep learning is based on neural networks with representation learning. Large language models (LLMs) are neural networks with trillions of parameters. Artificial neural networks is also called neural networks. The deep learning revolution started around Convolutional Neural Networks and GPU-based computer vision.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;WHAT IS A FUNCTION&lt;/strong&gt; &lt;br /&gt;
+In mathematics, a function from a set X to a set Y assigns to each element of X exactly one element of Y. &lt;br /&gt;
+A function relates each element of a set with exactly one element of another set. Thus,  &lt;br /&gt;
+(1) A function must work for every possible input value. &lt;br /&gt;
+(2) It has only one relationship for each input value.&lt;/p&gt;
+
+&lt;p&gt;Also, &lt;br /&gt;
+(1 )The set X is called the &lt;strong&gt;Domain&lt;/strong&gt;. &lt;br /&gt;
+(2) The set Y is called the &lt;strong&gt;Codomain&lt;/strong&gt;. &lt;br /&gt;
+(3) The set of elements that get pointed to Y (the actual values produced by the function) is called the &lt;strong&gt;Range&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;ORDERED PAIRS&lt;/strong&gt; &lt;br /&gt;
+The input and output of a function can be written as an &lt;strong&gt;ordered pair&lt;/strong&gt;, such as (3,9).  &lt;br /&gt;
+The input always comes first; and the output second: (x, f(x)). &lt;br /&gt;
+Ordered pairs are also called 2-tuples. Ordered pairs are also coordinates. we can create functions with ordered pairs.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;DOT PRODUCTS&lt;/strong&gt; &lt;br /&gt;
+A vector has magnitude and direction. The dot products of two vectors A and B is a key operation in algebra and also in geometry.&lt;/p&gt;
+
+&lt;p&gt;Dot Products in Algebra: &lt;br /&gt;
+If A = (a&lt;sub&gt;1&lt;/sub&gt;, a&lt;sub&gt;2&lt;/sub&gt;, …, a&lt;sub&gt;n&lt;/sub&gt;) and B = (b&lt;sub&gt;1&lt;/sub&gt;, b&lt;sub&gt;2&lt;/sub&gt;, …, b&lt;sub&gt;n&lt;/sub&gt;), then the dot product of A and B = a&lt;sub&gt;1&lt;/sub&gt;b&lt;sub&gt;1&lt;/sub&gt; + a&lt;sub&gt;2&lt;/sub&gt;b&lt;sub&gt;2&lt;/sub&gt; +… + a&lt;sub&gt;n&lt;/sub&gt;b&lt;sub&gt;n&lt;/sub&gt;
+Examples:  &lt;br /&gt;
+Let A=(1,2,3), B=(3,2,1). The dot product of A and B = 1 * 3 + 2 * 2 + 3 * 1 = 10 &lt;br /&gt;
+Let C=(1,2,3), D=(3,-2,1). The dot product of C and D = 1 * 3 + 2 * (-2) + 3 * 1 = 2&lt;/p&gt;
+
+&lt;p&gt;And See the folowing figure, a=(-6, 8), b=(5, 12), the angle θ between a and b is 59.5&lt;sup&gt;o&lt;/sup&gt;
+   &lt;br /&gt;
+&lt;img width=&quot;300&quot; src=&quot;/assets/images/dot_product.png&quot; class=&quot;img-fluid&quot; /&gt; &lt;br /&gt;
+Credit: Image from https://www.mathsisfun.com/algebra/vectors-dot-product.html
+ &lt;/p&gt;
+
+&lt;p&gt;The dot product of a and b can also be calculated by this way:  &lt;br /&gt;
+a · b = |a| x |b| x cos(θ) where |a| is the magnitude of vector a, |b| is the magnitude of vector b, and θ is the angle between a and b.  &lt;br /&gt;
+Thus, a·b = |a| x |b| x cos(θ) = 10 * 13 * cos(59.5&lt;sup&gt;o&lt;/sup&gt;) = 65.98&lt;/p&gt;
+
+&lt;p&gt;If the magnitude of the two vectors and the angle between them is not known, we can calculate the dot product in algebraic way:&lt;br /&gt;
+a·b = a&lt;sub&gt;1&lt;/sub&gt;b&lt;sub&gt;1&lt;/sub&gt; + a&lt;sub&gt;2&lt;/sub&gt;b&lt;sub&gt;2&lt;/sub&gt;. In this case, we multiply the vector length as they are projected onto the x-axis and y-axis of the Cartesian plane.  &lt;br /&gt;
+Thus, a·b = (-6) * 5 + 8 *12 = 66&lt;/p&gt;
+
+&lt;p&gt;Both methods come up with the almost same result (afeter rounding). Above is about calculating the dot product for vectors in a 2-dimensional space. A similar approach can be used to calculate the dot product for vectors in a n-dimensional space.&lt;/p&gt;
+
+&lt;p&gt;In Convolutional Neural Networks, a dot product is defined as being a sum of products by multiplying element-wise and then add them all together. The convolution operation in images ia a matrix where each entry is a dot product.&lt;/p&gt;
+
+&lt;p&gt;The dot product is a measure of how closely two vectors algin in terms of the directions they point.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;VECTOR SPACE&lt;/strong&gt; &lt;br /&gt;
+A vector space, also called a linear space, is a set whose elements, often called vectors, can be added together and multiplied (“scaled”) by numbers called scalars. The concept of vector spaces is fundamental for Linear Algebra, which provides a concise and way for manipulating and studying systems of linear equations. Vector spaces are charaterized by their dimensions, which specifies the number of independent directions in the space. There are two axioms about a vector space: (1) the sum of two vectors must be a vector, and (2 )the multiple of a vector by a scalar must be a vector.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;LINEAR EQUATIONS&lt;/strong&gt; &lt;br /&gt;
+Here’s a problem: Find x1, x2, x3 ∈ R that solves the system of linear equations &lt;br /&gt;
+x&lt;sub&gt;1&lt;/sub&gt; + 2x&lt;sub&gt;2&lt;/sub&gt; + 3x&lt;sub&gt;3&lt;/sub&gt; = 8 &lt;br /&gt;
+4x&lt;sub&gt;1&lt;/sub&gt; + 5x&lt;sub&gt;2&lt;/sub&gt; + 6x&lt;sub&gt;3&lt;/sub&gt; = 11 &lt;br /&gt;
+7x&lt;sub&gt;1&lt;/sub&gt; + 8x&lt;sub&gt;2&lt;/sub&gt; + 9x&lt;sub&gt;3&lt;/sub&gt; = 7&lt;/p&gt;
+
+&lt;p&gt;The problem above can be reworded as the following matrix equation:
+   &lt;br /&gt;
+&lt;img width=&quot;300&quot; src=&quot;/assets/images/matrix_equation.png&quot; class=&quot;img-fluid&quot; /&gt; &lt;br /&gt;
+ &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;LINEAR REGRESSION AS A SINGLE LAYER NEURAL NETWORK&lt;/strong&gt; &lt;br /&gt;
+The easiest regression model is called linear regression. Linear regression describes a target variable with a linear combination of features. In a linear regression, each input is connected to the output. The inputs are x&lt;sub&gt;1&lt;/sub&gt;, x&lt;sub&gt;2&lt;/sub&gt;, …, x&lt;sub&gt;d&lt;/sub&gt;. We refer to d as the number of inputs or the feature dimensionality in the input layer. The output of the network is o&lt;sub&gt;1&lt;/sub&gt;. We only have one output neuron. Linear regression can be taken as a single layer fully-connected neural network, each feature is represented by an input neuron, all of which are connected directly to the output.&lt;/p&gt;
+
+&lt;p&gt;We can build a single-layer neural network adn train it with the &lt;a href=&quot;https://archive.ics.uci.edu/dataset/53/iris&quot; target=&quot;_blank&quot;&gt;iris&lt;/a&gt; dataset and solve a classification problem. The iris dataset has dimensionality 4, namely sepal_length, sepal_width, petal_length, and petal_width. the target labels are one of the 3 classes of iris, namely iris settosa, iris versicolor, and iris virginica respectively. The neural network has input layer, output layer and 1 hidden layer. The input layer has 4 nodes, which matches the dimensionality of 4 features. The output layer has 3 nodes to match one-hot encoding of the target labels.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;References: &lt;br /&gt;
+&lt;a href=&quot;https://www.bishopbook.com/&quot; target=&quot;_blank&quot;&gt;Deep Learning: Foundations and Concepts&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 01 Jul 2024 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2024/07/01/neural-networks-tutorial/</link>
+        <guid isPermaLink="true">http://localhost:4000/2024/07/01/neural-networks-tutorial/</guid>
+        
+        <category>AI</category>
+        
+        <category>tutorials</category>
+        
+        <category>resources</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>A Dataset for Supervised Learning</title>
+        <description>&lt;p&gt;The Iris dataset from UC-Irvine Machine Learning repository:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Columns are called input variables or features or attributes.&lt;/li&gt;
+  &lt;li&gt;The outcome we are trying to predict, is called output variables or targets.&lt;/li&gt;
+  &lt;li&gt;A row in the table is called training example or instance.&lt;/li&gt;
+  &lt;li&gt;The whole table is called (training) dataset.&lt;/li&gt;
+  &lt;li&gt;The problem of predicting is called classification.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The variables are:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;sepal_length: Sepal length, in centimeters, used as input.&lt;/li&gt;
+  &lt;li&gt;sepal_width: Sepal width, in centimeters, used as input.&lt;/li&gt;
+  &lt;li&gt;petal_length: Petal length, in centimeters, used as input.&lt;/li&gt;
+  &lt;li&gt;petal_width: Petal width, in centimeters, used as input.&lt;/li&gt;
+  &lt;li&gt;class: Iris Setosa, Versicolor, or Virginica, used as the target.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 01 Jul 2024 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2024/07/01/dataset-tutorial/</link>
+        <guid isPermaLink="true">http://localhost:4000/2024/07/01/dataset-tutorial/</guid>
+        
+        <category>AI</category>
+        
+        <category>tutorials</category>
+        
+        <category>resources</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Convolution in ConvNets Tutorial</title>
+        <description>&lt;p&gt;In ConvNets, convolution refers to the process of applying a filter or a kernel to an input or feature map.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Input image (7x7x3)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;x[:, :, 0]   &lt;br /&gt;
+&lt;img src=&quot;/assets/images/r.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;x[:, :, 1]   &lt;br /&gt;
+&lt;img src=&quot;/assets/images/g.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;x[:, :, 2]   &lt;br /&gt;
+&lt;img src=&quot;/assets/images/b.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Filter W0 (3x3x3)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;w0[:, :, 0] &lt;br /&gt;
+&lt;img src=&quot;/assets/images/f0_r.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;w0[:, :, 1] &lt;br /&gt;
+&lt;img src=&quot;/assets/images/f0_g.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;w0[:, :, 2] &lt;br /&gt;
+&lt;img src=&quot;/assets/images/f0_b.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Filter W1 (3x3x3)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;w1[:, :, 0] &lt;br /&gt;
+&lt;img src=&quot;/assets/images/f1_r.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;w1[:, :, 1] &lt;br /&gt;
+&lt;img src=&quot;/assets/images/f1_g.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;w1[:, :, 2] &lt;br /&gt;
+&lt;img src=&quot;/assets/images/f1_b.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Bias b0 (1x1x1)&lt;/strong&gt; &lt;br /&gt;
+b0[:, :, 0] &lt;br /&gt;
+1&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Bias b1 (1x1x1)&lt;/strong&gt; &lt;br /&gt;
+b1[:, :, 1] &lt;br /&gt;
+0&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Output feature maps (3x3x2)&lt;/strong&gt; &lt;br /&gt;
+The size of the output feature map is determined by several factors including the size of the input or feature map, the size of the filter, and the stride of the convolution operation.&lt;/p&gt;
+
+&lt;p&gt;output[:, :, 0] &lt;br /&gt;
+&lt;img src=&quot;/assets/images/o0.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;output[:, :, 1] &lt;br /&gt;
+&lt;img src=&quot;/assets/images/o1.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 01 Jul 2024 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2024/07/01/convolution-in-convnets-tutorial/</link>
+        <guid isPermaLink="true">http://localhost:4000/2024/07/01/convolution-in-convnets-tutorial/</guid>
+        
+        <category>AI</category>
+        
+        <category>tutorials</category>
+        
+        <category>resources</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Planet+AI PD Workshop 2024 (to be Updated)</title>
+        <description>&lt;p&gt;We are currently collecting reviews and comments from all stakeholders… &lt;br /&gt;
+If you want to send us what you think, email: pwang27@utk.edu&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;strong&gt;When&lt;/strong&gt;: Oct 7- Oct 11, 9am-4pm with two-hour break from 11am to 1pm &lt;br /&gt;
+&lt;strong&gt;Where&lt;/strong&gt;: Zoom meetings and in-person meetings on the UTK campus &lt;br /&gt;
+&lt;strong&gt;What&lt;/strong&gt;: A cross-disciplinary approach by which learners, while learning coding and AI, dive into various different fields, including math- linear algebra (mainly matrix arithmetic, linear transformations), trigonometry, and geometry, Python and Python libraries, planetary explorations and planetary images, image processing, and how to use AI tools in the real world. Cross-connecting concepts in different fields will be the focus.&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;
 &lt;br /&gt;
+&lt;strong&gt;GLOSSARY OF TERMS&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;digital twin&lt;/strong&gt; &lt;br /&gt;
+A digital twin is a virtual representation — a true-to-reality simulation of physics and materials — of a real-world physical asset or system, which is continuously updated.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3D Reconstruction&lt;/strong&gt; &lt;br /&gt;
+3D Reconstruction is the task of creating a 3D model or representation of an object or scene from 2D images or other data sources. The goal of 3D reconstruction is to create a virtual representation of an object or scene that can be used for a variety of purposes, such as visualization, animation, simulation, and analysis. It can be used in fields such as computer vision, robotics, and virtual reality.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;knowledge graph&lt;/strong&gt; &lt;br /&gt;
+A knowledge graph, also known as a semantic network, represents a network of real-world entities—i.e. objects, events, situations, or concepts—and illustrates the relationship between them. This information is usually stored in a graph database and visualized as a graph structure.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 22 Jun 2024 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2024/06/22/pd-2024/</link>
+        <guid isPermaLink="true">http://localhost:4000/2024/06/22/pd-2024/</guid>
+        
+        <category>AI</category>
+        
+        <category>planet</category>
+        
+        <category>projects</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Planet+AI Summer 2024</title>
+        <description>&lt;h1 id=&quot;week-1&quot;&gt;Week 1&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;When&lt;/strong&gt;: June 3- June 7, 9am-4pm with one-hour break from 11am to 12pm &lt;br /&gt;
+&lt;strong&gt;Who&lt;/strong&gt;: Ping Wang, Justin Hardin, Ben Alexander &lt;br /&gt;
+&lt;strong&gt;What&lt;/strong&gt;: Planetary explorations and planetary images, Python basics with matrix arithmetic, linear transformations, and image processing, How to use AI tools to creat artworks, digital stories and apps &lt;br /&gt;
+&lt;strong&gt;Textbook&lt;/strong&gt;: Python in high school - Algorithms and mathematics by Arnaud Bodin&lt;/p&gt;
+
+&lt;p&gt;A few things for Week 1:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.google.com/presentation/d/16N0taMZJaeUL_abBs8yafYxmXuTPiCcR/edit?usp=sharing&amp;amp;ouid=113200546422009820244&amp;amp;rtpof=true&amp;amp;sd=true&quot; target=&quot;_blank&quot;&gt;Introduction to Mars&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.google.com/presentation/d/1v8KD4lJMJ2SAg3KCXOlmO_AZm8JFvnzr/edit?usp=sharing&amp;amp;ouid=113200546422009820244&amp;amp;rtpof=true&amp;amp;sd=true&quot; target=&quot;_blank&quot;&gt;Satellite Imagery and Remote Sensing&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.google.com/presentation/d/1uVP53b18kz0o5qgnamVnsCAuvId66VO1/edit?usp=sharing&amp;amp;ouid=113200546422009820244&amp;amp;rtpof=true&amp;amp;sd=true&quot; target=&quot;_blank&quot;&gt;Mars Missions&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.google.com/presentation/d/1fThWJOfRXVR9lWQurXBQHhwT24mxWCfo/edit?usp=sharing&amp;amp;ouid=113200546422009820244&amp;amp;rtpof=true&amp;amp;sd=true&quot; target=&quot;_blank&quot;&gt;HiRISE&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.google.com/presentation/d/1Ayj-RTJkuq_cMFqoxL6PRN2rxhvxu6x5/edit?usp=sharing&amp;amp;ouid=113200546422009820244&amp;amp;rtpof=true&amp;amp;sd=true&quot; target=&quot;_blank&quot;&gt;Element Maps&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.google.com/presentation/d/1yddAF3uSQyCpR52JI_LuKijIvK4Hh7IM/edit?usp=sharing&amp;amp;ouid=113200546422009820244&amp;amp;rtpof=true&amp;amp;sd=true&quot; target=&quot;_blank&quot;&gt;Materials on the Moon&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.google.com/presentation/d/1BQdiR-2NIUy1g0kYHBurzK5S3e_RbYuv/edit?usp=sharing&amp;amp;ouid=113200546422009820244&amp;amp;rtpof=true&amp;amp;sd=true&quot; target=&quot;_blank&quot;&gt;Introduction to the Moon&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.google.com/presentation/d/1s5WKgSw4I4Mh0rgvZsLRnyVYmvVCb5V0/edit?usp=sharing&amp;amp;ouid=113200546422009820244&amp;amp;rtpof=true&amp;amp;sd=true&quot; target=&quot;_blank&quot;&gt;Missions to the Moon (1)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.google.com/presentation/d/1fOxpgRKGhrwY0MElgEYZK_MJcLV-gX6S/edit?usp=sharing&amp;amp;ouid=113200546422009820244&amp;amp;rtpof=true&amp;amp;sd=true&quot; target=&quot;_blank&quot;&gt;Missions to the Moon (2)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://docs.google.com/presentation/d/1ABEzKE8eAz5aNKeuw9we2lr1-1ImCQO6/edit?usp=sharing&amp;amp;ouid=113200546422009820244&amp;amp;rtpof=true&amp;amp;sd=true&quot; target=&quot;_blank&quot;&gt;Missions to the Moon (3)&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gist.github.com/planet-ai-2023/9bf5bb954fc2b7bd81cff2568ae25fcd&quot; target=&quot;_blank&quot;&gt;01-basics&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.google.com/document/d/1l-cFjiHUmPhF_p28RDp60_vjjDyfbW5FnJ_qiMNmzzw/edit?usp=sharing&quot; target=&quot;_blank&quot;&gt;01-exercises&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://drive.google.com/file/d/1Z52po3iWAU3jQh-vscchYn6_GsqiiMrT/view?usp=sharing&quot; target=&quot;_blank&quot;&gt;02-exercises&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gist.github.com/planet-ai-2023/592fd6bb27b73d439c6ad9ccfe9d74df&quot; target=&quot;_blank&quot;&gt;02-matrix-images&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gist.github.com/planet-ai-2023/929233d0677c41250d4d4f78e4d47a0d&quot; target=&quot;_blank&quot;&gt;02-for-loops-functions&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gist.github.com/planet-ai-2023/060e4c540573f2ea1002fdb0b48d5407&quot; target=&quot;_blank&quot;&gt;03-dictionaries&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gist.github.com/planet-ai-2023/8c345c386484b7a5d8337c6d7083a07a&quot; target=&quot;_blank&quot;&gt;03-plots&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gist.github.com/planet-ai-2023/b6739607d4d01aceb93c68012f900668&quot; target=&quot;_blank&quot;&gt;04-tuples&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.google.com/document/d/1D77UxboUtroG3J1APK84uA3uBjwH3408QdnRxLY4-y0/edit?usp=sharing&quot; target=&quot;_blank&quot;&gt;04-rotation-matrix&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ocw.mit.edu/courses/6-034-artificial-intelligence-fall-2010/resources/lecture-11-learning-identification-trees-disorder/&quot; target=&quot;_blank&quot;&gt;04-Patrick Winston on Decision Tree&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gist.github.com/planet-ai-2023/3af22f24ffe4294deb22e78e74631079&quot; target=&quot;_blank&quot;&gt;04-pandas&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gist.github.com/planet-ai-2023/7436e303935fa84e97207c17f61a5a4e&quot; target=&quot;_blank&quot;&gt;05-json&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gist.github.com/planet-ai-2023/c0788ce0a08867467aed65301a893954&quot; target=&quot;_blank&quot;&gt;05-html&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Colabs for you to try:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gist.github.com/planet-ai-2023/182437bbe972b9a24d5e0754ba308b54&quot; target=&quot;_blank&quot;&gt;color-transfer&lt;/a&gt; &lt;a href=&quot;https://www.researchgate.net/publication/220518215_Color_Transfer_between_Images&quot; target=&quot;_blank&quot;&gt;[article]&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gist.github.com/planet-ai-2023/0d8e8c6c6a7c4cdebd6a1808010f487c&quot; target=&quot;_blank&quot;&gt;style-transfer&lt;/a&gt; &lt;a href=&quot;https://arxiv.org/abs/1508.06576&quot; target=&quot;_blank&quot;&gt;[article]&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://colab.research.google.com/github/TheLastBen/fast-stable-diffusion/blob/main/fast_stable_diffusion_AUTOMATIC1111.ipynb&quot; target=&quot;_blank&quot;&gt;stable-diffusion-webui&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gist.github.com/planet-ai-2023/21088a36d42b8c1e71fa179440ef1d63&quot; target=&quot;_blank&quot;&gt;chatbot&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;week-2&quot;&gt;Week 2&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;When&lt;/strong&gt;: June 10- June 14, 9am-4pm with one-hour break from 11am to 12pm  &lt;br /&gt;
+&lt;strong&gt;Who&lt;/strong&gt;: Layal Bou Hamdan &lt;br /&gt;
+&lt;strong&gt;What&lt;/strong&gt;: Math for AI/ML for high school students&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://colab.research.google.com/drive/1eE3H_vzdnA5P8lCcxGUBw6XjJ98IhJFE?usp=sharing&quot; target=&quot;_blank&quot;&gt;day1.ipynb&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://colab.research.google.com/drive/1nQHdeh8w7cc60titt-kSoqiugQerFCp7?usp=sharing&quot; target=&quot;_blank&quot;&gt;day1_practice.ipynb&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://colab.research.google.com/drive/1hhH33CZp3dgHAFeTS6lc9fJFwSsof9VC?usp=sharing&quot; target=&quot;_blank&quot;&gt;day2.ipynb&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://colab.research.google.com/drive/1wDTuJXsKxHjTU5sqG5kyS6PZsrpEQtsO?usp=sharing&quot; target=&quot;_blank&quot;&gt;day2_practice.ipynb&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://colab.research.google.com/drive/1e-uZl455Ru4N3IFaaHAxEhbmeI6-ClCK?usp=sharing&quot; target=&quot;_blank&quot;&gt;day3.ipynb&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://colab.research.google.com/drive/15TQ1ua6LGyX6seWC4BymVVNHVEUZ3esF?usp=sharing&quot; target=&quot;_blank&quot;&gt;day3_practice.ipynb&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://colab.research.google.com/drive/1ISaBtwW1zuXITisrY38VrdlOJ3oDDGAN?usp=sharing&quot; target=&quot;_blank&quot;&gt;day4.ipynb&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://colab.research.google.com/drive/1OvnHEfIJ0uNq65P44sVLy2kbMcNXTDgO?usp=sharing&quot; target=&quot;_blank&quot;&gt;day4_practice.ipynb&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://colab.research.google.com/drive/10IiJY1MinExVckd6db9ApM3eveuYSzDN?usp=sharing&quot; target=&quot;_blank&quot;&gt;day5.ipynb&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://colab.research.google.com/drive/1g9J7MIwEoX2XK7RoMrf0L6PlscVgvbwb?usp=sharing&quot; target=&quot;_blank&quot;&gt;day5_practice.ipynb&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;week-3&quot;&gt;Week 3&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;When&lt;/strong&gt;: June 17- June 21, 9am-4pm with one-hour break from 11am to 12pm &lt;br /&gt;
+&lt;strong&gt;Who&lt;/strong&gt;: Pengyu Hong, Zhengyang Zhou &lt;br /&gt;
+&lt;strong&gt;What&lt;/strong&gt;: Convolutional Neural Networks, and other topics&lt;/p&gt;
+
+&lt;p&gt;AI/ML&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.google.com/presentation/d/1kPPTRz3n9AvP1uc_hbwsZ45v1Ijf9ObU/edit?usp=sharing&amp;amp;ouid=113200546422009820244&amp;amp;rtpof=true&amp;amp;sd=true&quot; target=&quot;_blank&quot;&gt;Introduction to AI/ML&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://docs.google.com/presentation/d/1til4FIY5skfI1pHzeF9Cnuh-URUbL9rk/edit?usp=sharing&amp;amp;ouid=113200546422009820244&amp;amp;rtpof=true&amp;amp;sd=true&quot; target=&quot;_blank&quot;&gt;Main types of ML&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://colab.research.google.com/drive/1gyPZGIgPM4BpEY3lgVQJs34K9ifnBZg-?usp=sharing&quot; target=&quot;_blank&quot;&gt;KMeans_colab&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://colab.research.google.com/drive/1p7jjLCmdkk1k58abyT46ia8ayLzhGl4e?usp=sharing&quot; target=&quot;_blank&quot;&gt;Linear_regression_colab&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://drive.google.com/file/d/1XHVM2H9bn3MOsLEGFIFgtNVMd6Z4XHhM/view?usp=sharing&quot; target=&quot;_blank&quot;&gt;KMeans_data1&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://drive.google.com/file/d/1XPuNZIp0RRHgz5rxDk673sfR_skTvbPY/view?usp=sharing&quot; target=&quot;_blank&quot;&gt;KMeans_data2&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://drive.google.com/file/d/14z308tP_oeB1kknQz4V-ArVBgQAwnFcX/view?usp=sharing&quot; target=&quot;_blank&quot;&gt;customer_data&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;MLP&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://colab.research.google.com/drive/1M7l7onN1-AIjoJr1pzfFKUfJ39ZlAumb?usp=sharing&quot; target=&quot;_blank&quot;&gt;hand_written_digit_recognition_colab&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://drive.google.com/drive/folders/1ujKkrC7xY0-lXp8ij8smXPTiZ_J05QEM?usp=sharing&quot; target=&quot;_blank&quot;&gt;style_transfer&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Convolutional Neural Netowrks&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://drive.google.com/file/d/1mpueGrEpn2ObBCvbd440sa2i90LYzlcC/view?usp=sharing&quot; target=&quot;_blank&quot;&gt;convolution_colab&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://drive.google.com/file/d/1TXZf_Ezr2XUTk6KyjbLqK8IkmldyLpk8/view?usp=sharing&quot; target=&quot;_blank&quot;&gt;hand_written_digit_recognition_with_cnn_colab&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://drive.google.com/file/d/16XLdVxbMfw99TPbrhWT5QifYPeaLax6T/view?usp=sharing&quot; target=&quot;_blank&quot;&gt;simplified_butterfly_recognition_colab&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://drive.google.com/file/d/1FvL-rBDXb1oxktmi0wxpC19i1j44ZoN3/view?usp=sharing&quot; target=&quot;_blank&quot;&gt;butterfly_recognition_colab&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://marcoqin.com/visualize_neural_net/cnn/2dc.html&quot; target=&quot;_blank&quot;&gt;an interative demo for practice&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Vision Transformer&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.google.com/presentation/d/1TepruqK2TqUUaiTjVrSIgVeyNuBcGTfp/edit?usp=sharing&amp;amp;ouid=113200546422009820244&amp;amp;rtpof=true&amp;amp;sd=true&quot; target=&quot;_blank&quot;&gt;vision_transformer_slides&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://drive.google.com/file/d/1IGkp9I8N9dmQsEKPEX6r5FarSEkLtpAj/view?usp=sharing&quot; target=&quot;_blank&quot;&gt;word_embedding_colab&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://drive.google.com/file/d/14QItvUS9RHfHLMjjnCl6GCaXrzXK4pYH/view?usp=sharing&quot; target=&quot;_blank&quot;&gt;simplified_vit_butterfly_recognition_colab&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://drive.google.com/file/d/16YQX5yjUyx3KVHL67lw5GqDGlOSmBi9w/view?usp=sharing&quot; target=&quot;_blank&quot;&gt;vit_butterfly_recognition_colab&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Diffusion Models&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://drive.google.com/file/d/1cnQkFpSMNtWkA-w0w7PhkyW3Gz3389A0/view?usp=sharing&quot; target=&quot;_blank&quot;&gt;diffusers_colab&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;More reading materials:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://aiindex.stanford.edu/report/&quot; target=&quot;_blank&quot;&gt;stanford AI index annual report&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://drive.google.com/file/d/1U1pv4beoy7QAochnvJqEPELP0S7y4MGw/view?usp=sharing&quot; target=&quot;_blank&quot;&gt;stanford AI index annual report and more&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 
 </description>
-        <pubDate>Sun, 31 Dec 2023 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2023/12/31/webinar-jan-26-lunar-narrative-through-apollo-petrographic-thin-sections/</link>
-        <guid isPermaLink="true">http://localhost:4000/2023/12/31/webinar-jan-26-lunar-narrative-through-apollo-petrographic-thin-sections/</guid>
+        <pubDate>Sat, 01 Jun 2024 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2024/06/01/summer-2024/</link>
+        <guid isPermaLink="true">http://localhost:4000/2024/06/01/summer-2024/</guid>
         
-        <category>events</category>
+        <category>AI</category>
+        
+        <category>summer2024</category>
+        
+        <category>projects</category>
+        
+        <category>planet</category>
         
         
       </item>
     
       <item>
-        <title>Our Creative Works [7]</title>
-        <description>&lt;p&gt;The following were some of our works by experimenting with emerging AI tools in the past few years.&lt;/p&gt;
+        <title>Readings for Planet+AI Summer 2024</title>
+        <description>&lt;p&gt;&lt;strong&gt;Questions we seek to answer&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;What is AI and what isn’t?&lt;/li&gt;
+  &lt;li&gt;What can AI do and cannot?&lt;/li&gt;
+  &lt;li&gt;What are the advantages and disadvantages of AI/ML?&lt;/li&gt;
+  &lt;li&gt;Should we learn programming /coding since AI can code?&lt;/li&gt;
+  &lt;li&gt;Which jobs will never be replaced by AI?&lt;/li&gt;
+  &lt;li&gt;What is the next billion-dollar startup?&lt;/li&gt;
+  &lt;li&gt;How can I use AI/ML to help my families, my communities and promote social good?&lt;/li&gt;
+  &lt;li&gt;Did Stable Diffusion steal art?&lt;/li&gt;
+  &lt;li&gt;Why do LLMs hallucinate?&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-md-9&quot;&gt;
-        &lt;div&gt;&lt;img src=&quot;/assets/images/rustic_1.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
-    &lt;/div&gt;    
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Video links&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=IvXZCocyU_M&amp;amp;t=11s&quot; target=&quot;_blank&quot;&gt;GPT-4o (Omni) math tutoring demo on Khan Academy&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=dBrdd7xg-dg&quot; target=&quot;_blank&quot;&gt;GPT-4o (Omni) Human interaction demo w/ Sal Khan&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=6htbyY3rH1w&quot; target=&quot;_blank&quot;&gt;Is the Future of Linear Algebra.. Random?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=BFld4EBO2RE&quot; target=&quot;_blank&quot;&gt;Painting a Landscape with Maths&lt;/a&gt;
+ &lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-md-9&quot;&gt;
-        &lt;div&gt;&lt;img src=&quot;/assets/images/rustic_2.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
-    &lt;/div&gt;    
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Articles and books&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://arstechnica.com/gadgets/2023/01/the-generative-ai-revolution-has-begun-how-did-we-get-here/&quot; target=&quot;_blank&quot;&gt;Haomiao Huang on The generative AI revolution has begun—how did we get here?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www3.nd.edu/~powers/ame.20231/carnot1897.pdf&quot; target=&quot;_blank&quot;&gt;Reflections on Motive Power of Heat&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.deccanherald.com/opinion/ais-advances-will-echo-the-internet-not-the-steam-engine-2971889&quot; target=&quot;_blank&quot;&gt;AI’s Advances Will Echo the Internet, Not the Steam Engine&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://arxiv.org/html/2402.01817v3&quot; target=&quot;_blank&quot;&gt;Position: LLMs Can’t Plan, But Can Help Planning in LLM-Modulo Frameworks&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://arxiv.org/abs/2403.03206&quot; target=&quot;_blank&quot;&gt;Scaling Rectified Flow Transformers for High-Resolution Image Synthesis&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-md-3&quot;&gt;
-        &lt;div&gt;&lt;img src=&quot;/assets/images/butterfly_r_3.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-md-3&quot;&gt;
-        &lt;div&gt;&lt;img src=&quot;/assets/images/butterfly_r_4.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-md-3&quot;&gt;
-        &lt;div&gt;&lt;img src=&quot;/assets/images/butterfly_r_5.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;AI competitions for high school students&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cvpr.thecvf.com/Conferences/2024/CallForAIArt&quot; target=&quot;_blank&quot;&gt;CVPR AI Art Gallery 2024&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://neurips.cc/Conferences/2024/CallforHighSchoolProjects&quot; target=&quot;_blank&quot;&gt;NeurIPS Call for High School Projects&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-md-3&quot;&gt;
-        &lt;div&gt;&lt;img src=&quot;/assets/images/p_1.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-md-3&quot;&gt;
-        &lt;div&gt;&lt;img src=&quot;/assets/images/p_2.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-md-3&quot;&gt;
-        &lt;div&gt;&lt;img src=&quot;/assets/images/p_3.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Top AI conferences&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://neurips.cc/&quot; target=&quot;_blank&quot;&gt;NeurIPS: Neural Information Processing Systems&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.siggraph.org/&quot; target=&quot;_blank&quot;&gt;SIGGRAPH: Special Interest Group on Computer Graphics and Interactive Techniques by ACM&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ijcai.org/&quot; target=&quot;_blank&quot;&gt;IJCAI: International Joint Conferences on Artificial Intelligence&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://iccv2023.thecvf.com&quot; target=&quot;_blank&quot;&gt;ICCV: International Conference on Computer Vision&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://iclr.cc/&quot; target=&quot;_blank&quot;&gt;ICLR: International Conference on Learning Representations&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://icml.cc/&quot; target=&quot;_blank&quot;&gt;ICML: International Conference on Machine Learning&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://2024.aclweb.org/&quot; target=&quot;_blank&quot;&gt;ACL: Annual Meeting of the Association for Computational Linguistics&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://aaai.org/conference/aaai/&quot; target=&quot;_blank&quot;&gt;AAAI Conference on Artificial Intelligence: AAAI Conference on Artificial Intelligence&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cvpr.thecvf.com/&quot; target=&quot;_blank&quot;&gt;CVPR: The IEEE/CVF Conference on Computer Vision and Pattern Recognition&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://2024.emnlp.org/&quot; target=&quot;_blank&quot;&gt;EMNLP: Empirical Methods in Natural Language Processing&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-md-3&quot;&gt;
-        &lt;div&gt;&lt;img src=&quot;/assets/images/p_4.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-md-3&quot;&gt;
-        &lt;div&gt;&lt;img src=&quot;/assets/images/p_5.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-md-3&quot;&gt;
-        &lt;div&gt;&lt;img src=&quot;/assets/images/p_6.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-md-3&quot;&gt;
-        &lt;div&gt;&lt;img src=&quot;/assets/images/p_7.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
+&lt;p&gt;&lt;strong&gt;Python &amp;amp; others&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/exo7math/python1-en-exo7?tab=readme-ov-file&quot; target=&quot;_blank&quot;&gt;Python in high school - Algorithms and mathematics&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
-        <pubDate>Sun, 31 Dec 2023 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2023/12/31/our-creative-works-7/</link>
-        <guid isPermaLink="true">http://localhost:4000/2023/12/31/our-creative-works-7/</guid>
-        
-        <category>exhibits</category>
+        <pubDate>Sat, 01 Jun 2024 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2024/06/01/readings_for_summer2024/</link>
+        <guid isPermaLink="true">http://localhost:4000/2024/06/01/readings_for_summer2024/</guid>
         
         <category>AI</category>
         
+        <category>tutorials</category>
         
-      </item>
-    
-      <item>
-        <title>Our Creative Works [6]</title>
-        <description>&lt;p&gt;The following were some of our works by experimenting with emerging AI tools in the past few years.&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-md-8&quot;&gt;
-        &lt;div&gt;&lt;img src=&quot;/assets/images/basalt_1.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-md-8&quot;&gt;
-        &lt;div&gt;&lt;img src=&quot;/assets/images/basalt_2.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-md-8&quot;&gt;
-        &lt;div&gt;&lt;img src=&quot;/assets/images/basalt_3.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-md-8&quot;&gt;
-        &lt;div&gt;&lt;img src=&quot;/assets/images/basalt_4.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-md-8&quot;&gt;
-        &lt;div&gt;&lt;img src=&quot;/assets/images/basalt_5.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-md-8&quot;&gt;
-        &lt;div&gt;&lt;img src=&quot;/assets/images/basalt_6.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-md-8&quot;&gt;
-        &lt;div&gt;&lt;img src=&quot;/assets/images/basalt_7.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-md-8&quot;&gt;
-        &lt;div&gt;&lt;img src=&quot;/assets/images/supervolcano_1.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-md-8&quot;&gt;
-        &lt;div&gt;&lt;img src=&quot;/assets/images/supervolcano_2.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sun, 31 Dec 2023 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2023/12/31/our-creative-works-6/</link>
-        <guid isPermaLink="true">http://localhost:4000/2023/12/31/our-creative-works-6/</guid>
+        <category>resources</category>
         
-        <category>exhibits</category>
-        
-        <category>AI</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Our Creative Works [5]</title>
-        <description>&lt;p&gt;The following were some of our works by experimenting with emerging AI tools in the past few years.&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-md-8&quot;&gt;
-        &lt;div&gt;&lt;img src=&quot;/assets/images/astronaut_watercolor.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-md-8&quot;&gt;
-        &lt;div&gt;&lt;img src=&quot;/assets/images/girl_f_1.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-md-8&quot;&gt;
-        &lt;div&gt;&lt;img src=&quot;/assets/images/girl_f_2.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-md-8&quot;&gt;
-        &lt;div&gt;&lt;img src=&quot;/assets/images/girl_f_3.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-md-8&quot;&gt;
-        &lt;div&gt;&lt;img src=&quot;/assets/images/girl_f_4.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-md-8&quot;&gt;
-        &lt;div&gt;&lt;img src=&quot;/assets/images/girl_f_5.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-md-8&quot;&gt;
-        &lt;div&gt;&lt;img src=&quot;/assets/images/girl_f_6.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-md-7&quot;&gt;
-        &lt;div&gt;&lt;img src=&quot;/assets/images/girl_f_7.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sun, 31 Dec 2023 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2023/12/31/our-creative-works-5/</link>
-        <guid isPermaLink="true">http://localhost:4000/2023/12/31/our-creative-works-5/</guid>
-        
-        <category>exhibits</category>
-        
-        <category>AI</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Our Creative Works [4]</title>
-        <description>&lt;p&gt;The following were some of our works by experimenting with emerging AI tools in the past few years.&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-md-4&quot;&gt;
-        &lt;div&gt;&lt;img src=&quot;/assets/images/d_1.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-md-4&quot;&gt;
-        &lt;div&gt;&lt;img src=&quot;/assets/images/d_2.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
-    &lt;/div&gt;    
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-md-3&quot;&gt;
-        &lt;div&gt;&lt;img src=&quot;/assets/images/astronaut_1.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-md-3&quot;&gt;
-        &lt;div&gt;&lt;img src=&quot;/assets/images/astronaut_2.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-md-3&quot;&gt;
-        &lt;div&gt;&lt;img src=&quot;/assets/images/astronaut_3.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-md-3&quot;&gt;
-        &lt;div&gt;&lt;img src=&quot;/assets/images/astronaut_4.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
-    &lt;/div&gt;    
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-md-3&quot;&gt;
-        &lt;div&gt;&lt;img src=&quot;/assets/images/astronaut_5.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-md-3&quot;&gt;
-        &lt;div&gt;&lt;img src=&quot;/assets/images/astronaut_6.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-md-3&quot;&gt;
-        &lt;div&gt;&lt;img src=&quot;/assets/images/astronaut_7.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-md-3&quot;&gt;
-        &lt;div&gt;&lt;img src=&quot;/assets/images/astronaut_8.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
-    &lt;/div&gt;    
-&lt;/div&gt;
-</description>
-        <pubDate>Sun, 31 Dec 2023 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2023/12/31/our-creative-works-4/</link>
-        <guid isPermaLink="true">http://localhost:4000/2023/12/31/our-creative-works-4/</guid>
-        
-        <category>exhibits</category>
-        
-        <category>AI</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Our Creative Works [3]</title>
-        <description>&lt;p&gt;The following were some of our works by experimenting with emerging AI tools in the past few years.&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-md-3&quot;&gt;
-        &lt;div&gt;&lt;img src=&quot;/assets/images/rover_m_1.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-md-7&quot;&gt;
-        &lt;div&gt;&lt;img src=&quot;/assets/images/rover_m_5.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
-    &lt;/div&gt;    
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-md-3&quot;&gt;
-        &lt;div&gt;&lt;img src=&quot;/assets/images/rover_m_2.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-md-7&quot;&gt;
-        &lt;div&gt;&lt;img src=&quot;/assets/images/rover_m_6.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
-    &lt;/div&gt;    
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-md-3&quot;&gt;
-        &lt;div&gt;&lt;img src=&quot;/assets/images/rover_m_3.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-md-7&quot;&gt;
-        &lt;div&gt;&lt;img src=&quot;/assets/images/rover_m_7.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
-    &lt;/div&gt;    
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-md-3&quot;&gt;
-        &lt;div&gt;&lt;img src=&quot;/assets/images/rover_m_4.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-md-7&quot;&gt;
-        &lt;div&gt;&lt;img src=&quot;/assets/images/rover_m_8.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
-    &lt;/div&gt;    
-&lt;/div&gt;
-</description>
-        <pubDate>Sun, 31 Dec 2023 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2023/12/31/our-creative-works-3/</link>
-        <guid isPermaLink="true">http://localhost:4000/2023/12/31/our-creative-works-3/</guid>
-        
-        <category>exhibits</category>
-        
-        <category>AI</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Our Creative Works [2]</title>
-        <description>&lt;p&gt;The following were some of our works by experimenting with emerging AI tools in the past few years.&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-md-3&quot;&gt;
-        &lt;div&gt;&lt;img src=&quot;/assets/images/alaska.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-md-3&quot;&gt;
-        &lt;div&gt;&lt;img src=&quot;/assets/images/blue_dunes.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-md-3&quot;&gt;
-        &lt;div&gt;&lt;img src=&quot;/assets/images/Didymos_and_Dimorphos.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-md-3&quot;&gt;
-        &lt;div&gt;&lt;img src=&quot;/assets/images/comet.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;div class=&quot;row&quot;&gt;    
-    &lt;div class=&quot;col-md-9&quot;&gt;
-        &lt;div&gt;&lt;img src=&quot;/assets/images/flora_space_exploration.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-md-3&quot;&gt;
-        &lt;div&gt;&lt;img src=&quot;/assets/images/marmolada_glacier_italy.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-md-3&quot;&gt;
-        &lt;div&gt;&lt;img src=&quot;/assets/images/penguins_coulman_island_antarctica.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-md-3&quot;&gt;
-        &lt;div&gt;&lt;img src=&quot;/assets/images/nabro_volcano.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-md-3&quot;&gt;
-        &lt;div&gt;&lt;img src=&quot;/assets/images/supervolcano.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;div&gt;&lt;img src=&quot;/assets/images/ESP_034830_1670.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-md-9&quot;&gt;
-        &lt;div&gt;&lt;img src=&quot;/assets/images/persistent_aeolian.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;div&gt;&lt;img src=&quot;/assets/images/MOPclouds.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;div&gt;&lt;img src=&quot;/assets/images/sample_return_mission.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;div&gt;&lt;img src=&quot;/assets/images/drone_mars_mission.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;div&gt;&lt;img src=&quot;/assets/images/surviving_on_mars.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-md-3&quot;&gt;
-        &lt;div&gt;&lt;img src=&quot;/assets/images/brenham1.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
-    &lt;/div&gt;
-    
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sun, 31 Dec 2023 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2023/12/31/our-creative-works-2/</link>
-        <guid isPermaLink="true">http://localhost:4000/2023/12/31/our-creative-works-2/</guid>
-        
-        <category>exhibits</category>
-        
-        <category>AI</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Our Creative Works [1]</title>
-        <description>&lt;p&gt;I left the desert in a summer with two suitcases. And I arrived with two suitcases. It was raining on that day, as I remember. My students and I were very grateful that the art galleries would include our works. However, I wasn’t able to participate in any of the discussions /talks.&lt;/p&gt;
-
-&lt;p&gt;The following were some of our works by experimenting with emerging AI tools in the past few years.&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-md-3&quot;&gt;
-        &lt;div&gt;&lt;img src=&quot;/assets/images/surviving_tan_1.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-md-3&quot;&gt;
-        &lt;div&gt;&lt;img src=&quot;/assets/images/surviving_tan_2.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;div&gt;&lt;img src=&quot;/assets/images/shining.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;div class=&quot;row&quot;&gt;    
-    &lt;div class=&quot;col-md-3&quot;&gt;
-        &lt;div&gt;&lt;img src=&quot;/assets/images/g1.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-md-3&quot;&gt;
-        &lt;div&gt;&lt;img src=&quot;/assets/images/tonga.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-md-6&quot;&gt;
-        &lt;div&gt;&lt;img src=&quot;/assets/images/death_valley.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-md-3&quot;&gt;
-        &lt;div&gt;&lt;img src=&quot;/assets/images/fl1.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-md-3&quot;&gt;
-        &lt;div&gt;&lt;img src=&quot;/assets/images/fl2.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-md-3&quot;&gt;
-        &lt;div&gt;&lt;img src=&quot;/assets/images/fl3.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-md-3&quot;&gt;
-        &lt;div&gt;&lt;img src=&quot;/assets/images/fl4.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-md-12&quot;&gt;
-        &lt;div&gt;&lt;img src=&quot;/assets/images/t1.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
-    &lt;/div&gt;   
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-md-12&quot;&gt;
-        &lt;div&gt;&lt;img src=&quot;/assets/images/t2.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
-    &lt;/div&gt;    
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-md-12&quot;&gt;
-        &lt;div&gt;&lt;img src=&quot;/assets/images/t3.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
-    &lt;/div&gt;    
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-md-12&quot;&gt;
-        &lt;div&gt;&lt;img src=&quot;/assets/images/t4.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
-    &lt;/div&gt;    
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-md-12&quot;&gt;
-        &lt;div&gt;&lt;img src=&quot;/assets/images/t5.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
-    &lt;/div&gt;    
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-md-12&quot;&gt;
-        &lt;div&gt;&lt;img src=&quot;/assets/images/t6.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
-    &lt;/div&gt;    
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-md-12&quot;&gt;
-        &lt;div&gt;&lt;img src=&quot;/assets/images/t7.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
-    &lt;/div&gt;    
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-md-12&quot;&gt;
-        &lt;div&gt;&lt;img src=&quot;/assets/images/t8.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
-    &lt;/div&gt;    
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-md-12&quot;&gt;
-        &lt;div&gt;&lt;img src=&quot;/assets/images/t9.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
-    &lt;/div&gt;    
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-md-12&quot;&gt;
-        &lt;div&gt;&lt;img src=&quot;/assets/images/t10.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
-    &lt;/div&gt;    
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-md-3&quot;&gt;
-        &lt;div&gt;&lt;img src=&quot;/assets/images/sf1.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-md-3&quot;&gt;
-        &lt;div&gt;&lt;img src=&quot;/assets/images/sf2.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-md-3&quot;&gt;
-        &lt;div&gt;&lt;img src=&quot;/assets/images/sf3.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;col-md-3&quot;&gt;
-        &lt;div&gt;&lt;img src=&quot;/assets/images/sf4.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/div&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sun, 31 Dec 2023 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2023/12/31/our-creative-works-1/</link>
-        <guid isPermaLink="true">http://localhost:4000/2023/12/31/our-creative-works-1/</guid>
-        
-        <category>exhibits</category>
-        
-        <category>AI</category>
+        <category>summer2024</category>
         
         
       </item>
