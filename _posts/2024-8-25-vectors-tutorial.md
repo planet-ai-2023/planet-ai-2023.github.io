@@ -10,6 +10,6 @@ A vector is a quantity that involves both magnitude (size or length) and directi
 
 <br/>
 <br/>
-<script src="https://gist.github.com/planet-ai-2023/8062c9b504476bfd0c7aa625cb912175.js"></script>
+<script src="https://gist.github.com/planet-ai-2023/ac84e8b09ce9b4a41b9dd29535cfbc58.js"></script>
 <br/>
 <br/>

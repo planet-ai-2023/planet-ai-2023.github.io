@@ -30,4 +30,4 @@ Vectors, matrices, and linear transformations are fundamental math concepts whic
 
 <br/>
 **COLABS**   
-- vectors etc.: [https://gist.github.com/planet-ai-2023/8062c9b504476bfd0c7aa625cb912175](https://gist.github.com/planet-ai-2023/8062c9b504476bfd0c7aa625cb912175){:target="_blank"}
+- vectors etc.: [https://gist.github.com/planet-ai-2023/ac84e8b09ce9b4a41b9dd29535cfbc58](https://gist.github.com/planet-ai-2023/ac84e8b09ce9b4a41b9dd29535cfbc58){:target="_blank"}
