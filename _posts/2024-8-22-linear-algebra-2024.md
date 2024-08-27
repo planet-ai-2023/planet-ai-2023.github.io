@@ -15,7 +15,6 @@ We will use the following books:
 - **<em>Linear Algebra and Learning from Data</em>** by Gilbert Strang:
 [https://math.mit.edu/~gs/learningfromdata/](https://math.mit.edu/~gs/learningfromdata/){:target="_blank"}  
 - **<em> Essential Math for Games Programmers</em>** by James M. Van Verth & Lars M. Bishop, & AK Peters: [http://www.essentialmath.com/book.htm](http://www.essentialmath.com/book.htm){:target="_blank"}   
-- **<em>The Manga Guide to Linear Algebra</em>** by Shin Takahashi & Iroha Inoue: [https://nostarch.com/linearalgebra](https://nostarch.com/linearalgebra){:target="_blank"}   
 
 <br/>
 **REGISTRATION LINK**   
