@@ -9,6 +9,11 @@ tags: [planet, AI, tutorials, resources ]
 **LINEAR ALGEBRA**   
 We usually meet on Saturday 4pm Eastern over Zoom for meetings and discussions on topics, including Linear Algebra, coding, computer graphics, computer vision, 3D math, and creating games. These meetings are for anyone who would like to get a good overview of Linear Algebra in a relatively short amount of time. Colab notebooks with all code in Python, PyTorch, PyGame, PlotOptiX, PyOpenGL, and NumPy will be provided. We are not going to collect any data from participants in these meetings and discussions; however, all our Zoom meetings will be recorded. These meetings and discussions are totally seperate from our summer programs and PD workshops. Our summer programs and PD workshops are for educational research purposes and each participant gets a stipend for attending our educational research; and because of that, we collect data for educational research only in our summer programs and PD workshops. During June 2024, 47 high school students from the Knoxville-Oak Ridge area participated in our summer program; and each of them got a stipend of $1,200 for attending our 3-week Planet+AI program (with 2 exceptions). Only US Citizens are eligible for our summer programs and PD workshops. 
 
+**What is Linear Algebra?**   
+Linear Algebra is the branch of mathematics concerning linear equations, linear maps, and their representations in vector spaces and through matrices (citing from wikipedia: https://en.wikipedia.org/wiki/Linear_algebra).
+
+Broadly speaking, Linear Algebra is about translating something residing in an m-dimensional space into a corresponding shape in an n-dimensional space- from three to two dimensions, from two to three dimensions, or from two to the same two dimensions, etc.
+
 <br/>
 **TEXTBOOKS**   
 We will use the following books:
