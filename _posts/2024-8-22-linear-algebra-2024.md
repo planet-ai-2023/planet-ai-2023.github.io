@@ -36,3 +36,4 @@ Vectors, matrices, and linear transformations are fundamental math concepts whic
 **COLABS**   
 - vectors: [https://gist.github.com/planet-ai-2023/59e5ad42d8a64943eab59f86e3e67da1](https://gist.github.com/planet-ai-2023/59e5ad42d8a64943eab59f86e3e67da1){:target="_blank"}
 - linear systems: [https://gist.github.com/planet-ai-2023/b1656d62d35c7ce6ef7f141a105858a3](https://gist.github.com/planet-ai-2023/b1656d62d35c7ce6ef7f141a105858a3){:target="_blank"}
+- EATER game: [https://github.com/planet-ai-2023/datasets-games-others/blob/main/eater.py](https://github.com/planet-ai-2023/datasets-games-others/blob/main/eater.py){:target="_blank"}
